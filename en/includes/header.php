@@ -27,9 +27,14 @@
   	<div class="navbar navbar-fixed-top">
 	   <div class="navbar-inner">
 	     <div class="container">
+	        <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+		        <span class="icon-bar"></span>
+		        <span class="icon-bar"></span>
+		        <span class="icon-bar"></span>
+		    </a>
 	       <a class="brand" href="../">Jose Viso</a>
 		   
-	       <div class="pull-right" id="main-menu">
+	       <div class="nav-collapse collapse pull-right" id="main-menu">
 		       <ul class="nav" id="main-menu-left">
 		          <li <?php if (strpos($_SERVER['PHP_SELF'], 'about.php')) echo 'class="active"';?>><a href="<?php echo $base;?>/en/about">About</a></li>
 				  <li <?php if (strpos($_SERVER['PHP_SELF'], 'portfolio')) echo 'class="active"';?>><a href="<?php echo $base;?>/en/portfolio">Portfolio</a></li>
