@@ -27,14 +27,21 @@
   	<div class="navbar navbar-fixed-top">
 	   <div class="navbar-inner">
 	     <div class="container">
+			<a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+		        <span class="icon-bar"></span>
+		        <span class="icon-bar"></span>
+		        <span class="icon-bar"></span>
+		    </a>
+
 	       <a class="brand" href="../">Jose Viso</a>
-		   <a class="btn btn-primary pull-right" href="<?php echo $base; ?>/en/">English</a></li>
+		   
 	       <div class="pull-right" id="main-menu">
-		       <ul class="nav" id="main-menu-left">
+		       <ul class="nav nav-collapse collapse" id="main-menu-left">
 		          <li <?php if (strpos($_SERVER['PHP_SELF'], 'sobre-mi.php')) echo 'class="active"';?>><a href="<?php echo $base;?>/es/sobre-mi">Sobre mí</a></li>
 				  <li <?php if (strpos($_SERVER['PHP_SELF'], 'portfolio')) echo 'class="active"';?>><a href="<?php echo $base;?>/es/portfolio">Portfolio</a></li>
 				  <li <?php if (strpos($_SERVER['PHP_SELF'], 'contacto.php')) echo 'class="active"';?>><a href="<?php echo $base;?>/es/contacto">Contacto</a></li>
 				  <li class="divider-vertical"></li>
+				  <a class="btn btn-primary pull-right" href="<?php echo $base; ?>/en/">English</a></li>
 		       </ul>
 	       </div>
 	     </div>
