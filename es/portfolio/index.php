@@ -73,7 +73,7 @@
 		<!-- Link to the PDF version of the portfolio -->
 		<div class="row">
 			<div class="centered well">
-				<a href="../portfolio/portfolio_es.pdf"><button class="btn btn-info" type="button"><h3>Descarga la versión en PDF</h3></button></a>
+				<a href="../portfolio/portfolio_es.pdf"><button class="btn btn-info btn-large" type="button">Descarga la versión en PDF</button></a>
 			</div>
 		</div>
 
