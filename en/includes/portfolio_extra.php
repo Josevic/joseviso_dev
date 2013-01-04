@@ -1,7 +1,7 @@
 		<!-- Link to the PDF version of the portfolio -->
 		<div class="row">
 			<div class="centered well">
-				<a href="../portfolio/portfolio_en.pdf"><button class="btn btn-info" type="button"><h3>Download the PDF version</h3></button></a>
+				<a href="../portfolio/portfolio_en.pdf"><button class="btn btn-info btn-large" type="button">Download the PDF version</button></a>
 			</div>
 		</div>
 
