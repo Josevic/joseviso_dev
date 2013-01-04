@@ -11,10 +11,10 @@
 		  <li id="ec">
 		    <div class="thumbnail span3">
 		    	<a href="evacriado">
-		    		<img src="../../images/thumb_evaspa.jpg" alt="">
+		    		<img src="../../images/thumb_evaspa.jpg" alt="" width="260" height="197">
 		    		<h3>Centro Eva Criado</h3>
 		    	</a>
-		    	<p>Rediseño de la web del centro de Belleza y Masaje Eva Criado</p>
+		    	<!-- <p>Rediseño de la web del centro de Belleza y Masaje Eva Criado</p> -->
 			</div>
 		  </li>	
 		
@@ -24,7 +24,7 @@
 		    		<img src="../../images/thumb_smartBite.png" alt="">
 		    		<h3>Smart Bite</h3>
 		    	</a>
-		    	<p>App para comer sano</p>
+		    	<!-- <p>App para comer sano</p> -->
 			</div>
 		  </li>
 		
@@ -34,7 +34,7 @@
 		    		<img src="../../images/thumb_streetRockstars.png" alt="">
 		    		<h3>Street Rockstars</h3>
 		    	</a>
-		    	<p>Proyecto para encontrar a los mejores músicos callejeros del mundo</p>
+		    	<!-- <p>Proyecto para encontrar a los mejores músicos callejeros del mundo</p> -->
 			</div>
 		  </li>
 		
@@ -44,7 +44,7 @@
 		    		<img src="../../images/thumb_superSimple_mobile.png" alt="">
 		    		<h3>SuperSimple Mobile</h3>
 		    	</a>
-		    	<p>Concepto de teléfono móvil para gente no acustumbrada a las últimas tecnologías</p>
+		    	<!-- <p>Concepto de teléfono móvil para gente no acustumbrada a las últimas tecnologías</p> -->
 			</div>
 		  </li>
 		
@@ -54,7 +54,7 @@
 		    		<img src="http://flickholdr.com/270/205/television" alt="">
 		    		<h3>NextEpisode</h3>
 		    	</a>
-		    	<p>App para saber por dónde vas en tus series favoritas</p>
+		    	<!-- <p>App para saber por dónde vas en tus series favoritas</p> -->
 			</div>
 		  </li>
 		
@@ -64,7 +64,7 @@
 		    		<img src="../../images/thumb_takeMeThere.png" alt="">
 		    		<h3>Take Me There</h3>
 		    	</a>
-		    	<p>Ve sitios como si estuvieses allí</p>
+		    	<!-- <p>Ve sitios como si estuvieses allí</p> -->
 			</div>
 		  </li>
 	
