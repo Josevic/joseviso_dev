@@ -8,16 +8,17 @@
 		<!-- Projects -->	
 		<ul class="thumbnails pull-left">
 			
+		<!--	
 		  <li id="ec">
 		    <div class="thumbnail span3">
 		    	<a href="evacriado">
 		    		<img src="../../images/thumb_evaspa.jpg" alt="" width="260" height="197">
 		    		<h3>Centro Eva Criado</h3>
 		    	</a>
-		    	<!-- <p>Rediseño de la web del centro de Belleza y Masaje Eva Criado</p> -->
 			</div>
 		  </li>	
-		
+		-->
+
 		  <li id="sb">
 		    <div class="thumbnail span3">
 		    	<a href="smartbite">
@@ -48,15 +49,16 @@
 			</div>
 		  </li>
 		
+		<!-- 
 		  <li id="ne">
 		    <div class="thumbnail span3">
 		    	<a href="nextepisode">
 		    		<img src="http://flickholdr.com/270/205/television" alt="">
 		    		<h3>NextEpisode</h3>
 		    	</a>
-		    	<!-- <p>App para saber por dónde vas en tus series favoritas</p> -->
 			</div>
 		  </li>
+		-->
 		
 		  <li id="tmt">
 		    <div class="thumbnail span3">

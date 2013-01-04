@@ -7,7 +7,8 @@
 
 		<!-- Projects -->	
 		<ul class="thumbnails pull-left">
-			
+		
+		<!--	
 		  <li id="ec">
 		    <div class="thumbnail span3">
 		    	<a href="evacriado">
@@ -16,6 +17,7 @@
 		    	</a>	
 			</div>
 		  </li>	
+		-->
 		
 		  <li id="sb">
 		    <div class="thumbnail span3">
@@ -45,6 +47,7 @@
 			</div>
 		  </li>
 		
+		<!--
 		  <li id="ne">
 		    <div class="thumbnail span3">
 		    	<a href="nextepisode">
@@ -53,6 +56,7 @@
 		    	</a>
 			</div>
 		  </li>
+		-->
 		
 		  <li id="tmt">
 		    <div class="thumbnail span3">
