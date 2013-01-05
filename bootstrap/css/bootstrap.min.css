@@ -918,3 +918,8 @@ body {
     *display:inline; /* ie7 fix */
     float: none; /* this is the part that makes it work */
 }
+
+ul#social_networks_bar .thumbnail {
+	border: 0;
+	box-shadow: 0 0 0 rgba(0, 0, 0, 0);
+}
