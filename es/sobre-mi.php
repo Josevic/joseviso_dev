@@ -23,7 +23,7 @@
 
 		<p>Durante ese tiempo me di cuenta de que quería enfocar mi carrera hacia facilitar la interacción entre personas y ordenadores. Así que tras un año en el extranjero decidí volver a España para dedicarme completamente a este propósito.</p>
 
-		<p>Desde entonces trabajo como <em>Consultor de Experiencia de Usuario</em>, aprendiendo y experimentando sobre los temas que más me interesan de este campo. Continuará.</p>
+		<p>Desde entonces trabajo como <em>Diseñador de Experiencia de Usuario</em>, aprendiendo y experimentando sobre los temas que más me interesan de este campo. Continuará.</p>
 
 		<h2 class="spacer">Estudios</h2>
 		<p>Estudié <em>Ingeniería Técnica en Informática de Gestión</em> en la <a href="http://www.ual.es/">Universidad de Almería</a>. Durante la carrera mis asignaturas favoritas eran las relacionadas con el Diseño de Software y la Interfaz de Usuario.</p> Una vez terminé de estudiar, comencé a interesarme por el campo de la <a href="http://es.wikipedia.org/wiki/Usabilidad">Usabilidad</a>, a leer blogs sobre el tema y más tarde, a intentar poner en práctica estos principios en mi trabajo diario. A continuación empecé a leer más y más libros sobre eso, y fui interesándome progresivamente en las áreas de la <a href="http://es.wikipedia.org/wiki/Arquitectura_de_la_informaci%C3%B3n">Arquitectura de la Información</a> y el <a href="http://es.wikipedia.org/wiki/Dise%C3%B1o_de_interacci%C3%B3n">Diseño de Interacción</a> hasta llegar a cubrir lo que es la <a href="http://es.wikipedia.org/wiki/Experiencia_de_usuario">Experiencia de Usuario</a> y la <a href="http://es.wikipedia.org/wiki/Interacci%C3%B3n_persona-computador">Interacción Persona-Ordenador</a>.</p> 		
