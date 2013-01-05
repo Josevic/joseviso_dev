@@ -21,7 +21,7 @@
 
 		<p>During that time I realized I wanted to focus my career towards facilitating the interaction between people and computers. So after one year in The Netherlands I decided to go back to Spain to work on that.</p>
 
-		<p>Since then I live there, working as a User Experience Designer, learning everyday and trying out new techniques for the matters I am interested in. <em>To be continued</em>.</p>
+		<p>Since then I live there, working as a <em>User Experience Designer</em>, learning everyday and trying out new techniques for the matters I am interested in. <em>To be continued</em>.</p>
 
 
 		<h2 class="spacer">Studies</h2>
