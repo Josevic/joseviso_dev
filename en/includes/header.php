@@ -39,8 +39,6 @@
 		          <li <?php if (strpos($_SERVER['PHP_SELF'], 'about.php')) echo 'class="active"';?>><a href="<?php echo $base;?>/en/about">About</a></li>
 				  <li <?php if (strpos($_SERVER['PHP_SELF'], 'portfolio')) echo 'class="active"';?>><a href="<?php echo $base;?>/en/portfolio">Portfolio</a></li>
 				  <li <?php if (strpos($_SERVER['PHP_SELF'], 'contact.php')) echo 'class="active"';?>><a href="<?php echo $base;?>/en/contact">Contact</a></li>
-				  <li class="divider-vertical"></li> 
-				  <a class="btn btn-primary pull-right" href="<?php echo $base; ?>/es/">Castellano</a>
 		       </ul>
 	       </div>
 	     </div>
@@ -48,4 +46,6 @@
 	</div>
 
     <div class="container">
+
+    	<a class="pull-right" href="<?php echo $base; ?>/es/">En Castellano</a>
 	   

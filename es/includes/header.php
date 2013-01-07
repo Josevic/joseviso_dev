@@ -40,8 +40,6 @@
 		          <li <?php if (strpos($_SERVER['PHP_SELF'], 'sobre-mi.php')) echo 'class="active"';?>><a href="<?php echo $base;?>/es/sobre-mi">Sobre mí</a></li>
 				  <li <?php if (strpos($_SERVER['PHP_SELF'], 'portfolio')) echo 'class="active"';?>><a href="<?php echo $base;?>/es/portfolio">Portfolio</a></li>
 				  <li <?php if (strpos($_SERVER['PHP_SELF'], 'contacto.php')) echo 'class="active"';?>><a href="<?php echo $base;?>/es/contacto">Contacto</a></li>
-				  <li class="divider-vertical"></li>
-				  <a class="btn btn-primary pull-right" href="<?php echo $base; ?>/en/">English</a></li>
 		       </ul>
 	       </div>
 	     </div>
@@ -49,4 +47,5 @@
 	</div>
 
     <div class="container">
+    	<a class="pull-right" href="<?php echo $base; ?>/en/">In English</a>
 	   
