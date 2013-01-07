@@ -5,6 +5,8 @@
 
  	include("../includes/header.php"); ?>
 
+ 	<div class="row">
+
 		<!-- Projects -->	
 		<ul class="thumbnails pull-left">
 			
@@ -71,13 +73,14 @@
 		  </li>
 	
 		</ul>
+	</div>
 
-		<!-- Link to the PDF version of the portfolio -->
-		<div class="row">
-			<div class="centered well">
-				<a href="../portfolio/portfolio_es.pdf"><button class="btn btn-info btn-large" type="button">Descarga la versión en PDF</button></a>
-			</div>
+	<!-- Link to the PDF version of the portfolio -->
+	<div class="row">
+		<div class="span11 centered well">
+			<a href="../portfolio/portfolio_es.pdf"><button class="btn btn-info btn-large" type="button">Descarga la versión en PDF</button></a>
 		</div>
+	</div>
 
 		
-		<?php include("../includes/footer.php");
+	<?php include("../includes/footer.php");
