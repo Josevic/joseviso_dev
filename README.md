@@ -1,8 +1,3 @@
-joseviso_dev
-============
-
-Source code of my personal website:
-
 TODO
 ====
 
