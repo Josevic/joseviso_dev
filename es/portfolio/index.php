@@ -10,7 +10,6 @@
 		<!-- Projects -->	
 		<ul class="thumbnails pull-left">
 			
-		<!--	
 		  <li id="ec">
 		    <div class="thumbnail span3">
 		    	<a href="evacriado">
@@ -19,8 +18,7 @@
 		    	</a>
 			</div>
 		  </li>	
-		-->
-
+		
 		  <li id="sb">
 		    <div class="thumbnail span3">
 		    	<a href="smartbite">
