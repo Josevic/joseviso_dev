@@ -12,7 +12,7 @@
 		<!-- Summary -->
 		<div class="row spacer">
 			<div class="hero-unit span7">
-				<p>Evaluación Heurística de la web del centro de belleza Eva Criado, pensando en un futuro rediseño.</p>
+				<p>Evaluación Heurística de la <a href="http://eva-spa.com">web del centro de belleza Eva Criado</a>, pensando en un futuro rediseño.</p>
 				<a class="btn btn-large btn-primary pull-right" href="HE_EvaSpa.pdf">Descarga la Evaluación Heurística</a>
 			</div>
 
@@ -28,9 +28,9 @@
 			<h3>Proceso Seguido</h3>
 			<div class="span6">
 				<ol>
-					<li><p class="spacer"><b>Conocer</b> a grandes rasgos <b>el campo de dominio</b>: Investigación general sobre el área, qué son los distintos tratamientos y servicios que aparecen en el sitio, con la intención de saber qué es lo que hace el negocio exáctamente.</p></li>
+					<li><p class="spacer"><b>Conocer</b> a grandes rasgos <b>el campo de dominio</b>: Investigación general sobre el área, en qué consisten los distintos tratamientos y servicios que aparecen en el sitio, con la intención de saber qué es lo que hace el negocio exáctamente.</p></li>
 					<li><p class="spacer"><b>Evaluación superficial de la interfaz</b>: El objetivo en este punto era buscar los problemas más importantes y fácilmente detectables.</p></li>
-					<li><p class="spacer"><b>Evaluación exhaustiva</b> considerando las <a href="http://www.useit.com/papers/heuristic/heuristic_list.html">10 Heurísticas de Usabilidad</a> propuestas por Jakob Nielsen, teniendo en cuenta la severidad e importancia de cada una de ellas.</b></p></li>
+					<li><p class="spacer"><b>Evaluación exhaustiva</b> considerando las <a href="http://www.useit.com/papers/heuristic/heuristic_list.html">10 Heurísticas de Usabilidad</a> propuestas por <a href="http://es.wikipedia.org/wiki/Jakob_Nielsen">Jakob Nielsen</a>, teniendo en cuenta la severidad e importancia de cada una de ellas.</b></p></li>
 					<li><p class="spacer"><b>Análisis de los resultados</b> y <b>recomendación de alternativas</b> para solucionar los problemas o al menos minimizarlos.</p></li>
 				</ol>
 			</div>

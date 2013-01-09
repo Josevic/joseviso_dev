@@ -12,7 +12,7 @@
 		<!-- Summary -->
 		<div class="row spacer">
 			<div class="hero-unit span7">
-				<p>Heuristic Evaluation of the existing Eva Criado's beauty center website for a future redesign.</p> 
+				<p>Heuristic Evaluation of the existing <a href="http://eva-spa.com">Eva Criado's beauty center website</a> for a future redesign.</p> 
 				<a class="btn btn-large btn-primary pull-right" href="HE_EvaSpa.pdf">Download the Heuristic Evaluation</a>
 			</div>
 
@@ -28,9 +28,9 @@
 			<h3>Process</h3>
 			<div class="span6">
 				<ol>
-					<li><p class="spacer"><b>Know roughly the domain field</b>: General research about this area, what are the different things that appear in the website and the business do.</p></li>
+					<li><p class="spacer"><b>To know roughly the domain field</b>: General research about this area, what are the different treatments and services that appear in the website and what the business do.</p></li>
 					<li><p class="spacer"><b>Basic evaluation of the interface</b>: The goal here was to look for important and easily noticeable problems.</p></li>
-					<li><p class="spacer"><b>Deep evaluation</b> considering the <a href="http://www.useit.com/papers/heuristic/heuristic_list.html">10 Usability Heuristics</a> by Jakob Nielsen, noting the severity and importance.</b></p></li>
+					<li><p class="spacer"><b>Deep evaluation</b> considering the <a href="http://www.useit.com/papers/heuristic/heuristic_list.html">10 Usability Heuristics</a> by <a href="http://en.wikipedia.org/wiki/Jakob_Nielsen_(usability_consultant)">Jakob Nielsen</a>, noting the severity and importance of each one of them.</b></p></li>
 					<li><p class="spacer"><b>Analysis of the results</b> and recommendation of alternatives to solve or at least minimize the problems</p></li>
 				</ol>
 			</div>
