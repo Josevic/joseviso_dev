@@ -33,7 +33,7 @@
 		        <span class="icon-bar"></span>
 		    </a>
 
-	       <a class="brand" href="../">Jose Viso</a>
+	       <a class="brand" href="<?php echo $base;?>/es/">Jose Viso</a>
 		   
 	       <div class="pull-right" id="main-menu">
 		       <ul class="nav nav-collapse collapse" id="main-menu-left">
