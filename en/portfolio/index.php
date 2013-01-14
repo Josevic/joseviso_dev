@@ -36,6 +36,17 @@
 		    	</a>	
 			</div>
 		  </li>
+
+		  <li id="sr">
+		    <div class="thumbnail span3">
+		    	<a href="amsterdammers">
+		    		<img src="../../images/thumb_amsterdammers.jpg" alt="">
+		    		<h3>Amsterdammers</h3>
+		    	</a>	
+			</div>
+		  </li>
+
+
 		
 		  <li id="ssm">
 		  	<div class="thumbnail span3">
