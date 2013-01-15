@@ -2,22 +2,21 @@
 
 	$page_title = "Portfolio > Amsterdammers";
 	$page_description = "Jose Viso's portfolio | Amsterdammers: Photo project of people from Amsterdam.";
+	$number_of_photos = 33;
 
 	include("../includes/header.php"); ?>
 
 
 		<!-- Big Text -->	
-		<div class="header spacer"><h1>Amsterdammers</h1></div>
+		<div id="top" class="header spacer"><h1>Amsterdammers</h1></div>
 		
 		<!-- Summary -->
 		<div class="row spacer">
-			<div class="hero-unit span6">
-				<p><em>Amsterdammers</em> is a project that tries to reflect the kind of people who live in Amsterdam.</p> 
-
-				<p>It contains a collection of pictures of the people you can find in a normal Saturday morning.</p>
+			<div class="hero-unit span5">
+				<p><em>Amsterdammers</em> is a photography project that tries to reflect the kind of people you can find in a normal Saturday morning in Amsterdam.</p>
 			</div>
-			<div class="span4">
-				<img src="../../images/amsterdammers_front.jpg" class="img-polaroid">
+			<div class="span5">
+				<img src="../../images/amsterdammers_front.jpg" class="img-rounded">
 			</div>
 		</div>
 
@@ -32,62 +31,30 @@
 			</div>
 		</div>
 
+		<!-- Loop for loading all the photos -->
+		<?php for ($i=0;$i<=$number_of_photos;$i++): ?>
 		<div class="row spacer">
 			<div class="span12 centered">
-				<a data-toggle="lightbox" href="#photo1_big">
-					<img src="../../images/amsterdammers_front.jpg" class="img-polaroid" alt="Click to view the lightbox">
+				<a data-toggle="lightbox" href="#photo<?php echo $i; ?>_big">
+					<img src="../../images/amsterdammers/<?php echo $i; ?>_small.jpg" class="img-polaroid" alt="Click to view the lightbox">
 				</a>
-				<div id="photo1_big" class="lightbox hide fade"  tabindex="-1" role="dialog" aria-hidden="true">
+				<div id="photo<?php echo $i; ?>_big" class="lightbox hide fade"  tabindex="-1" role="dialog" aria-hidden="true">
 						<div class='lightbox-header'>
 							<button type="button" class="close" data-dismiss="lightbox" aria-hidden="true">&times;</button>
 						</div>
 						<div class='lightbox-content'>
-							<img src="../../images/amsterdammers_photo1.jpg">
+							<img src="../../images/amsterdammers/<?php echo $i; ?>.jpg">
 						</div>
 				</div>
-				<p>Test 1</p>
 			</div>
 		</div>
-
-		<div class="row spacer">
-			<div class="span12 centered">
-				<a data-toggle="lightbox" href="#photo2_big">
-					<img src="../../images/amsterdammers_front.jpg" class="img-polaroid" alt="Click to view the lightbox">
-				</a>
-				<div id="photo2_big" class="lightbox hide fade"  tabindex="-1" role="dialog" aria-hidden="true">
-						<div class='lightbox-header'>
-							<button type="button" class="close" data-dismiss="lightbox" aria-hidden="true">&times;</button>
-						</div>
-						<div class='lightbox-content'>
-							<img src="../../images/amsterdammers_photo1.jpg">
-						</div>
-				</div>
-				<p>Test 2</p>
-			</div>
-		</div>
-
-		<div class="row spacer">
-			<div class="span12 centered">
-				<a data-toggle="lightbox" href="#photo3_big">
-					<img src="../../images/amsterdammers_front.jpg" class="img-polaroid" alt="Click to view the lightbox">
-				</a>
-				<div id="photo3_big" class="lightbox hide fade"  tabindex="-1" role="dialog" aria-hidden="true">
-						<div class='lightbox-header'>
-							<button type="button" class="close" data-dismiss="lightbox" aria-hidden="true">&times;</button>
-						</div>
-						<div class='lightbox-content'>
-							<img src="../../images/amsterdammers_photo1.jpg">
-						</div>
-				</div>
-				<p>Test 2</p>
-			</div>
-		</div>
+		<?php endfor; ?>
 
 		<hr/>
 
 		<div class="row">
 			<div class="span11 centered well">
-				<a href="http://flickr.com/"><button class="btn btn-info btn-large" type="button">Check all my photos</button></a>
+				<a href="http://www.flickr.com/photos/josevv/"><button class="btn btn-info btn-large" type="button">Check all my Photos!</button></a>
 			</div>
 		</div>
 
@@ -97,7 +64,9 @@
 		<ul class="breadcrumb">
 		  <li><a href="../portfolio">Portfolio</a> <span class="divider">/</span></li>
 		  <li class="active">Amsterdammers</li>
-		</ul>		
+		</ul>	
+
+		<p class="pull-right"><a href="#top"><i class="icon-arrow-up"></i>Go to Top</a></p>
 
 	 <?php 
 
