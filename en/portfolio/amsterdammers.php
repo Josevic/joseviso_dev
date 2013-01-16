@@ -24,10 +24,10 @@
 
 		<!-- Process -->
 		<div class="row">
-			<h3>Why</h3>
+			<h3>Why and How</h3>
 			<div class="">
-				<p>Topping danish cotton candy. Sugar plum sweet marzipan. Chocolate bar cupcake gummi bears carrot cake applicake chocolate cake bonbon macaroon macaroon. Chocolate bonbon chupa chups fruitcake candy canes. Dragée cotton candy ice cream jelly beans dragée ice cream. Powder tootsie roll wypas lollipop jujubes jelly dragée.</p>
-				<p>Applicake sesame snaps pastry tart sesame snaps chocolate cake. Liquorice tiramisu lollipop powder wypas apple pie chocolate.</p>
+				<p>I decided to make this project to reflect the diversity of people living in The Netherlands and especially in Amsterdam. Another thing I wanted to show is how people of all ages are riding the bicycle in a daily basis. In Spain I was used to see just some young people using it and there from day one it blowed my mind. More than a custom it's a lifestyle. And I love it.</p>
+				<p>To get most of the pictures, I just sat down backwards to an old ship replica for a few minutes and took photos of the people passing in front of me. Another bunch of photos are taken close to a bikeway. One last group of photos are just random people I encountered in the way home.</p>
 			</div>
 		</div>
 
