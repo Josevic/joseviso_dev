@@ -19,6 +19,7 @@
     <!-- Bootstrap -->
     <link href="<?php echo $base;?>/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 	<link href="<?php echo $base;?>/bootstrap/css/bootstrap-responsive.css" rel="stylesheet">
+	<link rel="stylesheet" href="<?php echo $base;?>/bootstrap-lightbox/bootstrap-lightbox.min.css">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
   </head>
 
