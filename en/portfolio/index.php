@@ -45,8 +45,6 @@
 		    	</a>	
 			</div>
 		  </li>
-
-
 		
 		  <li id="ssm">
 		  	<div class="thumbnail span3">
@@ -58,16 +56,14 @@
 			</div>
 		  </li>
 		
-		<!--
 		  <li id="ne">
 		    <div class="thumbnail span3">
 		    	<a href="nextepisode">
-		    		<img src="http://flickholdr.com/270/205/television" alt="">
+		    		<img src="../../images/thumb_nextEpisode_dummy.jpeg"" alt="">
 		    		<h3>NextEpisode</h3>
 		    	</a>
 			</div>
 		  </li>
-		-->
 		
 		  <li id="tmt">
 		    <div class="thumbnail span3">
