@@ -46,34 +46,15 @@
 					<!-- Carousel items -->  
 				    <div class="carousel-inner">  
 				    	<div class="active item">
-				        	<img src="../../images/smartbite_observation.jpg" alt="First sketches" />
+				        	<img src="../../images/NextEpisode_paperPrototype.jpg" alt="Paper Prototype" />
 				        	<div class="carousel-caption">
-				        		<p>One of the people observed for finding a design opportunity</p>
+				        		<p>First paper prototype to test some interactions.</p>
 				        	</div>
 				        </div>  
 				        <div class="item">
-				        	<img src="../../images/smartbite_storyboard.png" alt="Storyboard" />
+				        	<img src="../../images/NextEpisode_TB_prototype.png" alt="Storyboard" />
 				        	<div class="carousel-caption">
-				        		<p>Storyboard for representing the context where the app would be used</p>
-				        	</div>
-				        </div>  
-				        
-				        <div class="item">
-				        	<img src="../../images/smartbite_lowfidelity2.png" alt="" />
-				        	<div class="carousel-caption">
-				        		<p>Basic Prototype built with Balsamiq Mockups</p>
-				        	</div>
-				        </div>
-				        <div class="item">
-				        	<img src="../../images/smartbite_highfidelity.png" alt="" />
-				        	<div class="carousel-caption">
-				        		<p>More detailed prototype considering the users' feedback built with Justinmind</p>
-				        	</div>
-				        </div>    
-				        <div class="item">
-				        	<img src="../../images/smartbite_usertest.jpg" alt="" />
-				        	<div class="carousel-caption">
-				        		<p>User test</p>
+				        		<p>HTML prototype</p>
 				        	</div>
 				        </div>  
 				  	</div>  
