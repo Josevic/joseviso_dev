@@ -31,8 +31,8 @@
 			</div>
 			<div class="span6">
 				<ol>
-					<li><p class="spacer"><b>Needfinding</b>: I realize close people around me were having a similar problem to follow their favorite series, so there was a clear opportunity for improvement.</p></li>
-					<li><p class="spacer">Sketches of the structure: Creation of a point of view, brainstorming different alternatives, creating a <b>paper prototypes</b> to test.</p></li>
+					<li><p class="spacer"><b>Needfinding</b>: I realize people around me were having a similar problem to follow their favorite series, so there was a clear opportunity for improvement.</p></li>
+					<li><p class="spacer">Sketches of the structure: Creation of a point of view, brainstorming different alternatives, creating <b>paper prototypes</b> to test.</p></li>
 					<li>
 						<p class="spacer">Creation of <b>HTML interactive Prototypes</b> using <a href="http://twitter.github.com/bootstrap/">Twitter Bootstrap framework</a>.</p>
 						<p>For this project I wanted to try rapid prototyping directly in HTML and after some research I concluded the best option was using a frontend framework like Bootstrap.</p>
