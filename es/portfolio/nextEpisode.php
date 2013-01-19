@@ -14,7 +14,7 @@
 			<div class="hero-unit span7">
 				<p><em>NextEpisode</em> es un concepto de software multiplataforma para gestionar y seguir tus series de televisión favoritas.</p> 
 				<p>Los objetivos son no tener que recordar cuál es el siguiente episodio que te toca ver, no perder tiempo descargándolo, no tener que recordar qué ha ocurrido en la serie hasta ese momento, y descubrir fácilmente más series que te puedan gustar.</p>
-				<a class="btn btn-large btn-primary pull-right" href="<?php echo $base; ?>external_resources/NextEpisode/index.html">Prueba el prototipo interactivo!</a>
+				<a class="btn btn-large btn-primary pull-right" href="http://joseviso.com/external_resources/NextEpisode/index.html">Prueba el prototipo interactivo!</a>
 			</div>
 			<div class="span3 pull-right">
 				<img src="../../images/nextEpisode_front.jpg" class="img-rounded">

@@ -14,7 +14,7 @@
 			<div class="hero-unit span7">
 				<p><em>NextEpisode</em> is a concept of multiplatform software to easily manage and follow your favorite TV shows.</p> 
 				<p>The goals are not having to remember which is the next episode to see, not wasting time to download it, not having to remember what had happened until that moment, and easily discover more shows you may like.</p>
-				<a class="btn btn-large btn-primary pull-right" href="<?php echo $base; ?>external_resources/NextEpisode/index.html">Try the interactive prototype!</a>
+				<a class="btn btn-large btn-primary pull-right" href="http://joseviso.com/external_resources/NextEpisode/index.html">Try the interactive prototype!</a>
 			</div>
 			<div class="span3 pull-right">
 				<img src="../../images/nextEpisode_front.jpg" class="img-rounded">
