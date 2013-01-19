@@ -894,6 +894,10 @@ body {
 	margin-top: 30px;
 }
 
+.extra_space {
+	margin-top: 50px;
+}
+
 .centered {
 	text-align:center;
 }
