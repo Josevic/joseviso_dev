@@ -6,11 +6,11 @@
 	include("includes/header.php"); ?>
 
 	
-		<div class="centered spacer">
+		<div class="centered extra_space">
 			<img class="img-polaroid" src="../images/Jose.JPG">
 		</div>
 		<blockquote>
-			<p class="spacer lead">Me llamo José Viso y me dedico a crear cosas útiles y fáciles de usar. Me encantan los deportes y la fotografía. Además soy el creador de <a href="http://streetrockstars.com">Street Rockstars</a>.</p>
+			<p class="spacer lead">Me llamo José Viso y me dedico a crear software que sea realmente útil y fácil de usar. Me encantan los deportes y la fotografía. Además soy el creador de <a href="http://streetrockstars.com">Street Rockstars</a>.</p>
  		</blockquote>
 	
 

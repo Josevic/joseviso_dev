@@ -5,11 +5,12 @@
 
  include("includes/header.php"); ?>
 
-		<div class="centered spacer">
+
+		<div class="centered extra_space">
 		    <img class="img-polaroid" src="../images/Jose.JPG">
 		</div>		    
 		<blockquote>
-			<p class="spacer lead">My name is José Viso and I create useful simple and easy to use things. I love sports and photography. I'm also the founder of <a href="http://streetrockstars.com">Street Rockstars</a>.</p>		    
+			<p class="spacer lead">My name is José Viso and I create really useful, simple and easy to use software. I love sports and photography. I'm also the founder of <a href="http://streetrockstars.com">Street Rockstars</a>.</p>		    
 		</blockquote>
 		
 		<!-- Social Networks links -->
