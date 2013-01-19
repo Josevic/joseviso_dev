@@ -59,7 +59,7 @@
 		  <li id="ne">
 		    <div class="thumbnail span3">
 		    	<a href="nextepisode">
-		    		<img src="../../images/thumb_nextEpisode_dummy.jpeg" alt="">
+		    		<img src="../../images/thumb_nextEpisode.jpg" alt="">
 		    		<h4>NextEpisode</h4>
 		    	</a>
 			</div>
