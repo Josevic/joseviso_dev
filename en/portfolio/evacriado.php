@@ -12,7 +12,7 @@
 		<!-- Summary -->
 		<div class="row spacer">
 			<div class="hero-unit span7">
-				<p>Heuristic Evaluation of the existing <a href="http://eva-spa.com">Eva Criado's beauty center website</a> for a future redesign.</p> 
+				<p>Heuristic Evaluation of the existing Eva Criado's beauty center website for a future redesign.</p> 
 				<a class="btn btn-large btn-primary pull-right" href="HE_EvaSpa.pdf">Download the Heuristic Evaluation</a>
 			</div>
 
