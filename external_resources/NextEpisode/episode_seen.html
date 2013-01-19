@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+  	<meta charset="utf-8">
+    <title>NextEpisode prototype</title>
+
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+	
+	  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	  <style>
+      body {
+        padding-top: 60px; 
+      }
+
+      .vertical_spacer {
+        padding-bottom: 15px;
+      }
+
+      .centered {
+       text-align:center;
+      }
+
+      .img_episode {
+        margin-right: 15px;
+      }
+    </style>
+    <link href="css/bootstrap-responsive.css" rel="stylesheet">
+    <link href="toggle-buttons/static/stylesheets/bootstrap-toggle-buttons.css" rel="stylesheet">
+  </head>
+
+  <body>
+
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <a class="brand" href="home.html">NextEpisode</a>
+          <div class="nav">
+            <ul class="nav">
+              <li class="active"><a href="home.html">Your Series</a></li>
+              <li><a href="discover.html">Discover</a></li>
+              <li><a href="#contact">Social</a></li>
+            </ul>
+          </div>
+
+          <ul class="nav nav-pills pull-right">
+            <li class="dropdown">
+              <a class="dropdown-toggle"
+                 data-toggle="dropdown"
+                 href="#">
+                  Jose
+                  <b class="caret"></b>
+                </a>
+              <ul class="dropdown-menu">
+                <!-- links -->
+                <li><a href="">Preferences</a></li>
+                <li><a href="index.html">Logout</a></li>
+              </ul>
+            </li>
+          </ul>
+
+          <form class="navbar-search pull-right">
+            <input type="text" class="search-query" placeholder="Search Serie">
+          </form>
+        </div>
+      </div>
+    </div>
+    
+    
+    <div class="container">
+
+      <div class="row">
+        <div class="span1"><a class="btn btn-large" href="serie.html"><i class="icon-chevron-left"></i></a></div>
+        <div class="span2">
+          <h1>Dexter</h1>
+        </div>
+        <div class="span3 vertical_spacer_top">
+          <p class="lead centered">Season 7 (<a href="">Change</a>)</p>
+        </div>
+      </div>
+      <hr/>
+
+      <div class="row vertical_spacer">
+        <div class="span6">  
+          <h3>Episode 04: Surprise, Motherfucker!</h3> 
+        </div>
+        <div class="span3">
+          <div class="text-toggle-button" style="margin-top:15px;">
+            <input type="checkbox" checked="checked">
+          </div>
+        </div>
+      </div>
+
+      <div class="pull-left">
+        <img src="img/episode_image.jpg" class="img_episode img-polaroid"/>
+      </div>
+      <p>Dexter visits Hannah in prison where Hannah admits to spiking Deb's water with Xanax. During Hannah's arraignment on murder charges, Arlene slips Hannah a substance that causes a seizure. Hannah is taken to the hospital and escapes. She is last seen leaving a plant on Dexter's doorstep.</p>
+
+      <p>LaGuerta arrests Dexter for the murder of Hector Estrada. Believing that he is also the Bay Harbor Butcher, LaGuerta attempts to convict Dexter, but Dexter has already framed LaGuerta with old evidence from the Estrada case. LaGuerta receives a surveillance DVD showing Debra filling a gas can at a gas station near the abandoned church in which Travis Marshall was killed. LaGuerta catches Debra in a lie and lets her know that she is on to her as well as Dexter.</p>
+
+      <p>Dexter captures Estrada and takes him to the shipping container. He forces Estrada to call LaGuerta and tell him where he is asking for help. LaGuerta then heads to the location. At Batista's New Year's Eve party, Debra wonders where Dexter is and gets worried. She calls the police station to see where LaGuerta is by her GPS tracking device on her car and Debra is told where LaGuerta is headed. Deb, barefooted, opens the shipping container to find LaGuerta unconscious and Estrada dead on the table. Dexter, about to kill LaGuerta, is stopped by Debra. LaGuerta wakes up and tells Debra she is a good person but also urges her to shoot Dexter. Debra, crying, shoots LaGuerta instead, killing her instantly. She then runs over to her body and sobs, holding her.</p> 
+
+      <p>At a beach front New Year's party, Debra and Dexter walk in among the revelers in a near trance like state with Debra holding onto Dexter's arm as he aimlessly leads the way. In a voiceover, Dexter wonders if this is a new beginning - or the beginning of the end. </p>
+      
+      <hr/>
+
+<div class="centered">
+
+<p>  
+      <!-- Button to trigger modal -->
+<a href="#getSubtitles" role="button" class="btn btn-large" data-toggle="modal">Get Sutbtitles!</a>
+</p>
+ 
+<!-- Modal -->
+<div id="getSubtitles" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-header">
+    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+    <h3 id="myModalLabel">Downloading Subtitles!</h3>
+  </div>
+  <div class="modal-body">
+    <p>The subtitles have began to be downloaded on your devices!</p>
+  </div>
+  <div class="modal-footer">
+    <button class="btn btn-primary" data-dismiss="modal">OK</button>
+    <button class="btn" data-dismiss="modal" aria-hidden="true">Help</button>
+  </div>
+</div>
+
+<p><a href="#downloadEpisode" role="button" class="btn btn-large btn-primary" data-toggle="modal">Download Episode!</a></p>
+
+<div id="downloadEpisode" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-header">
+    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+    <h3 id="myModalLabel">Downloading Episode!</h3>
+  </div>
+  <div class="modal-body">
+    <p>The episode has began to be downloaded on your devices!</p>
+  </div>
+  <div class="modal-footer">
+    <button class="btn btn-primary" data-dismiss="modal">OK</button>
+    <button class="btn" data-dismiss="modal" aria-hidden="true">Help</button>
+  </div>
+</div>
+</div>
+
+  <script src="http://code.jquery.com/jquery-latest.js"></script>
+  <script src="js/bootstrap.js"></script>
+  <script src="toggle-buttons/static/js/jquery.toggle.buttons.js"></script>
+
+
+  </body>
+
+</html>

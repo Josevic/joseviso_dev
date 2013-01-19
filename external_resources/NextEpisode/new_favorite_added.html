@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+  	<meta charset="utf-8">
+    <title>NextEpisode proto</title>
+
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+	
+	  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	  <style>
+      body {
+        padding-top: 60px; 
+      }
+
+      .indicator{
+        text-decoration:none;
+      }
+
+      .episode{
+        text-decoration:none;
+        background-color: #F5F6CE;
+      }
+
+      .episode:hover{
+        background-color: #F4FA58;
+      }
+
+    </style>
+    <link href="css/bootstrap-responsive.css" rel="stylesheet">
+  </head>
+
+  <body>
+
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <a class="brand" href="#">NextEpisode</a>
+          <div class="nav">
+            <ul class="nav">
+              <li class="active"><a href="home.html">Your Series</a></li>
+              <li><a href="discover.html">Discover</a></li>
+              <li><a href="#contact">Social</a></li>
+            </ul>
+          </div>
+
+          <ul class="nav nav-pills pull-right">
+            <li class="dropdown">
+              <a class="dropdown-toggle"
+                 data-toggle="dropdown"
+                 href="#">
+                  Jose
+                  <b class="caret"></b>
+                </a>
+              <ul class="dropdown-menu">
+                <!-- links -->
+                <li><a href="">Preferences</a></li>
+                <li><a href="index.html">Logout</a></li>
+              </ul>
+            </li>
+          </ul>
+
+          <form class="navbar-search pull-right">
+            <input type="text" class="search-query" placeholder="Search Serie">
+          </form>
+        </div>
+      </div>
+    </div>
+    
+    
+    <div class="container">
+
+      <div class="media">
+        <a class="pull-left" href="serie.html">
+          <img class="media-object img-rounded" src="img/dexter.jpeg"/>
+        </a>
+        <a href="serie.html">
+          <div class="media-body">
+            <h3 class="media-heading">Dexter</h3>
+            <p class="indicator">You are in:</p>  
+            <p class="episode span2">Season 7 > Episode 04</p>
+          </div>
+        </a>
+      </div>
+      <hr/>
+
+      <div class="media">
+        <a class="pull-left" href="serie.html">
+          <img class="media-object img-rounded" src="img/breaking_bad.jpeg"/>
+        </a>
+        <a href="serie.html">
+          <div class="media-body">
+            <h3 class="media-heading">Breaking Bad</h3>
+            <p>You are in:</p>
+            <p class="episode span2">Season 4 > Episode 08</p>
+          </div>
+        </a>
+      </div>
+      <hr/>
+
+      <div id="#new_added" class="alert alert-success">
+        <button type="button" class="close" data-dismiss="alert">&times;</button>
+          <p><i>"How I Met Your Mother"</i>  added to your favorites!</p>
+      </div>
+      <div class="media">
+        <a class="pull-left" href="serie.html">
+          <img class="media-object img-rounded" src="img/himym.jpg" width="200" height="134"/>
+        </a>
+        <a href="serie.html">
+          <div class="media-body">
+            <h3 class="media-heading">How I Met Your Mother</h3>
+            <p>You are in:</p>
+            <p class="episode span2">Season 1 > Episode 01</p>
+          </div>
+        </a>
+      </div>
+      <hr/>
+
+      <div class="media">
+        <a class="pull-left" href="serie.html">
+          <img class="media-object img-rounded" src="img/the_big_bang_theory.jpeg"/>
+        </a>
+        <a href="serie.html">
+          <div class="media-body">
+            <h3 class="media-heading">The Big Bang Theory</h3>
+            <p>You are in:</p>
+            <p class="episode span2">Season 5 > Episode 23</p>
+          </div>
+        </a>
+      </div>
+	  	<hr/>
+
+			<p>
+        <a href="/SeriesTracker_proto2/discover.html" role="button" class="btn btn-large btn-primary">Add new favourite Serie!</a>
+			</p>
+      
+	 </div>
+	
+  
+  
+
+  <script src="http://code.jquery.com/jquery-latest.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+
+
+  </body>
+
+</html>

@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+  	<meta charset="utf-8">
+    <title>NextEpisode proto</title>
+
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+	
+	  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	  <style>
+      body {
+        padding-top: 60px; 
+      }
+
+      .centered {
+       text-align:center;
+      }
+
+      .vertical_spacer_top {
+        padding-top: 15px;
+      }
+    </style>
+    <link href="css/bootstrap-responsive.css" rel="stylesheet">
+    <link href="toggle-buttons/static/stylesheets/bootstrap-toggle-buttons.css" rel="stylesheet">
+  </head>
+
+  <body>
+
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <a class="brand" href="home.html">NextEpisode</a>
+          <div class="nav">
+            <ul class="nav">
+              <li class="active"><a href="home.html">Your Series</a></li>
+              <li><a href="discover.html">Discover</a></li>
+              <li><a href="#contact">Social</a></li>
+            </ul>
+          </div>
+
+          <ul class="nav nav-pills pull-right">
+            <li class="dropdown">
+              <a class="dropdown-toggle"
+                 data-toggle="dropdown"
+                 href="#">
+                  Jose
+                  <b class="caret"></b>
+                </a>
+              <ul class="dropdown-menu">
+                <!-- links -->
+                <li><a href="">Preferences</a></li>
+                <li><a href="index.html">Logout</a></li>
+              </ul>
+            </li>
+          </ul>
+
+          <form class="navbar-search pull-right">
+            <input type="text" class="search-query" placeholder="Search Serie">
+          </form>
+        </div>
+      </div>
+    </div>
+    
+    
+    <div class="container">
+
+      <div class="row">
+        <div class="span1 vertical_spacer_top"><a class="btn btn-large" href="serie.html"><i class="icon-chevron-left"></i></a></div>
+        <div class="span2">
+          <h1>Dexter</h1>
+        </div>
+        <div class="span3 vertical_spacer_top">
+          <p class="lead centered">Season 7 (<a href="">Change</a>)</p>
+        </div>
+      </div>
+      <hr/>
+
+      <table class="table table-striped span11">
+        <thead>
+          <tr>
+            <th>Episode number</th>
+            <th>Episode title</th>
+            <th>State</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><a href="episode.html">04</a></td>
+            <td><a href="episode.html">Surprise, Motherfucker!</a></td>
+            <td>
+              <div class="text-toggle-button">
+                <input type="checkbox">
+              </div>
+            </td>
+          
+          </tr>
+          <tr>
+            <td><a href="episode_seen.html">03</td>
+            <td><a href="episode_seen.html">Do you see what I see?</a></td>
+            <td>
+              <div class="text-toggle-button">
+                <input type="checkbox" checked="checked">
+              </div>
+            </td>
+          </tr>
+          <tr>
+            <td><a href="episode_seen.html">02</td>
+            <td><a href="episode_seen.html">The Dark... Whatever</a></td>
+            <td>
+              <div class="text-toggle-button">
+                <input type="checkbox" checked="checked">
+              </div>
+            </td>
+          </tr>
+          <tr>
+            <td><a href="episode.html">01</td>
+            <td><a href="episode.html">Helter Skelter</a></td>
+            <td>
+              <div class="text-toggle-button">
+                <input type="checkbox" checked="checked">
+              </div>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+      
+
+  
+
+  <script src="http://code.jquery.com/jquery-latest.js"></script>
+  <script src="js/bootstrap.js"></script>
+  <script src="toggle-buttons/static/js/jquery.toggle.buttons.js"></script>
+
+
+  </body>
+
+</html>

@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+  	<meta charset="utf-8">
+    <title>NextEpisode prototype</title>
+
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+	
+	  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	  <style>
+      body {
+        padding-top: 60px; 
+      }
+    </style>
+    <link href="css/bootstrap-responsive.css" rel="stylesheet">
+  </head>
+
+  <body>
+
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <a class="brand" href="home.html">NextEpisode</a>
+          <div class="nav">
+            <ul class="nav">
+              <li><a href="home.html">Your Series</a></li>
+              <li class="active"><a href="discover.html">Discover</a></li>
+              <li><a href="social.html">Social</a></li>
+            </ul>
+          </div>
+
+          <ul class="nav nav-pills pull-right">
+            <li class="dropdown">
+              <a class="dropdown-toggle"
+                 data-toggle="dropdown"
+                 href="#">
+                  Jose
+                  <b class="caret"></b>
+                </a>
+              <ul class="dropdown-menu">
+                <!-- links -->
+                <li><a href="">Preferences</a></li>
+                <li><a href="index.html">Logout</a></li>
+              </ul>
+            </li>
+          </ul>
+
+          <form class="navbar-search pull-right">
+            <input type="text" class="search-query" placeholder="Search Serie">
+          </form>
+        </div>
+      </div>
+    </div>
+    
+    <div class="container">
+
+      <ul class="nav nav-pills">
+        <li class="dropdown">
+          <a class="dropdown-toggle well"
+             data-toggle="dropdown"
+             href="#">
+              Jose
+              <b class="caret"></b>
+            </a>
+          <ul class="dropdown-menu">
+            <!-- links -->
+            <li><a href="">Preferences</a></li>
+            <li><a href="index.html">Logout</a></li>
+          </ul>
+        </li>
+      </ul>
+
+      <div class="row">
+        <h2>Suggested Series</h2>
+      </div>
+
+      <div class="row">
+        <ul class="thumbnails pull-left">
+          <li>
+            <div class="thumbnail">
+              <a href="serie_info.html">
+                <img src="img/himym.jpg" alt="" height="350" width="263">
+                <h4>How I Met Your Mother</h4>
+              </a>
+          </div>
+          </li>
+          <li>
+            <div class="thumbnail">
+              <a href="serie_info.html">
+                <img src="img/the_it_crowd.jpg" alt="" height="350" width="263">
+                <h4>The IT Crowd</h4>
+              </a>
+          </div>
+          </li>
+          <li>
+            <div class="thumbnail">
+              <a href="serie_info.html">
+                <img src="img/true_blood.jpg" alt="" height="350" width="263">
+                <h4>True Blood</h4>
+              </a>
+          </div>
+          </li>
+        </ul>
+      </div>
+
+      <p>
+        <a href="more_suggested.html" role="button" class="btn btn-primary btn-large">More Suggested series!</a>
+      </p>
+      <hr/>
+
+      
+
+      <div class="row">
+        <h2>New Series<h2>
+      </div>
+
+      <div class="row">
+        <ul class="thumbnails pull-left">
+          <li>
+            <div class="thumbnail">
+              <a href="serie_info.html">
+                <img src="img/the_mob_doctor.jpg" alt="" height="350" width="263">
+                <h4>The Mob Doctor</h4>
+              </a>
+          </div>
+          </li>
+          <li>
+            <div class="thumbnail">
+              <a href="serie_info.html">
+                <img src="img/1600_penn.jpg" alt="" height="350" width="263">
+                <h4>1600 Penn</h4>
+              </a>
+          </div>
+          </li>
+          <li>
+            <div class="thumbnail">
+              <a href="serie_info.html">
+                <img src="img/the_neighbors.jpg" alt="" height="350" width="263">
+                <h4>The Neighbors</h4>
+              </a>
+          </div>
+          </li>
+        </ul>
+      </div>  
+  	   
+      <p>
+        <a href="more_suggested.html" role="button" class="btn btn-primary btn-large">More New series!</a>
+      </p>
+
+    <hr/>
+
+    <div class="row">
+      <h2>Search<h2>
+        <input type="text" class="span4">
+        <button type="submit" class="btn">Search Serie!</button>
+    </div>
+
+  </div>
+
+  <script src="http://code.jquery.com/jquery-latest.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+
+
+  </body>
+
+</html>

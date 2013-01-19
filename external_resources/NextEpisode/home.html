@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+  	<meta charset="utf-8">
+    <title>NextEpisode proto</title>
+
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+	
+	  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	  <style>
+      body {
+        padding-top: 60px; 
+      }
+
+      .indicator{
+        text-decoration:none;
+      }
+
+      .episode{
+        text-decoration:none;
+        background-color: #F5F6CE;
+      }
+
+      .episode:hover{
+        background-color: #F4FA58;
+      }
+
+    </style>
+    <link href="css/bootstrap-responsive.css" rel="stylesheet">
+  </head>
+
+  <body>
+
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <a class="brand" href="home.html">NextEpisode</a>
+          <div class="nav">
+            <ul class="nav">
+              <li class="active"><a href="home.html">Your Series</a></li>
+              <li><a href="discover.html">Discover</a></li>
+              <li><a href="social.html">Social</a></li>
+            </ul>
+          </div>
+
+          <ul class="nav nav-pills pull-right">
+            <li class="dropdown">
+              <a class="dropdown-toggle"
+                 data-toggle="dropdown"
+                 href="#">
+                  Jose
+                  <b class="caret"></b>
+                </a>
+              <ul class="dropdown-menu">
+                <!-- links -->
+                <li><a href="">Preferences</a></li>
+                <li><a href="index.html">Logout</a></li>
+              </ul>
+            </li>
+          </ul>
+
+          <form class="navbar-search pull-right">
+            <input type="text" class="search-query" placeholder="Search Serie" data-provide="typeahead" data-items="4" data-source="["Ahmedabad","Akola","Asansol","Aurangabad","Bangaluru","Baroda","Belgaon","Berhumpur","Calicut","Chennai","Chapra","Cherapunji"]">
+            <!-- <a href=""><i class="icon-search icon-white"></i></a> -->
+          </form>
+
+        </div>
+      </div>
+    </div>
+    
+    <div class="container">
+
+      <div class="media">
+        <a class="pull-left" href="serie.html">
+          <img class="media-object img-rounded" src="img/dexter.jpeg"/>
+        </a>
+        <a href="serie.html">
+          <div class="media-body">
+            <h3 class="media-heading">Dexter</h3>
+            <p class="indicator">You are in:</p>  
+            <p class="episode span2">Season 7 > Episode 04</p>
+          </div>
+        </a>
+      </div>
+      <hr/>
+
+      <div class="media">
+        <a class="pull-left" href="serie.html">
+          <img class="media-object img-rounded" src="img/breaking_bad.jpeg"/>
+        </a>
+        <a href="serie.html">
+          <div class="media-body">
+            <h3 class="media-heading">Breaking Bad</h3>
+            <p>You are in:</p>
+            <p class="episode span2">Season 4 > Episode 08</p>
+          </div>
+        </a>
+      </div>
+      <hr/>
+
+      <div class="media">
+        <a class="pull-left" href="serie.html">
+          <img class="media-object img-rounded" src="img/the_big_bang_theory.jpeg"/>
+        </a>
+        <a href="serie.html">
+          <div class="media-body">
+            <h3 class="media-heading">The Big Bang Theory</h3>
+            <p>You are in:</p>
+            <p class="episode span2">Season 5 > Episode 23</p>
+          </div>
+        </a>
+      </div>
+	  	<hr/>
+
+			<p>
+        <a href="discover.html" role="button" class="btn btn-primary btn-large">More New series!</a>
+			</p>
+      
+	 </div>
+	
+  
+  
+
+  <script src="http://code.jquery.com/jquery-latest.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+  <script src="js/bootstrap-typeahead.js"></script>
+
+
+  </body>
+
+</html>
