@@ -17,7 +17,7 @@
 				<a class="btn btn-large btn-primary pull-right" href="<?php echo $base; ?>external_resources/NextEpisode/index.html">Prueba el prototipo interactivo!</a>
 			</div>
 			<div class="span3 pull-right">
-				<img src="../../images/thumb_nextEpisode_dummy.jpeg" class="img-rounded">
+				<img src="../../images/nextEpisode_front.jpg" class="img-rounded">
 			</div>
 		</div>
 
