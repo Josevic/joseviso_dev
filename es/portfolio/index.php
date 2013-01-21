@@ -5,7 +5,7 @@
 
  	include("../includes/header.php"); ?>
 
- 	<div class="row">
+ 	<div class="row extra_space">
 
 		<!-- Projects -->	
 		<ul class="thumbnails pull-left">
@@ -82,9 +82,11 @@
 		</ul>
 	</div>
 
+	<hr/>
+
 	<!-- Link to the PDF version of the portfolio -->
 	<div class="row">
-		<div class="span11 centered well">
+		<div class="span12 centered">
 			<a href="../portfolio/portfolio_es.pdf"><button class="btn btn-info btn-large" type="button">Descarga la versión en PDF</button></a>
 		</div>
 	</div>
