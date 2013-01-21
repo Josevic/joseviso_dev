@@ -19,7 +19,9 @@
 
 		<!-- Design Process -->
 		<div class="row">
-			<h3>Proceso de Diseño</h3>
+			<div class="span12">
+				<h3>Proceso de Diseño</h3>
+			</div>
 			<div class="span6">
 				<ol>
 					<li><p class="spacer">Generación de <b>Personas</b> y <b>Escenarios</b>.</p></li>
@@ -82,7 +84,9 @@
 
 		<!-- Tools Used -->
 		<div class="row">
-			<h3>Herramientas Usadas</h3>
+			<div class="span12">
+				<h3>Herramientas Usadas</h3>
+			</div>
 			<div class="offset4 span4">
 				<!-- <img src="http://placehold.it/700x150"> -->
 				<table class="table table-bordered">
