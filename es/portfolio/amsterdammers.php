@@ -24,8 +24,8 @@
 
 		<!-- Process -->
 		<div class="row">
-			<h3>Por qué y Cómo</h3>
-			<div class="">
+			<div class="span12">
+				<h3>Por qué y Cómo</h3>
 				<p>Decidí hacer este proyecto para reflejar la diversidad de gente que vive en los Países Bajos y especialmente en Ámsterdam. Otra cosa que quería mostrar es cómo la gente de todas las edades usa la bicicleta a diario. En España yo estaba acostumbrado a ver sólo a alguna gente joven usándola, y allí desde el primer día, eso me impactó muchísimo. Más que una costumbre es un estilo de vida. Y me encanta.</p>
 				<p>Para conseguir la mayoría de las fotos, simplemente me senté de espaldas a una réplica de un barco antiguo durante unos minutos y tomé fotos de la gente que pasaba frente a mí. Otras cuantas fotos están tomadas cerca de un carril bici. Un último grupo de fotos son sólo gente que me fui encontrando en el camino de vuelta a casa y que creo que representa lo que es esa ciudad.</p>
 			</div>
