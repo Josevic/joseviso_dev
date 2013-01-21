@@ -25,7 +25,9 @@
 
 		<!-- Design Process -->
 		<div class="row">
-			<h3>Proceso Seguido</h3>
+			<div class="span12">
+				<h3>Proceso Seguido</h3>
+			</div>
 			<div class="span6">
 				<ol>
 					<li><p class="spacer"><b>Conocer</b> a grandes rasgos <b>el campo de dominio</b>: Investigación general sobre el área, en qué consisten los distintos tratamientos y servicios que aparecen en el sitio, con la intención de saber qué es lo que hace el negocio exáctamente.</p></li>
@@ -64,7 +66,9 @@
 
 		<!-- Tools Used -->
 		<div class="row">
-			<h3>Herramientas Usadas</h3>
+			<div class="span12">
+				<h3>Herramientas Usadas</h3>
+			</div>
 			<div class="offset4 span4">
 				<!-- <img src="http://placehold.it/700x150"> -->
 				<table class="table table-bordered">
