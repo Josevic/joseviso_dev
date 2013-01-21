@@ -27,7 +27,9 @@
 
 		<!-- Design Process -->
 		<div class="row">
-			<h3>Design Process</h3>
+			<div class="span12">
+				<h3>Design Process</h3>
+			</div>
 			<div class="span6">
 				<ol>
 					<li><p class="spacer"><b>Needfinding</b>: Discover not covered needs or opportunities for improvement around me. To do it I observed and interviewed some people.</p></li>
@@ -87,7 +89,9 @@
 
 		<!-- Tools Used -->
 		<div class="row">
-			<h3>Tools Used</h3>
+			<div class="span12">
+				<h3>Tools Used</h3>
+			</div>
 			<div class="offset4 span4">
 				<!-- <img src="http://placehold.it/700x150"> -->
 				<table class="table table-bordered">
