@@ -31,7 +31,9 @@
 
 		<!-- Design Process -->
 		<div class="row">
-			<h3>Design Process</h3>
+			<div class="span12">
+				<h3>Design Process</h3>
+			</div>
 			<div class="span6">
 				<ol>
 					<li><p class="spacer"><b>Observation</b> in the street of people recording street musicians' performances: approximated age, gender, nationality. Interviews with people who matched that description.</p></li>
@@ -93,7 +95,9 @@
 
 		<!-- Tools Used -->
 		<div class="row">
-			<h3>Tools Used</h3>
+			<div class="span12">
+				<h3>Tools Used</h3>
+			</div>
 			<div class="offset4 span4">
 				<!-- <img src="http://placehold.it/700x150"> -->
 				<table class="table table-bordered">
