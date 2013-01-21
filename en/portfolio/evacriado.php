@@ -25,7 +25,9 @@
 
 		<!-- Design Process -->
 		<div class="row">
-			<h3>Process</h3>
+			<div class="span12">
+				<h3>Process</h3>
+			</div>
 			<div class="span6">
 				<ol>
 					<li><p class="spacer"><b>To know roughly the domain field</b>: General research about this area, what are the different treatments and services that appear in the website and what the business do.</p></li>
@@ -64,7 +66,9 @@
 
 		<!-- Tools Used -->
 		<div class="row">
-			<h3>Tools Used</h3>
+			<div class="span12">
+				<h3>Tools Used</h3>
+			</div>
 			<div class="offset4 span4">
 				<!-- <img src="http://placehold.it/700x150"> -->
 				<table class="table table-bordered">
