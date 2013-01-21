@@ -24,7 +24,9 @@
 
 		<!-- Design Process -->
 		<div class="row">
-			<h3>Proceso de Diseño</h3>
+			<div class="span12">
+				<h3>Proceso de Diseño</h3>
+			</div>
 			<div class="span6">
 				<ol>
 					<li><p class="spacer"><b>Búsqueda de Necesidades</b>: Descubrir necesidades no cubiertas u oportunidnades de mejora a mi alrededor. Para conseguirlo, observé y entrevisté a varias personas.</p></li>
@@ -84,7 +86,9 @@
 
 		<!-- Tools Used -->
 		<div class="row">
-			<h3>Herramientas Usadas</h3>
+			<div class="span12">
+				<h3>Herramientas Usadas</h3>
+			</div>
 			<div class="offset4 span4">
 				<!-- <img src="http://placehold.it/700x150"> -->
 				<table class="table table-bordered">
