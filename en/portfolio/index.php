@@ -5,7 +5,25 @@
 
  	include("../includes/header.php"); ?>
 
-	<div class="row extra_space">
+ 	<div class="row visible-desktop visible-tablet">
+	  <div class="span12 centered-pills test11">
+	    <ul class="nav nav-pills">
+	      <li class="active"><a href="#">All</a></li>
+	      <li><a href="category/user-research">User Research</a></li>
+	      <li><a href="category/heuristic-evaluation">Heuristic Evaluation</a></li>
+	      <li><a href="category/interaction-design">Interaction Design</a></li>
+	      <li><a href="category/development">Development</a></li>
+	      <li><a href="category/photography">Photography</a></li>
+	    </ul>
+	  </div>
+	</div>
+
+	<div class="row visible-phone">
+	  testtt
+	</div>
+
+
+	<div class="row">
 
 		<!-- Projects -->	
 		<ul class="thumbnails pull-left">
@@ -75,6 +93,7 @@
 		  </li>
 	
 		</ul>
+		
 	</div>
 
 	<hr/>
