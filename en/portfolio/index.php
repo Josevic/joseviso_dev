@@ -8,6 +8,7 @@
 
 	<div class="row">
 
+		 <!-- Projects -->
 		 <?php 
 
 		 	$projects = array(
@@ -20,8 +21,7 @@
 		 			"takemethere" 		 => "Take Me There"
 		 		);
 		 ?>
-
-		  <!-- Projects -->
+		  
 		  <ul class="thumbnails pull-left">
 			  <?php foreach ($projects as $url => $name): ?>
 			  <li>
