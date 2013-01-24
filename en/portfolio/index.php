@@ -8,20 +8,7 @@
 
 	<div class="row">
 
-		 <!-- Projects -->
-		 <?php 
-
-		 	$projects = array(
-		 			"evacriado" 		 => "Eva Criado",
-		 			"smartbite" 		 => "SmartBite",
-		 			"streetrockstars" 	 => "Street Rockstars",
-		 			"amsterdammers"		 => "Amsterdammers",
-		 			"supersimple_mobile" => "SuperSimple Mobile",
-		 			"nextepisode" 		 => "NextEpisode",
-		 			"takemethere" 		 => "Take Me There"
-		 		);
-		 ?>
-		  
+		  <!-- Projects -->		  
 		  <ul class="thumbnails pull-left">
 			  <?php foreach ($projects as $url => $name): ?>
 			  <li>
@@ -34,8 +21,7 @@
 			  </li>
 			  <?php endforeach; ?>
 		  </ul>
-
-		
+		  
 	</div>
 
 	<hr/>
