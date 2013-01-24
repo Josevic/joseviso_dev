@@ -14,3 +14,46 @@
 	<div class="row visible-phone">
 	  testtt
 	</div>
+
+	<?php
+
+		/* Inclusion of the different projects in each subnav category */
+
+		$projects = array(
+		 			"evacriado" 		 => "Eva Criado",
+		 			"smartbite" 		 => "SmartBite",
+		 			"streetrockstars" 	 => "Street Rockstars",
+		 			"amsterdammers"		 => "Amsterdammers",
+		 			"supersimple_mobile" => "SuperSimple Mobile",
+		 			"nextepisode" 		 => "NextEpisode",
+		 			"takemethere" 		 => "Take Me There"
+		 		);
+		
+		$user_research = array(
+		 			"evacriado" 		 => "Eva Criado",
+		 			"smartbite" 		 => "SmartBite",
+		 			"streetrockstars" 	 => "Street Rockstars",
+		 			"supersimple_mobile" => "SuperSimple Mobile",
+		 			"nextepisode" 		 => "NextEpisode",
+		 			"takemethere" 		 => "Take Me There"
+		 		);
+
+		$heuristic_evaluation = array(
+		 			"evacriado" 		 => "Eva Criado"
+		 		);
+
+		$interaction_design = array(
+		 			"evacriado" 		 => "Eva Criado",
+		 			"smartbite" 		 => "SmartBite",
+		 			"streetrockstars" 	 => "Street Rockstars",
+		 			"supersimple_mobile" => "SuperSimple Mobile",
+		 			"nextepisode" 		 => "NextEpisode",
+		 			"takemethere" 		 => "Take Me There"
+		 		);
+
+		$development = array();
+
+		$photography = array(
+		 			"amsterdammers" 	=> "Amsterdammers"
+		 		);
+	?>
