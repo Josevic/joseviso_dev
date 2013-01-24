@@ -7,66 +7,31 @@
  	include("../../includes/portfolio-subnav.php"); ?>
 
 	<div class="row">
+		<!-- Projects -->
+		<?php 
 
-		<!-- Projects -->	
-		<ul class="thumbnails pull-left">
-			
-		  <li id="ec">
-		    <div class="thumbnail span3">
-		    	<a href="../evacriado">
-		    		<img src="../../../images/thumb_evaspa.jpg" alt="" width="260" height="197">
-		    		<h4>Centro Eva Criado</h4>
-		    	</a>	
-			</div>
-		  </li>	
-		
-		  <li id="sb">
-		    <div class="thumbnail span3">
-		    	<a href="../smartbite">
-		    		<img src="../../../images/thumb_smartBite.png" alt="">
-		    		<h4>Smart Bite</h4>
-		    	</a>
-			</div>
-		  </li>
-		
-		  <li id="sr">
-		    <div class="thumbnail span3">
-		    	<a href="../streetrockstars">
-		    		<img src="../../../images/thumb_streetRockstars.png" alt="">
-		    		<h4>Street Rockstars</h4>
-		    	</a>	
-			</div>
-		  </li>
-		
-		  <li id="ssm">
-		  	<div class="thumbnail span3">
-		  		<a href="../supersimple_mobile">
-		    		<img src="../../../images/thumb_superSimple_mobile.png" alt="">
-		    		<h4>SuperSimple Mobile</h4>
-		    	</a>
-		    	
-			</div>
-		  </li>
-		
-		  <li id="ne">
-		    <div class="thumbnail span3">
-		    	<a href="../nextepisode">
-		    		<img src="../../../images/thumb_nextEpisode.jpg" alt="">
-		    		<h4>NextEpisode</h4>
-		    	</a>
-			</div>
-		  </li>
-		
-		  <li id="tmt">
-		    <div class="thumbnail span3">
-		    	<a href="../takemethere">
-		    		<img src="../../../images/thumb_takeMeThere.png" alt="">
-		    		<h4>Take Me There</h4>
-		    	</a>
-			</div>
-		  </li>
-	
-		</ul>
+		 	$projects = array(
+		 			"evacriado" 		 => "Eva Criado",
+		 			"smartbite" 		 => "SmartBite",
+		 			"streetrockstars" 	 => "Street Rockstars",
+		 			"supersimple_mobile" => "SuperSimple Mobile",
+		 			"nextepisode" 		 => "NextEpisode",
+		 			"takemethere" 		 => "Take Me There"
+		 		);
+		 ?>
+
+		  <ul class="thumbnails pull-left">
+			  <?php foreach ($projects as $url => $name): ?>
+			  <li>
+			    <div class="thumbnail span3">
+			    	<a href="../<?php echo $url ?>">
+			    		<img src="../../../images/thumb_<?php echo $url; ?>.png" alt="">
+			    		<h4><?php echo $projects[$url]; ?></h4>
+			    	</a>
+				</div>
+			  </li>
+			  <?php endforeach; ?>
+		  </ul>
 		
 	</div>
 
