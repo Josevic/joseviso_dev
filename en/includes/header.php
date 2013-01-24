@@ -33,7 +33,7 @@
 		        <span class="icon-bar"></span>
 		        <span class="icon-bar"></span>
 		    </a>
-	       <a class="brand" href="../">Jose Viso</a>
+	       <a class="brand" href="<?php echo $base . 'en'; ?>">Jose Viso</a>
 		   
 	       <div class="nav-collapse collapse pull-right" id="main-menu">
 		       <ul class="nav" id="main-menu-left">
@@ -48,5 +48,5 @@
 
     <div class="container">
 
-    	<a class="pull-right" href="<?php echo $base; ?>/es/">En Castellano</a>
+    	<a class="pull-right" href="<?php echo $base; ?>/es/"><p class="muted">En Castellano</p></a>
 	   
