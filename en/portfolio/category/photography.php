@@ -8,21 +8,14 @@
 
 	<div class="row">
 
-		<!-- Projects -->
-		<?php 
-
-		 	$projects = array(
-		 			"amsterdammers" 	=> "Amsterdammers"
-		 		);
-		 ?>
-
+		 <!-- Projects -->
 		  <ul class="thumbnails pull-left">
-			  <?php foreach ($projects as $url => $name): ?>
+			  <?php foreach ($photography as $url => $name): ?>
 			  <li>
 			    <div class="thumbnail span3">
 			    	<a href="../<?php echo $url ?>">
 			    		<img src="../../../images/thumb_<?php echo $url; ?>.png" alt="">
-			    		<h4><?php echo $projects[$url]; ?></h4>
+			    		<h4><?php echo $photography[$url]; ?></h4>
 			    	</a>
 				</div>
 			  </li>
