@@ -8,17 +8,26 @@
 
 	<div class="row">
 
-		<!-- Projects -->	
-		<ul class="thumbnails pull-left">
-		  <li id="ec">
-		    <div class="thumbnail span3">
-		    	<a href="../amsterdammers">
-		    		<img src="../../../images/thumb_amsterdammers.jpg" alt="">
-		    		<h4>Amsterdammers</h4>
-		    	</a>	
-			</div>
-		  </li>	
-		</ul>
+		<!-- Projects -->
+		<?php 
+
+		 	$projects = array(
+		 			"amsterdammers" 	=> "Amsterdammers"
+		 		);
+		 ?>
+
+		  <ul class="thumbnails pull-left">
+			  <?php foreach ($projects as $url => $name): ?>
+			  <li>
+			    <div class="thumbnail span3">
+			    	<a href="../<?php echo $url ?>">
+			    		<img src="../../../images/thumb_<?php echo $url; ?>.png" alt="">
+			    		<h4><?php echo $projects[$url]; ?></h4>
+			    	</a>
+				</div>
+			  </li>
+			  <?php endforeach; ?>
+		  </ul>
 		
 	</div>
 
