@@ -8,26 +8,14 @@
 
 	<div class="row">
 
-		<!-- Projects -->
-		<?php 
-
-		 	$projects = array(
-		 			"evacriado" 		 => "Eva Criado",
-		 			"smartbite" 		 => "SmartBite",
-		 			"streetrockstars" 	 => "Street Rockstars",
-		 			"supersimple_mobile" => "SuperSimple Mobile",
-		 			"nextepisode" 		 => "NextEpisode",
-		 			"takemethere" 		 => "Take Me There"
-		 		);
-		 ?>
-
+		  <!-- Projects -->
 		  <ul class="thumbnails pull-left">
-			  <?php foreach ($projects as $url => $name): ?>
+			  <?php foreach ($user_research as $url => $name): ?>
 			  <li>
 			    <div class="thumbnail span3">
 			    	<a href="../<?php echo $url ?>">
 			    		<img src="../../../images/thumb_<?php echo $url; ?>.png" alt="">
-			    		<h4><?php echo $projects[$url]; ?></h4>
+			    		<h4><?php echo $user_research[$url]; ?></h4>
 			    	</a>
 				</div>
 			  </li>
