@@ -3,25 +3,8 @@
  	$page_title = "Portfolio > Heuristic Evaluation";
  	$page_description = "Jose Viso's portfolio | Heuristic Evaluation Projects";
 
- 	include("../../includes/header.php"); ?>
-
- 	<div class="row visible-desktop visible-tablet">
-	  <div class="span12 centered-pills test11">
-	    <ul class="nav nav-pills">
-	      <li><a href="<?php echo $base . 'en/portfolio'?>">All</a></li>
-	      <li ><a href="user-research">User Research</a></li>
-	      <li class="active"><a href="#">Heuristic Evaluation</a></li>
-	      <li><a href="interaction-design">Interaction Design</a></li>
-	      <li><a href="development">Development</a></li>
-	      <li><a href="photography">Photography</a></li>
-	    </ul>
-	  </div>
-	</div>
-
-	<div class="row visible-phone">
-	  testtt
-	</div>
-
+ 	include("../../includes/header.php"); 
+ 	include("../../includes/portfolio-subnav.php"); ?>
 
 	<div class="row">
 
