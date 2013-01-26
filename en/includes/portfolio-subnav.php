@@ -51,7 +51,9 @@
 		 			"takemethere" 		 => "Take Me There"
 		 		);
 
-		$development = array();
+		$development = array(
+					"streetrockstars" => "Street Rockstars"
+			);
 
 		$photography = array(
 		 			"amsterdammers" 	=> "Amsterdammers"
