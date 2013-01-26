@@ -2,7 +2,7 @@
 
 	$page_title = "Portfolio > NextEpisode";
 	$page_description = "Portfolio de Jose Viso | NextEpisode: App para seguir tus series favoritas.";
-
+	
 	include("../includes/header.php"); ?>
 
 
@@ -78,13 +78,13 @@
 				<!-- <img src="http://placehold.it/700x150"> -->
 				<table class="table table-bordered">
 					<tr>
-						<td><p class="lead centered">Lápiz, Papel, Rotuladores y Tijeras</p></td>
+						<td><p class="centered">Lápiz, Papel, Rotuladores y Tijeras</p></td>
 					</tr>
 					<tr>
-						<td><p class="lead centered">El framework  <a href="http://twitter.github.com/bootstrap/">Twitter Bootstrap</a></p></td>
+						<td><p class="centered">El framework  <a href="http://twitter.github.com/bootstrap/">Twitter Bootstrap</a></p></td>
 					</tr>
 					<tr>
-						<td><p class="lead centered">Uno de los temas de <a href="http://bootswatch.com/">Bootswatch</a>
+						<td><p class="centered">Uno de los temas de <a href="http://bootswatch.com/">Bootswatch</a>
 					</tr>
   				</table>
 			</div>

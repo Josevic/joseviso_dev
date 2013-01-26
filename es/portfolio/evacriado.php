@@ -2,7 +2,7 @@
 
 	$page_title = "Portfolio > Eva Criado";
 	$page_description = "Portfolio de Jose Viso | Evaluación Heurística de Evacriado.com";
-
+	
 	include("../includes/header.php"); ?>
 
 
@@ -73,13 +73,13 @@
 				<!-- <img src="http://placehold.it/700x150"> -->
 				<table class="table table-bordered">
 					<tr>
-						<td><p class="lead centered"><a href="http://www.nngroup.com/articles/ten-usability-heuristics/">10 Heurísticas de Usabilidad</a> (Jakob Nielsen)</p></td>
+						<td><p class="centered"><a href="http://www.nngroup.com/articles/ten-usability-heuristics/">10 Heurísticas de Usabilidad</a> (Jakob Nielsen)</p></td>
 					</tr>
 					<tr>
-						<td><p class="lead centered">iWork: Pages</p></td>
+						<td><p class="centered">iWork: Pages</p></td>
 					</tr>
 					<tr>
-						<td><p class="lead centered">Plantilla propia para Evaluaciones Heurísticas</p></td>
+						<td><p class="centered">Plantilla propia para Evaluaciones Heurísticas</p></td>
 					</tr>
   				</table>
 			</div>

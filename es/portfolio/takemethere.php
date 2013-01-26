@@ -2,7 +2,7 @@
 
 	$page_title = "Portfolio > Take Me There";
 	$page_description = "Portfolio de Jose Viso | Take Me There: Ve lugares como si estuvieses allí.";
-
+	
 	include("../includes/header.php"); ?>
 
 		<!-- Big Text -->	
@@ -91,19 +91,19 @@
 				<!-- <img src="http://placehold.it/700x150"> -->
 				<table class="table table-bordered">
 					<tr>
-						<td><p class="lead centered">Lápiz y Papel</p></td>
+						<td><p class="centered">Lápiz y Papel</p></td>
 					</tr>
 					<tr>
-						<td><p class="lead centered">OmniGraffle</p></td>
+						<td><p class="centered">OmniGraffle</p></td>
 					</tr>
 					<tr>
-						<td><p class="lead centered">Balsamiq Mockups</p></td>
+						<td><p class="centered">Balsamiq Mockups</p></td>
 					</tr>
 					<tr>
-						<td><p class="lead centered">Adobe Fireworks CS5</p></td>
+						<td><p class="centered">Adobe Fireworks CS5</p></td>
 					</tr>
 					<tr>
-						<td><p class="lead centered">Axure RP</p></td>
+						<td><p class="centered">Axure RP</p></td>
 					</tr>
   				</table>
 			</div>

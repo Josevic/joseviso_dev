@@ -2,7 +2,7 @@
 
 	$page_title = "Portfolio > SuperSimple Mobile";
 	$page_description = "Portfolio de Jose Viso | SuperSimple Mobile: Concepto de un teléfono móvil para personas a las que no les gusta la tecnología.";
-
+	
 	include("../includes/header.php"); ?>
 
 		<!-- Big Text -->	
@@ -74,19 +74,19 @@
 				<!-- <img src="http://placehold.it/700x150"> -->
 				<table class="table table-bordered">
 					<tr>
-						<td><p class="lead centered">Lápiz</p></td>
+						<td><p class="centered">Lápiz</p></td>
 					</tr>
 					<tr>
-						<td><p class="lead centered">Papel</p></td>
+						<td><p class="centered">Papel</p></td>
 					</tr>
 					<tr>
-						<td><p class="lead centered">Rotuladores</p></td>
+						<td><p class="centered">Rotuladores</p></td>
 					</tr>
 					<tr>
-						<td><p class="lead centered">Tijeras</p></td>
+						<td><p class="centered">Tijeras</p></td>
 					</tr>
 					<tr>
-						<td><p class="lead centered">Post-its</p></td>
+						<td><p class="centered">Post-its</p></td>
 					</tr>
   				</table>
 			</div>
