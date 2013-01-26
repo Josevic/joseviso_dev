@@ -53,8 +53,19 @@
 		<hr/>
 
 		<div class="row">
-			<div class="span11 centered well">
-				<a href="http://www.flickr.com/photos/josevv/"><button class="btn btn-info btn-large" type="button">Check all my Photos!</button></a>
+			<div class="span12">
+				<h3>Details</h3>
+			</div>
+			<div class="span12">
+				<dl class="dl-horizontal">
+				  <dt>Date</dt>
+				  <dd>March 2012</dd>
+				
+				  <dt>Tags</dt>
+				  <dd>
+				      <a href="<?php echo $base . 'en/portfolio/category/photography'; ?>"><span class="label">Photography</span></a>
+				  </dd>
+				</dl>
 			</div>
 		</div>
 

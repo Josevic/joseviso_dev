@@ -120,6 +120,27 @@
 			</div>
 		</div>
 
+		<hr/>
+
+		<div class="row">
+			<div class="span12">
+				<h3>Details</h3>
+			</div>
+			<div class="span12">
+				<dl class="dl-horizontal">
+				  <dt>Date</dt>
+				  <dd>Year 2012</dd>
+				
+				  <dt>Tags</dt>
+				  <dd>
+				      <a href="<?php echo $base . 'en/portfolio/category/user-research'; ?>"><span class="label">User Research</span></a>
+				 	  <a href="<?php echo $base . 'en/portfolio/category/interaction-design'; ?>"><span class="label">Interaction Design</span></a>
+				 	  <a href="<?php echo $base . 'en/portfolio/category/development'; ?>"><span class="label">Development</span></a>
+				  </dd>
+				</dl>
+			</div>
+		</div>
+
 		<?php 
 
 			 $project_name = "Street Rockstars";

@@ -108,6 +108,27 @@
 			</div>
 		</div>
 
+		<hr/>
+
+		<div class="row">
+			<div class="span12">
+				<h3>Details</h3>
+			</div>
+			<div class="span12">
+				<dl class="dl-horizontal">
+				  <dt>Date</dt>
+				  <dd>May - July 2012</dd>
+				
+				  <dt>Tags</dt>
+				  <dd>
+				      <a href="<?php echo $base . 'en/portfolio/category/user-research'; ?>"><span class="label">User Research</span></a>
+				 	  <a href="<?php echo $base . 'en/portfolio/category/heuristic-evaluation'; ?>"><span class="label">Heuristic Evaluation</span></a>
+				 	  <a href="<?php echo $base . 'en/portfolio/category/interaction-design'; ?>"><span class="label">Interaction Design</span></a>
+				  </dd>
+				</dl>
+			</div>
+		</div>
+
 	 <?php 
 
 	 $project_name = "SmartBite";
