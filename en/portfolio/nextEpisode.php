@@ -78,13 +78,13 @@
 				<!-- <img src="http://placehold.it/700x150"> -->
 				<table class="table table-bordered">
 					<tr>
-						<td><p class="lead centered">Pen, Paper, Markers and Scissors</p></td>
+						<td><p class="centered">Pen, Paper, Markers and Scissors</p></td>
 					</tr>
 					<tr>
-						<td><p class="lead centered"><a href="http://twitter.github.com/bootstrap/">Twitter Bootstrap framework</a></p></td>
+						<td><p class="centered"><a href="http://twitter.github.com/bootstrap/">Twitter Bootstrap framework</a></p></td>
 					</tr>
 					<tr>
-						<td><p class="lead centered"><a href="http://bootswatch.com/">Bootswatch theme</a>
+						<td><p class="centered"><a href="http://bootswatch.com/">Bootswatch theme</a>
 					</tr>
   				</table>
 			</div>

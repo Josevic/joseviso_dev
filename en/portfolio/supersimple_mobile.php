@@ -81,19 +81,19 @@
 				<!-- <img src="http://placehold.it/700x150"> -->
 				<table class="table table-bordered">
 					<tr>
-						<td><p class="lead centered">Pen</p></td>
+						<td><p class="centered">Pen</p></td>
 					</tr>
 					<tr>
-						<td><p class="lead centered">Paper</p></td>
+						<td><p class="centered">Paper</p></td>
 					</tr>
 					<tr>
-						<td><p class="lead centered">Marker</p></td>
+						<td><p class="centered">Marker</p></td>
 					</tr>
 					<tr>
-						<td><p class="lead centered">Scissors</p></td>
+						<td><p class="centered">Scissors</p></td>
 					</tr>
 					<tr>
-						<td><p class="lead centered">Post-its</p></td>
+						<td><p class="centered">Post-its</p></td>
 					</tr>
   				</table>
 			</div>

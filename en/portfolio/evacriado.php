@@ -73,13 +73,10 @@
 				<!-- <img src="http://placehold.it/700x150"> -->
 				<table class="table table-bordered">
 					<tr>
-						<td><p class="lead centered"><a href="http://www.nngroup.com/articles/ten-usability-heuristics/">10 Usability Heuristics</a> (Jakob Nielsen)</p></td>
+						<td><p class="centered"><a href="http://www.nngroup.com/articles/ten-usability-heuristics/">10 Usability Heuristics</a> (Jakob Nielsen)</p></td>
 					</tr>
 					<tr>
-						<td><p class="lead centered">iWork: Pages</p></td>
-					</tr>
-					<tr>
-						<td><p class="lead centered">Own Heuristic Evaluation template</p></td>
+						<td><p class="centered">Own Heuristic Evaluation template</p></td>
 					</tr>
   				</table>
 			</div>

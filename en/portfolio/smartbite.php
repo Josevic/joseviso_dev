@@ -96,16 +96,13 @@
 				<!-- <img src="http://placehold.it/700x150"> -->
 				<table class="table table-bordered">
 					<tr>
-						<td><p class="lead centered">Pen and Paper</p></td>
+						<td><p class="centered">Pen and Paper</p></td>
 					</tr>
 					<tr>
-						<td><p class="lead centered">Balsamiq Mockups</p></td>
+						<td><p class="centered">Balsamiq Mockups</p></td>
 					</tr>
 					<tr>
-						<td><p class="lead centered">Justinmind</p></td>
-					</tr>
-					<tr>
-						<td><p class="lead centered">Google Docs</p></td>
+						<td><p class="centered">Justinmind</p></td>
 					</tr>
   				</table>
 			</div>

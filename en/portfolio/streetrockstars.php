@@ -102,22 +102,19 @@
 				<!-- <img src="http://placehold.it/700x150"> -->
 				<table class="table table-bordered">
 					<tr>
-						<td><p class="lead centered">Pen and Paper</p></td>
+						<td><p class="centered">Pen and Paper</p></td>
 					</tr>
 					<tr>
-						<td><p class="lead centered">OmniGraffle</p></td>
+						<td><p class="centered">OmniGraffle</p></td>
 					</tr>
 					<tr>
-						<td><p class="lead centered">Balsamiq Mockups</p></td>
+						<td><p class="centered">Balsamiq Mockups</p></td>
 					</tr>
 					<tr>
-						<td><p class="lead centered">Adobe Fireworks CS5</p></td>
+						<td><p class="centered">Adobe Fireworks CS5</p></td>
 					</tr>
 					<tr>
-						<td><p class="lead centered">Axure RP</p></td>
-					</tr>
-					<tr>
-						<td><p class="lead centered">iWork (Pages)</p></td>
+						<td><p class="centered">Axure RP</p></td>
 					</tr>
   				</table>
 			</div>
