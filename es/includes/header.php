@@ -48,5 +48,5 @@
 	</div>
 
     <div class="container">
-    	<a class="pull-right" href="<?php echo $base; ?>/en/"><p class="muted">In English</p></a>
+    	<a class="pull-right" href="<?php echo $base; ?>/en/"><p id="change-language" class="muted">In English</p></a>
 	   

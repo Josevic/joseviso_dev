@@ -48,5 +48,5 @@
 
     <div class="container">
 
-    	<a class="pull-right" href="<?php echo $base; ?>/es/"><p class="muted">En Castellano</p></a>
+    	<a class="pull-right" href="<?php echo $base; ?>/es/"><p id="change-language" class="muted">En Castellano</p></a>
 	   
