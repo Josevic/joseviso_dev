@@ -63,7 +63,8 @@
 				
 				  <dt>Tags</dt>
 				  <dd>
-				      <a href="<?php echo $base . 'en/portfolio/category/photography'; ?>"><span class="label">Photography</span></a>
+				      <a href="<?php echo $base . 'en/portfolio/category/other'; ?>"><span class="label">Other</span></a>
+				      <span class="label label-important">Photography</span>
 				  </dd>
 				</dl>
 			</div>

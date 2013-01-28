@@ -92,6 +92,25 @@
 			</div>
 		</div>
 
+		<hr/>
+
+		<div class="row">
+			<div class="span12">
+				<h3>Detalles</h3>
+			</div>
+			<div class="span12">
+				<dl class="dl-horizontal">
+				  <dt>Fecha de Realización</dt>
+				  <dd>Agosto 2012</dd>
+				  <dt>Etiquetas</dt>
+				  <dd>
+				      <a href="<?php echo $base . 'es/portfolio/categoria/investigacion-de-usuarios'; ?>"><span class="label">Investigación de Usuarios</span></a>
+				      <a href="<?php echo $base . 'es/portfolio/categoria/diseno-de-interaccion'; ?>"><span class="label">Diseño de Interacción</span></a>
+				  </dd>
+				</dl>
+			</div>
+		</div>
+
 <?php 
 
 	 $project_name = "SuperSimple Mobile";
