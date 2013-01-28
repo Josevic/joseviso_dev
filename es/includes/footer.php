@@ -1,9 +1,8 @@
 	<hr/>
 
-	<div class="footer">
-				<p>2013 - Construído usando <a href="http://twitter.github.com/bootstrap/">Twitter Bootstrap</a>.</p>
-		</div>
-	</div>
+	<footer>
+		<p><small>2013 - Construído usando <a href="http://twitter.github.com/bootstrap/">Twitter Bootstrap</a>.</small></p>
+	</footer>
 
     <script src="http://code.jquery.com/jquery-latest.js"></script>
     <script src="<?php echo $base;?>/bootstrap/js/bootstrap.min.js"></script>
