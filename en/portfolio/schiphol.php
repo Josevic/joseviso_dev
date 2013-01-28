@@ -11,7 +11,7 @@
 		<!-- Summary -->
 		<div class="row spacer">
 			<div class="hero-unit span10">
-				<p>Helping to develop the mobile website and backend system of Amsterdam Airport Schiphol (one of Europe's largest), while working on M2Mobi.</p>
+				<p>Helping to develop the <a href="https://schiphol.mobi">mobile website</a> and backend system of <a href="http://en.wikipedia.org/wiki/Amsterdam_Airport_Schiphol">Amsterdam Airport Schiphol</a> (one of Europe's largest), while working on <a href="http://m2mobi.com">M2Mobi</a>.</p>
 			</div>
  		</div>
 
@@ -77,7 +77,7 @@
 						<td><p class="centered">CSS</p></td>
 					</tr>
 					<tr>
-						<td><p class="centered">CodeIgniter-based framework</p></td>
+						<td><p class="centered"><a href="http://ellislab.com/codeigniter">CodeIgniter</a>-based framework</p></td>
 					</tr>
 					<tr>
 						<td><p class="centered">Peer Review</p></td>
