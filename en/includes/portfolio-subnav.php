@@ -6,7 +6,7 @@
 	      <li <?php if (strpos($_SERVER['PHP_SELF'], 'heuristic-evaluation.php')) echo 'class="active"';?>><a href="<?php echo $base . 'en/portfolio/';?>category/heuristic-evaluation">Heuristic Evaluation</a></li>
 	      <li <?php if (strpos($_SERVER['PHP_SELF'], 'interaction-design.php')) echo 'class="active"';?>><a href="<?php echo $base . 'en/portfolio/';?>category/interaction-design">Interaction Design</a></li>
 	      <li <?php if (strpos($_SERVER['PHP_SELF'], 'development.php')) echo 'class="active"';?>><a href="<?php echo $base . 'en/portfolio/';?>category/development">Development</a></li>
-	      <li <?php if (strpos($_SERVER['PHP_SELF'], 'photography.php')) echo 'class="active"';?>><a href="<?php echo $base . 'en/portfolio/';?>category/photography">Photography</a></li>
+	      <li <?php if (strpos($_SERVER['PHP_SELF'], 'other.php')) echo 'class="active"';?>><a href="<?php echo $base . 'en/portfolio/';?>category/other">Other</a></li>
 	    </ul>
 	  </div>
 	</div>
@@ -55,7 +55,7 @@
 					"streetrockstars" => "Street Rockstars"
 			);
 
-		$photography = array(
+		$other = array(
 		 			"amsterdammers" 	=> "Amsterdammers"
 		 		);
 	?>

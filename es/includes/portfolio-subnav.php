@@ -6,7 +6,7 @@
 	      <li <?php if (strpos($_SERVER['PHP_SELF'], 'evaluacion-heuristica.php')) echo 'class="active"';?>><a href="<?php echo $base . 'es/portfolio/';?>categoria/evaluacion-heuristica">Evaluación Heurística</a></li>
 	      <li <?php if (strpos($_SERVER['PHP_SELF'], 'diseno-de-interaccion.php')) echo 'class="active"';?>><a href="<?php echo $base . 'es/portfolio/';?>categoria/diseno-de-interaccion">Diseño de Interacción</a></li>
 	      <li <?php if (strpos($_SERVER['PHP_SELF'], 'desarrollo.php')) echo 'class="active"';?>><a href="<?php echo $base . 'es/portfolio/';?>categoria/desarrollo">Desarrollo</a></li>
-	      <li <?php if (strpos($_SERVER['PHP_SELF'], 'fotografia.php')) echo 'class="active"';?>><a href="<?php echo $base . 'es/portfolio/';?>categoria/fotografia">Fotografía</a></li>
+	      <li <?php if (strpos($_SERVER['PHP_SELF'], 'otro.php')) echo 'class="active"';?>><a href="<?php echo $base . 'es/portfolio/';?>categoria/otro">Otro</a></li>
 	    </ul>
 	  </div>
 	</div>
@@ -51,9 +51,11 @@
 		 			"takemethere" 		 => "Take Me There"
 		 		);
 
-		$development = array();
+		$development = array(
+				"streetrockstars" => "Street Rockstars"
+			);
 
-		$photography = array(
+		$other = array(
 		 			"amsterdammers" 	=> "Amsterdammers"
 		 		);
 	?>
