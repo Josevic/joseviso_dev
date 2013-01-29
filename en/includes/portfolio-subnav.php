@@ -22,6 +22,7 @@
                 <option value="<?php echo $base . 'en/portfolio'?>" <?php if (strpos($_SERVER['PHP_SELF'], 'index.php')) echo 'selected="selected"';?>>All</option>
                 <option value="<?php echo $base . 'en/portfolio/category/user-research'?>" <?php if (strpos($_SERVER['PHP_SELF'], 'user-research.php')) echo 'selected="selected"';?>>User Research</option>
                 <option value="<?php echo $base . 'en/portfolio/category/heuristic-evaluation'?>" <?php if (strpos($_SERVER['PHP_SELF'], 'heuristic-evaluation.php')) echo 'selected="selected"';?>>Heuristic Evaluation</option>
+                <option value="<?php echo $base . 'en/portfolio/category/interaction-design'?>" <?php if (strpos($_SERVER['PHP_SELF'], 'interaction-design.php')) echo 'selected="selected"';?>>Interaction Design</option>
                 <option value="<?php echo $base . 'en/portfolio/category/development'?>" <?php if (strpos($_SERVER['PHP_SELF'], 'development.php')) echo 'selected="selected"';?>>Development</option>
                 <option value="<?php echo $base . 'en/portfolio/category/other'?>" <?php if (strpos($_SERVER['PHP_SELF'], 'other.php')) echo 'selected="selected"';?>>Other</option>
               </select>
