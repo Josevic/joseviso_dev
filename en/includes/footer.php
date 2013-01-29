@@ -25,6 +25,11 @@
 		  $("html, body").animate({ scrollTop: 0 }, "slow");
 		  return false;
 		});	
+
+	  function redirectMe (sel) {
+		    var url = sel[sel.selectedIndex].value;
+		    window.location = url;
+	  }
 	</script>
   </body>
 
