@@ -1,5 +1,5 @@
 	<div class="row visible-desktop visible-tablet">
-	  <div class="span12 centered-pills test11">
+	  <div class="span12 centered-pills">
 	    <ul class="nav nav-pills">
 	      <li <?php if (strpos($_SERVER['PHP_SELF'], 'index.php')) echo 'class="active"';?>><a href="<?php echo $base . 'en/portfolio'; ?>">All</a></li>
 	      <li <?php if (strpos($_SERVER['PHP_SELF'], 'user-research.php')) echo 'class="active"';?>><a href="<?php echo $base . 'en/portfolio/';?>category/user-research">User Research</a></li>		  
@@ -11,9 +11,25 @@
 	  </div>
 	</div>
 
-	<div class="row visible-phone">
-	  testtt
-	</div>
+	
+	  <div class="row clearfix visible-phone">
+	  	<div class="span1">
+	  		<h5>Portfolio Category</h5>
+	  	</div>
+	  	<div class="span11">
+        	<div class="controls">
+              <select name="myselect" onchange="redirectMe(this);">
+                <option value="<?php echo $base . 'en/portfolio'?>" <?php if (strpos($_SERVER['PHP_SELF'], 'index.php')) echo 'selected="selected"';?>>All</option>
+                <option value="<?php echo $base . 'en/portfolio/category/user-research'?>" <?php if (strpos($_SERVER['PHP_SELF'], 'user-research.php')) echo 'selected="selected"';?>>User Research</option>
+                <option value="<?php echo $base . 'en/portfolio/category/heuristic-evaluation'?>" <?php if (strpos($_SERVER['PHP_SELF'], 'heuristic-evaluation.php')) echo 'selected="selected"';?>>Heuristic Evaluation</option>
+                <option value="<?php echo $base . 'en/portfolio/category/development'?>" <?php if (strpos($_SERVER['PHP_SELF'], 'development.php')) echo 'selected="selected"';?>>Development</option>
+                <option value="<?php echo $base . 'en/portfolio/category/other'?>" <?php if (strpos($_SERVER['PHP_SELF'], 'other.php')) echo 'selected="selected"';?>>Other</option>
+              </select>
+            </div>
+        </div>
+      </div>
+  	
+
 
 	<?php
 
