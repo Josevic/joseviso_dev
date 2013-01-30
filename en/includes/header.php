@@ -1,7 +1,7 @@
 <?php 
 
-	//$base = "../..";
-	$base = "/joseviso_dev/";
+	//$base = "http://joseviso.com";
+	$base = "/joseviso_dev";
 
  ?>
 
