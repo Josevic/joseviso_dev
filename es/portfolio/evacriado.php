@@ -98,8 +98,8 @@
 				
 				  <dt>Etiquetas</dt>
 				  <dd>
-				      <a href="<?php echo $base . 'es/portfolio/categoria/investigacion-de-usuarios'; ?>"><span class="label">Investigación de Usuarios</span></a>
-				      <a href="<?php echo $base . 'es/portfolio/categoria/evaluacion-heuristica'; ?>"><span class="label">Investigación de Usuarios</span></a>
+				      <a href="<?php echo $base . '/es/portfolio/categoria/investigacion-de-usuarios'; ?>"><span class="label">Investigación de Usuarios</span></a>
+				      <a href="<?php echo $base . '/es/portfolio/categoria/evaluacion-heuristica'; ?>"><span class="label">Investigación de Usuarios</span></a>
 				  </dd>
 				</dl>
 			</div>

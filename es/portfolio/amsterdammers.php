@@ -63,7 +63,7 @@
 				
 				  <dt>Etiquetas</dt>
 				  <dd>
-				      <a href="<?php echo $base . 'en/portfolio/category/otro'; ?>"><span class="label">Otro</span></a>
+				      <a href="<?php echo $base . '/en/portfolio/category/otro'; ?>"><span class="label">Otro</span></a>
 				      <span class="label label-important">Fotografía</span>
 				  </dd>
 				</dl>

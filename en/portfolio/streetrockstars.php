@@ -133,9 +133,9 @@
 				
 				  <dt>Tags</dt>
 				  <dd>
-				      <a href="<?php echo $base . 'en/portfolio/category/user-research'; ?>"><span class="label">User Research</span></a>
-				 	  <a href="<?php echo $base . 'en/portfolio/category/interaction-design'; ?>"><span class="label">Interaction Design</span></a>
-				 	  <a href="<?php echo $base . 'en/portfolio/category/development'; ?>"><span class="label">Development</span></a>
+				      <a href="<?php echo $base . '/en/portfolio/category/user-research'; ?>"><span class="label">User Research</span></a>
+				 	  <a href="<?php echo $base . '/en/portfolio/category/interaction-design'; ?>"><span class="label">Interaction Design</span></a>
+				 	  <a href="<?php echo $base . '/en/portfolio/category/development'; ?>"><span class="label">Development</span></a>
 				  </dd>
 				</dl>
 			</div>

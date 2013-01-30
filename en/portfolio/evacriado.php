@@ -93,8 +93,8 @@
 				
 				  <dt>Tags</dt>
 				  <dd>
-				      <a href="<?php echo $base . 'en/portfolio/category/user-research'; ?>"><span class="label">User Research</span></a>
-				      <a href="<?php echo $base . 'en/portfolio/category/heuristic-evaluation'; ?>"><span class="label">Heuristic Evaluation</span></a>
+				      <a href="<?php echo $base . '/en/portfolio/category/user-research'; ?>"><span class="label">User Research</span></a>
+				      <a href="<?php echo $base . '/en/portfolio/category/heuristic-evaluation'; ?>"><span class="label">Heuristic Evaluation</span></a>
     			  </dd>
 				</dl>
 			</div>
