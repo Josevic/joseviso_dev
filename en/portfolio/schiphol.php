@@ -24,8 +24,9 @@
 			</div>
 			<div class="span6">
 				<ul>
-					<li><p class="spacer">Integrated social networks on mobile website and backend, to connect with the iPhone and Android apps.</p></li>
-					<li><p class="">Developed previously existing notification system, including: email, SMS and push notifications to Android and iPhone.</p></li>
+					<li><p class="">Integrated social networks functions on mobile website and backend, to connect with the iPhone and Android apps.</p></li>
+					<li><p class="">Developed previously existing notification system, including: email, SMS and push notifications to iPhone and Android apps.</p></li>
+					<li><p class="">Helped to improve the translation system of the mobile website.</p></li>
 				</ul>
 			</div>
 			<div class="span6">
@@ -35,15 +36,15 @@
 					<!-- Carousel items -->  
 				    <div class="carousel-inner">  
 				    	<div class="active item">
-				        	<img src="../../images/schiphol_snlogin.png" alt="Social Networks login" border="1"/>
+				        	<img src="../../images/schiphol_snlogin.png" alt="Page for signing in with social networks" border="1"/>
 				        	<div class="carousel-caption">
-				        		<p>Social Networks login page</p>
+				        		<p>Page for signing in with social networks</p>
 				        	</div>
 				        </div>  
 				        <div class="item">
-				        	<img src="../../images/schiphol_notifications.png" alt="Notifications page" />
+				        	<img src="../../images/schiphol_notifications.png" alt="Flight notifications page" />
 				        	<div class="carousel-caption">
-				        		<p>Notifications page</p>
+				        		<p>Flight notifications page</p>
 				        	</div>
 				        </div>  
 				        
@@ -102,7 +103,7 @@
 				
 				  <dt>Tags</dt>
 				  <dd>
-				      <a href="<?php echo $base . 'en/portfolio/category/development'; ?>"><span class="label">Development</span></a>
+				      <a href="<?php echo $base . '/en/portfolio/category/development'; ?>"><span class="label">Development</span></a>
 				  </dd>
 				</dl>
 			</div>
@@ -110,7 +111,7 @@
 
 	<?php 
 
-	 $project_name = "Take Me There";
+	 $project_name = "Schiphol";
 	 include("../includes/portfolio_extra.php"); 
 	 include("../includes/footer.php"); 
 
