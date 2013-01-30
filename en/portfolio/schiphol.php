@@ -11,7 +11,7 @@
 		<!-- Summary -->
 		<div class="row spacer">
 			<div class="hero-unit span10">
-				<p>Helping to develop the <a href="https://schiphol.mobi">mobile website</a> and backend system of <a href="http://en.wikipedia.org/wiki/Amsterdam_Airport_Schiphol">Amsterdam Airport Schiphol</a> (one of Europe's largest), while working on <a href="http://m2mobi.com">M2Mobi</a>.</p>
+				<p>I contributed to this project helping to develop the <a href="https://schiphol.mobi">mobile website</a> and backend system of <a href="http://en.wikipedia.org/wiki/Amsterdam_Airport_Schiphol">Amsterdam Airport Schiphol</a> (one of Europe's largest), while working on <a href="http://m2mobi.com">M2Mobi</a>.</p>
 			</div>
  		</div>
 
@@ -24,9 +24,9 @@
 			</div>
 			<div class="span6">
 				<ul>
-					<li><p class="">Integrated social networks functions on mobile website and backend, to connect with the iPhone and Android apps.</p></li>
-					<li><p class="">Developed previously existing notification system, including: email, SMS and push notifications to iPhone and Android apps.</p></li>
-					<li><p class="">Helped to improve the translation system of the mobile website.</p></li>
+					<li><p class="spacer">Integrated social networks functions on mobile website and backend, to connect with the iPhone and Android apps.</p></li>
+					<li><p class="spacer">Developed previously existing notification system, including: email, SMS and push notifications to iPhone and Android apps.</p></li>
+					<li><p class="spacer">Helped to improve the translation system of the mobile website.</p></li>
 				</ul>
 			</div>
 			<div class="span6">
@@ -63,7 +63,7 @@
 		<!-- Tools Used -->
 		<div class="row">
 			<div class="span12">
-				<h3>Tools Used</h3>
+				<h3>Tools and Methodologies used</h3>
 			</div>
 			<div class="offset4 span4">
 				<!-- <img src="http://placehold.it/700x150"> -->
