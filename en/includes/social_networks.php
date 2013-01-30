@@ -51,5 +51,13 @@
 			      </a>
 			    </div>
 			  </li>
+			  <li class="span1">
+			    <div class="thumbnail">
+			      <a href="http://www.pinterest.com/joseviso">
+			      	<img src="../images/icons/PNG/64x64/pinterest.png" alt="">
+			      	<p>Pinterest</p>
+			      </a>
+			    </div>
+			  </li>
 			</ul>
 		</div>
