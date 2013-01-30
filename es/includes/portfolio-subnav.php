@@ -40,7 +40,8 @@
 		 			"amsterdammers"		 => "Amsterdammers",
 		 			"supersimple_mobile" => "SuperSimple Mobile",
 		 			"nextepisode" 		 => "NextEpisode",
-		 			"takemethere" 		 => "Take Me There"
+		 			"takemethere" 		 => "Take Me There",
+		 			"schiphol"			 => "Schiphol"
 		 		);
 		
 		$user_research = array(
@@ -66,7 +67,8 @@
 		 		);
 
 		$development = array(
-				"streetrockstars" => "Street Rockstars"
+				"streetrockstars" => "Street Rockstars",
+				"schiphol"		  => "Schiphol"
 			);
 
 		$other = array(
