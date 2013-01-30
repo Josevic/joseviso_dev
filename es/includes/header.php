@@ -1,6 +1,6 @@
 <?php 
 
-	$base = "../..";
+	$base = "http://joseviso.com";
 	//$base = "/joseviso_dev/";
  ?>
 
