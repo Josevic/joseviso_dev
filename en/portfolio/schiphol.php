@@ -11,7 +11,7 @@
 		<!-- Summary -->
 		<div class="row spacer">
 			<div class="hero-unit span10">
-				<p>I contributed to this project helping to develop the <a href="https://schiphol.mobi">mobile website</a> and backend system of <a href="http://en.wikipedia.org/wiki/Amsterdam_Airport_Schiphol">Amsterdam Airport Schiphol</a> (one of Europe's largest), while working on <a href="http://m2mobi.com">M2Mobi</a>.</p>
+				<p>I contributed to this project helping to develop the <a href="https://schiphol.mobi">mobile website</a> and backend system of <a href="http://en.wikipedia.org/wiki/Amsterdam_Airport_Schiphol">Amsterdam Airport Schiphol</a> (one of Europe's largest), while working for <a href="http://m2mobi.com">M2Mobi</a>.</p>
 			</div>
  		</div>
 
