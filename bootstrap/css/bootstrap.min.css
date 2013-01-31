@@ -935,4 +935,8 @@ ul#social_networks_bar .thumbnail {
 * html .centered-pills ul.nav-pills { display:inline; } /* IE6 */
 *+html .centered-pills ul.nav-pills { display:inline; } /* IE7 */
 
+.contact-method{
+	margin-top:14px;
+}
+
 
