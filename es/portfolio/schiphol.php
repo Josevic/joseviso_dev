@@ -78,6 +78,9 @@
 						<td><p class="centered">CSS</p></td>
 					</tr>
 					<tr>
+						<td><p class="centered">Git</p></td>
+					</tr>
+					<tr>
 						<td><p class="centered">Framework basado en <a href="http://ellislab.com/codeigniter">CodeIgniter</a></p></td>
 					</tr>
 					<tr>
