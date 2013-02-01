@@ -1,3 +1,5 @@
+	<p class="pull-right hidden-desktop to-top"><a href="#top"><i class="icon-arrow-up"></i>Go to Top</a></p>
+	
 	<hr/>
 
 	<footer>
