@@ -4,6 +4,8 @@
  	$page_description = "Formas de contactarme.";
 
 	include("includes/header.php"); ?>
+
+	<h1 class="hidden-desktop centered">Contacto</h1>
 		
 		<form class="form-horizontal spacer" action="process" method="POST">
 			<div class="row">
