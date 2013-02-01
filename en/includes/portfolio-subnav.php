@@ -11,12 +11,14 @@
 	  </div>
 	</div>
 
-	
-	  <div class="row clearfix visible-phone">
-	  	<div class="span1">
-	  		<h5>Portfolio Category</h5>
-	  	</div>
-	  	<div class="span11">
+	<div class="row centered hidden-desktop">
+	 	<div class="span12">
+	 		<h1>Portfolio</h1>
+	 	</div>
+	</div>
+
+	 <div class="row clearfix visible-phone centered">
+	  	<div class="span12">
         	<div class="controls">
               <select name="myselect" onchange="redirectMe(this);">
                 <option value="<?php echo $base . '/en/portfolio'?>" <?php if (strpos($_SERVER['PHP_SELF'], 'index.php')) echo 'selected="selected"';?>>All</option>
