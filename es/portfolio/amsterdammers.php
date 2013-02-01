@@ -79,8 +79,6 @@
 		  <li class="active">Amsterdammers</li>
 		</ul>	
 
-		<p class="pull-right"><a href="#top"><i class="icon-arrow-up"></i>Ir hacia Arriba</a></p>
-
 	 <?php 
 
 	 include("../includes/footer.php"); 
