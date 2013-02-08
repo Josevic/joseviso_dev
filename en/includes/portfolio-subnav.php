@@ -4,26 +4,26 @@
 				<li><a href="<?php echo $base; ?>">Home</a> <span class="divider">/</span></li>
 				<?php 
 					if (strpos($_SERVER['PHP_SELF'], 'index.php')) {
-						echo "<li>Portfolio</li>";
+						echo "<lic class='active'>Portfolio</li>";
 					}		
 					else{
 						echo "<li><a href='". $base . "/en/portfolio'>" . "Portfolio</a></li>";
 					}
 					
 					if (strpos($_SERVER['PHP_SELF'], 'user-research.php')){
-						echo "<li><span class='divider'>/</span>User Research</li>";
+						echo "<li class='active'><span class='divider'> / </span>User Research</li>";
 					}
 					elseif (strpos($_SERVER['PHP_SELF'], 'heuristic-evaluation.php')) {
-						echo "<li><span class='divider'>/</span>Heuristic Evaluation</li>";
+						echo "<li class='active'><span class='divider'>/</span>Heuristic Evaluation</li>";
 					}
 					elseif (strpos($_SERVER['PHP_SELF'], 'interaction-design.php')){
-						echo "<li><span class='divider'>/</span>Interaction Design</li>";
+						echo "<li class='active'><span class='divider'>/</span>Interaction Design</li>";
 					}
 					elseif (strpos($_SERVER['PHP_SELF'], 'development.php')){
-						echo "<li><span class='divider'>/</span>Development</li>";
+						echo "<li class='active'><span class='divider'>/</span>Development</li>";
 					}
 					elseif (strpos($_SERVER['PHP_SELF'], 'other.php')){
-						echo "<li><span class='divider'>/</span>Other</li>";
+						echo "<li class='active'><span class='divider'>/</span>Other</li>";
 					}
 				?>		  
 		    </ul>

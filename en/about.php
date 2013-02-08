@@ -10,7 +10,7 @@
 		<div class="span6">
 			<ul class="breadcrumb">
 				<li><a href="<?php echo $base; ?>">Home</a> <span class="divider">/</span></li>
-				<li>About</li>
+				<li class="active">About</li>
 			</ul>
 		</div>
 	</div>
