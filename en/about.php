@@ -5,7 +5,15 @@
 
 	include("includes/header.php"); ?>
 		
-	<h1 class="hidden-desktop centered">About</h1>
+	<!-- <h1 class="hidden-desktop centered">About</h1> -->
+	<div class="row hidden-desktop">
+		<div class="span6">
+			<ul class="breadcrumb">
+				<li><a href="<?php echo $base; ?>">Home</a> <span class="divider">/</span></li>
+				<li>About</li>
+			</ul>
+		</div>
+	</div>
 
 	<h3>Bio</h3>
 	<p>I was born in Almería, Spain, on 29th September 1984, though I lived on Adra (a near town) until I was 18. During school I always felt attracted by science and gadgets. So since pretty early I was sure I wanted to study something related with computers.</p>
