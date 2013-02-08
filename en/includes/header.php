@@ -35,13 +35,16 @@
 		        <span class="icon-bar"></span>
 		    </a>
 	       <a class="brand" href="<?php echo $base; ?>">Jose Viso</a>
+	       <div class="nav-collapse collapse pull-left visible-phone">
+	       		<a href="<?php echo $base; ?>/es/"><p id="change-language" style="color:black;">En Castellano</p></a></li>
+	       </div>
 		   
 	       <div class="nav-collapse collapse pull-right" id="main-menu">
 		       <ul class="nav" id="main-menu-left">
 		          <li <?php if (strpos($_SERVER['PHP_SELF'], 'about.php')) echo 'class="active"';?>><a href="<?php echo $base;?>/en/about">About</a></li>
 				  <li <?php if (strpos($_SERVER['PHP_SELF'], 'portfolio')) echo 'class="active"';?>><a href="<?php echo $base;?>/en/portfolio">Portfolio</a></li>
 				  <li <?php if (strpos($_SERVER['PHP_SELF'], 'contact.php')) echo 'class="active"';?>><a href="<?php echo $base;?>/en/contact">Contact</a></li>
-		       </ul>
+				</ul>
 	       </div>
 	     </div>
 	   </div>
@@ -49,5 +52,5 @@
 
     <div class="container">
 
-    	<a class="pull-right" href="<?php echo $base; ?>/es/"><p id="change-language" class="muted">En Castellano</p></a>
+    	<a class="pull-right hidden-phone" href="<?php echo $base; ?>/es/"><p id="change-language" class="muted">En Castellano</p></a>
 	   
