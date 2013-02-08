@@ -5,11 +5,19 @@
 
 	include("includes/header.php"); ?>
 
-	<h1 class="hidden-desktop centered">Contact</h1>
+	<!-- <h1 class="hidden-desktop centered">Contact</h1> -->
+	<div class="row hidden-desktop">
+		<div class="span6">
+			<ul class="breadcrumb">
+				<li><a href="<?php echo $base; ?>">Home</a> <span class="divider">/</span></li>
+				<li>Contact</li>
+			</ul>
+		</div>
+	</div>
 		
-		<form class="form-horizontal spacer" action="process" method="POST">
+		<form class="form-horizontal" action="process" method="POST">
 			<div class="row">
-				<div class="well span7">
+				<div class="span7">
 					<fieldset> 
 						<div id="legend" class="">
 				        	<h4>Contact Form</h4>
@@ -47,9 +55,10 @@
 				</div>
 			</div>
 		</form>
+		<hr/>
 	
 		<div class="row">
-			<div class="well span7">
+			<div class="span7">
 				<h4>Email</h4>
 				<div class="centered">
 					<div class="offset1 span1">
@@ -61,9 +70,10 @@
 				</div>
 			</div>
 		</div>
+		<hr/>
 
 		<div class="row visible-phone contact-method">
-			<div class="well span7">
+			<div class="span7">
 				<h4>Phone Number</h4>
 				<div class="centered">
 					<div class="offset1 span1">
@@ -75,9 +85,10 @@
 				</div>
 			</div>
 		</div>
+		<hr/>
 
 		<div class="row hidden-phone contact-method">
-			<div class="well span7">
+			<div class="span7">
 				<h4>Phone Number</h4>
 				<div class="centered">
 					<div class="offset1 span1">
@@ -91,7 +102,7 @@
 		</div>
 
 		<div class="row contact-method">
-			<div class="well span7">
+			<div class="span7">
 				<h4>Skype</h4>
 				<div class="centered">
 					<div class="offset1 span1">
