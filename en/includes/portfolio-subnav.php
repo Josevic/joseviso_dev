@@ -65,7 +65,16 @@
 	  	<div class="span12">
         	<div class="controls">
               <select name="myselect" onchange="redirectMe(this);">
-              	<option value="" disabled selected>Filter by category</option>
+              	<option value="" disabled selected>
+              		<?php 
+              			if (strpos($_SERVER['PHP_SELF'], 'index.php')){
+              				echo  "Filter by category";	
+              			}
+              			else{
+              				echo "Filter by another category";
+              			}
+              		?>
+              	</option>
                 <option value="<?php echo $base . '/en/portfolio'?>">All</option>
                 <option value="<?php echo $base . '/en/portfolio/category/user-research'?>">User Research</option>
                 <option value="<?php echo $base . '/en/portfolio/category/heuristic-evaluation'?>">Heuristic Evaluation</option>
