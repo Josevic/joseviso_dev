@@ -1,3 +1,35 @@
+	<div class="row hidden-desktop">
+		<div class="span6">
+			<ul class="breadcrumb">
+				<li><a href="<?php echo $base; ?>">Home</a> <span class="divider">/</span></li>
+				<?php 
+					if (strpos($_SERVER['PHP_SELF'], 'index.php')) {
+						echo "<li>Portfolio</li>";
+					}		
+					else{
+						echo "<li><a href='". $base . "/en/portfolio'>" . "Portfolio</a></li>";
+					}
+					
+					if (strpos($_SERVER['PHP_SELF'], 'user-research.php')){
+						echo "<li><span class='divider'>/</span>User Research</li>";
+					}
+					elseif (strpos($_SERVER['PHP_SELF'], 'heuristic-evaluation.php')) {
+						echo "<li><span class='divider'>/</span>Heuristic Evaluation</li>";
+					}
+					elseif (strpos($_SERVER['PHP_SELF'], 'interaction-design.php')){
+						echo "<li><span class='divider'>/</span>Interaction Design</li>";
+					}
+					elseif (strpos($_SERVER['PHP_SELF'], 'development.php')){
+						echo "<li><span class='divider'>/</span>Development</li>";
+					}
+					elseif (strpos($_SERVER['PHP_SELF'], 'other.php')){
+						echo "<li><span class='divider'>/</span>Other</li>";
+					}
+				?>		  
+		    </ul>
+		</div>
+	</div>
+
 	<div class="row visible-desktop visible-tablet">
 	  <div class="span12 centered-pills">
 	    <ul class="nav nav-pills">
@@ -11,12 +43,8 @@
 	  </div>
 	</div>
 
-	<div class="row centered hidden-desktop">
-	 	<div class="span12">
-	 		<h1>Portfolio</h1>
-	 	</div>
-	</div>
 
+	<!-- 
 	 <div class="row clearfix visible-phone centered">
 	  	<div class="span12">
         	<div class="controls">
@@ -31,8 +59,23 @@
             </div>
         </div>
       </div>
-  	
+	-->	
 
+	<div class="row clearfix visible-phone centered">
+	  	<div class="span12">
+        	<div class="controls">
+              <select name="myselect" onchange="redirectMe(this);">
+              	<option value="" disabled selected>Filter by category</option>
+                <option value="<?php echo $base . '/en/portfolio'?>">All</option>
+                <option value="<?php echo $base . '/en/portfolio/category/user-research'?>">User Research</option>
+                <option value="<?php echo $base . '/en/portfolio/category/heuristic-evaluation'?>">Heuristic Evaluation</option>
+                <option value="<?php echo $base . '/en/portfolio/category/interaction-design'?>">Interaction Design</option>
+                <option value="<?php echo $base . '/en/portfolio/category/development'?>">Development</option>
+                <option value="<?php echo $base . '/en/portfolio/category/other'?>">Other</option>
+              </select>
+            </div>
+        </div>
+      </div>
 
 	<?php
 
