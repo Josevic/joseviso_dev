@@ -5,6 +5,15 @@
 
 	include("../includes/header.php"); ?>
 
+	<div class="row hidden-desktop">
+		<div class="span6">
+			<ul class="breadcrumb">
+				<li><a href="<?php echo $base; ?>">Home</a> <span class="divider">/</span></li>
+				<li><a href="<?php echo $base; ?>/en/portfolio"> Portfolio</a> <span class="divider">/</span></li>
+				<li class="active">SmartBite</li>	
+		    </ul>
+		</div>
+	</div>
 
 		<!-- Big Text -->	
 		<div class="header spacer"><h1>SmartBite</h1></div>
@@ -129,12 +138,13 @@
 			</div>
 		</div>
 
-	 <?php 
+		<!-- Indicator of location inside Portfolio -->
+		<ul class="breadcrumb hidden-phone spacer">
+		  <li><a href="<?php echo $base; ?>">Home</a> <span class="divider">/</span></li>
+		  <li><a href="../portfolio">Portfolio</a> <span class="divider">/</span></li>
+		  <li class="active">SmartBite</li>
+		</ul>
 
-	 $project_name = "SmartBite";
-	 include("../includes/portfolio_extra.php"); 
-	 include("../includes/footer.php"); 
-
-	 ?>
+	 <?php include("../includes/footer.php"); ?>
 		
 		
