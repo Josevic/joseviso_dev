@@ -25,7 +25,7 @@
 				<a class="btn btn-large btn-primary pull-right" href="HE_EvaSpa.pdf">Download the Heuristic Evaluation</a>
 			</div>
 
-			<div class="span3 pull-right" >
+			<div class="span3 pull-right hidden-phone" >
 				<img src="../../images/thumb_evaspa.jpg" class="img-rounded">
 			</div>
 		</div>

@@ -27,7 +27,7 @@
 				<br/>
 				<a class="btn btn-large btn-primary pull-right" href="https://dl.dropbox.com/u/3953712/SmartBite/test/screens/iPhoneDashboard.html">Try the interactive prototype!</a>
 			</div>
-			<div class="span3 pull-right">
+			<div class="span3 pull-right hidden-phone">
 				<img src="../../images/smartbite.png">
 			</div>
 		</div>
