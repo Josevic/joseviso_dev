@@ -35,6 +35,9 @@
 		    </a>
 
 	       <a class="brand" href="<?php echo $base;?>/es/">Jose Viso</a>
+	       <div class="nav-collapse collapse pull-left visible-phone">
+	       		<a href="<?php echo $base; ?>/en/"><p id="change-language" style="color:black;">In English</p></a>
+	       </div>
 		   
 	       <div class="nav-collapse collapse pull-right" id="main-menu">
 		       <ul class="nav" id="main-menu-left">
@@ -48,5 +51,5 @@
 	</div>
 
     <div class="container">
-    	<a class="pull-right" href="<?php echo $base; ?>/en/"><p id="change-language" class="muted">In English</p></a>
+    	<a class="pull-right hidden-phone" href="<?php echo $base; ?>/en/"><p id="change-language" class="muted">In English</p></a>
 	   

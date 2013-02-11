@@ -6,6 +6,16 @@
 
 	include("../includes/header.php"); ?>
 
+	<div class="row hidden-desktop">
+		<div class="span6">
+			<ul class="breadcrumb">
+				<li><a href="<?php echo $base; ?>/es/">Inicio</a> <span class="divider">/</span></li>
+				<li><a href="<?php echo $base; ?>/es/portfolio"> Portfolio</a> <span class="divider">/</span></li>
+				<li class="active">Amsterdammers</li>	
+		    </ul>
+		</div>
+	</div>
+
 
 		<!-- Big Text -->	
 		<div id="top" class="header spacer"><h1>Amsterdammers</h1></div>
@@ -70,17 +80,11 @@
 			</div>
 		</div>
 
-
-		<hr/>
-
 		<!-- Indicator of location inside Portfolio -->
-		<ul class="breadcrumb">
+		<ul class="breadcrumb hidden-phone spacer">
+		  <li><a href="<?php echo $base; ?>/es/">Inicio</a> <span class="divider">/</span></li>
 		  <li><a href="../portfolio">Portfolio</a> <span class="divider">/</span></li>
 		  <li class="active">Amsterdammers</li>
 		</ul>	
 
-	 <?php 
-
-	 include("../includes/footer.php"); 
-
-	 ?>
+	 <?php include("../includes/footer.php"); ?>

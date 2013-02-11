@@ -5,7 +5,14 @@
 
 	include("includes/header.php"); ?>
 
-	<h1 class="hidden-desktop centered">Sobre mí</h1>
+	<div class="row hidden-desktop">
+		<div class="span6">
+			<ul class="breadcrumb">
+				<li><a href="<?php echo $base; ?>/es/">Inicio</a> <span class="divider">/</span></li>
+				<li class="active">Sobre mí</li>
+			</ul>
+		</div>
+	</div>
 
 	<div class="row">
 		<div class="span12">

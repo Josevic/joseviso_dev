@@ -5,6 +5,16 @@
 	
 	include("../includes/header.php"); ?>
 
+	<div class="row hidden-desktop">
+		<div class="span6">
+			<ul class="breadcrumb">
+				<li><a href="<?php echo $base; ?>/es/">Inicio</a> <span class="divider">/</span></li>
+				<li><a href="<?php echo $base; ?>/es/portfolio"> Portfolio</a> <span class="divider">/</span></li>
+				<li class="active">SmartBite</li>	
+		    </ul>
+		</div>
+	</div>
+
 		<!-- Big Text -->	
 		<div class="header spacer"><h1>SmartBite</h1></div>
 		
@@ -15,7 +25,7 @@
 				<br/>
 				<a class="btn btn-large btn-primary pull-right" href="https://dl.dropbox.com/u/3953712/SmartBite/test/screens/iPhoneDashboard.html">¡Prueba el prototipo interactivo!</a>
 			</div>
-			<div class="span3 pull-right">
+			<div class="span3 pull-right hidden-phone">
 				<img src="../../images/smartbite.png">
 			</div>
 		</div>
@@ -125,10 +135,11 @@
 			</div>
 		</div>
 
-<?php 
+		<!-- Indicator of location inside Portfolio -->
+		<ul class="breadcrumb hidden-phone spacer">
+		  <li><a href="<?php echo $base; ?>/es/">Inicio</a> <span class="divider">/</span></li>
+		  <li><a href="../portfolio">Portfolio</a> <span class="divider">/</span></li>
+		  <li class="active">SmartBite</li>
+		</ul>
 
-	 $project_name = "SmartBite";
-	 include("../includes/portfolio_extra.php"); 
-	 include("../includes/footer.php"); 
-
-?>
+<?php include("../includes/footer.php"); ?>

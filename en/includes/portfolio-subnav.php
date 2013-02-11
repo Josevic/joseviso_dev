@@ -4,7 +4,7 @@
 				<li><a href="<?php echo $base; ?>">Home</a> <span class="divider">/</span></li>
 				<?php 
 					if (strpos($_SERVER['PHP_SELF'], 'index.php')) {
-						echo "<lic class='active'>Portfolio</li>";
+						echo "<li class='active'>Portfolio</li>";
 					}		
 					else{
 						echo "<li><a href='". $base . "/en/portfolio'>" . "Portfolio</a></li>";
