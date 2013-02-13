@@ -14,7 +14,7 @@
 		 	<img class="img-polaroid" src="../images/jose.png">
 		 </div>		
 		<blockquote>
-			<p class="spacer lead">Me llamo José Viso y me dedico a crear software que sea realmente útil y fácil de usar. Me encantan los deportes y la fotografía. Además soy el creador de <a href="http://streetrockstars.com">Street Rockstars</a>.</p>
+			<p class="spacer lead">Me dedico a crear software que sea realmente útil, simple y fácil de usar. Me encantan los deportes y la fotografía. Además soy el creador de <a href="http://streetrockstars.com">Street Rockstars</a>.</p>
  		</blockquote>
 	
 	   </div>
