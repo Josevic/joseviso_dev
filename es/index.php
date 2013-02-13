@@ -6,16 +6,21 @@
 	include("includes/header.php"); ?>
 	
 	   <div class="container" style="max-width: 800px;">
-	 	 <div class="centered extra_space visible-desktop">
+	 	 <div class="centered spacer visible-desktop">
 		 	<img class="img-polaroid" src="../images/jose.png">
 		 </div>		
 
 		 <div class="centered visible-phone visible-tablet">
 		 	<img class="img-polaroid" src="../images/jose.png">
-		 </div>		
-		<blockquote>
-			<p class="spacer lead">Me dedico a crear software que sea realmente útil, simple y fácil de usar. Me encantan los deportes y la fotografía. Además soy el creador de <a href="http://streetrockstars.com">Street Rockstars</a>.</p>
- 		</blockquote>
+		 </div>	
+
+		<div class="hidden-phone">
+			<p class="primary">Me dedico a crear software que sea realmente útil, simple y fácil de usar.</p>
+ 		</div>
+ 		
+ 		<div class="visible-phone">
+			<p class="secondary">Me dedico a crear software que sea realmente útil, simple y fácil de usar.</p>
+ 		</div>
 	
 	   </div>
  </div> <!-- Close container (opened in header file) -->

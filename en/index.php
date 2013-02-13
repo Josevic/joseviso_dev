@@ -6,7 +6,7 @@
  include("includes/header.php"); ?>
 
 	 <div class="container" style="max-width: 800px;">
-	 	 <div class="centered extra_space visible-desktop">
+	 	 <div class="centered spacer visible-desktop">
 		 	<img class="img-polaroid" src="../images/jose.png">
 		 </div>		
 
@@ -14,10 +14,15 @@
 		 	<img class="img-polaroid" src="../images/jose.png">
 		 </div>		
 		
-		 <blockquote>
-			<p class="spacer lead">I create really useful, simple and easy to use software. In my free time I enjoy sports and photography. I'm also the founder of <a href="http://streetrockstars.com">Street Rockstars</a>.</p>		    
-		 </blockquote>		
+		 <div class="hidden-phone">
+			<p class="primary">I create really useful, simple and easy to use software.</p>
+		 </div>
+
+		 <div class="visible-phone">
+			<p class="secondary">I create really useful, simple and easy to use software.</p>
+		 </div>
 	 </div>
+	
 
  </div> <!-- Close container (opened in header file) -->
 
