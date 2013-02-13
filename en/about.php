@@ -14,11 +14,13 @@
 			</ul>
 		</div>
 	</div>
-
+	
 	<h3>Bio</h3>
 	<p>I was born in Almería, Spain, on 29th September 1984, though I lived on Adra (a near town) until I was 18. During school I always felt attracted by science and gadgets. So since pretty early I was sure I wanted to study something related with computers.</p>
 
 	<p>When the moment came I moved to Almería to start in college. I remember those years as a great time. </p>
+
+	<img class="pull-right img-polaroid" src="../images/In_Anfield.JPG"/>
 
 	<p>In 2007 I finished my studies and started to work as an intern in a systems department. It was a good way of entering on the labor market, though I didn’t feel passionate about what I was doing. Half a year later I started to work as a software developer. During the following almost 3 years I was responsible for a complex project. Eventually it was an excellent learning experience about a lot of things not teached in University.</p>
 
@@ -31,7 +33,7 @@
 	<p>During that time I realized I wanted to focus my career towards facilitating the interaction between people and computers. So after one year in The Netherlands I decided to go back to Spain to work on that.</p>
 
 	<p>Since then I live there, working as a <em>User Experience Designer</em>, learning everyday and trying out new techniques for the matters I am interested in. <em>To be continued</em>.</p>
-
+	
 
 	<h3 class="spacer">Studies</h3>
 	<p>I studied a Bachelor degree in Computer Science in the <a href="http://cms.ual.es/UAL/en/index.htm">University of Almería</a>. During that period my favourite subjects were the ones related with software Design and User Interfaces.</p>		
@@ -42,6 +44,7 @@
 
 
 	<h3 class="spacer">Personal</h3>
+
 	<p>I feel atracted to several diverse topics like technology, sports, languages, photography, etc. and I'm always trying to learn new things.</p>
 
 	<p>I love science also and I try to be skeptic and apply the scientific method in my way of thinking. There is a book that marked me and I would recommend to anyone: <a href="http://en.wikipedia.org/wiki/The_Demon-Haunted_World">The Demon-Haunted World</a> by <a href="http://en.wikipedia.org/wiki/Carl_Sagan">Carl Sagan</a>.</p>
