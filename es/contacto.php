@@ -70,7 +70,6 @@
 				</div>
 			</div>
 		</div>
-		<hr/>
 
 		<div class="row visible-phone contact-method">
 			<div class="span7">
@@ -100,6 +99,7 @@
 				</div>
 			</div>
 		</div>
+		<hr/>
 
 		<div class="row contact-method">
 			<div class="span7">
@@ -113,6 +113,14 @@
 						<p class="lead" style="margin-top:12px;"><strong>jose.viso.vargas</strong></p>
 					</div>
 				</div>
+			</div>
+		</div>
+		<hr/>
+
+		<div class="row">
+			<div class="span10">
+				<h4>Social Networks</h4>
+				<?php include("includes/social_networks.php"); ?>
 			</div>
 		</div>
 		
