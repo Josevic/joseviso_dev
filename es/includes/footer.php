@@ -1,10 +1,12 @@
 	<p class="pull-right hidden-desktop to-top"><a href="#top"><i class="icon-arrow-up"></i>Ir hacia arriba</a></p>
 
-	<hr/>
-
-	<footer>
-		<p><small>2013 - Construído usando <a href="http://twitter.github.com/bootstrap/">Twitter Bootstrap</a>.</small></p>
-	</footer>
+	<div id="push"></div>
+</div>
+	<div id="footer">
+		<div class="container">
+		<p class="muted credit"><small>2013 - Built using <a href="http://twitter.github.com/bootstrap/">Twitter Bootstrap</a></small></p>
+		</div>
+	</div>
 
     <script src="http://code.jquery.com/jquery-latest.js"></script>
     <script src="<?php echo $base;?>/bootstrap/js/bootstrap.min.js"></script>
