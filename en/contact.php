@@ -70,7 +70,7 @@
 				</div>
 			</div>
 		</div>
-		<hr/>
+		
 
 		<div class="row visible-phone contact-method">
 			<div class="span7">
@@ -100,6 +100,7 @@
 				</div>
 			</div>
 		</div>
+		<hr/>
 
 		<div class="row contact-method">
 			<div class="span7">
@@ -115,5 +116,12 @@
 				</div>
 			</div>
 		</div>
+		<hr/>
 		
+		<div class="row">
+			<div class="span10">
+				<h4>Social Networks</h4>
+				<?php include("includes/social_networks.php"); ?>
+			</div>
+		</div>
 		<?php include("includes/footer.php"); ?>
