@@ -30,7 +30,7 @@
 </div> <!-- Close wrap !-->	
  <div id="footer">
  	<div class="container">
-		<p class="muted credit"><small>2013 - Built using <a href="http://twitter.github.com/bootstrap/">Twitter Bootstrap</a></small></p>
+		<p class="muted credit"><small>2013&nbsp;| &nbsp;<a href="mailto:contact@joseviso.com">contact@joseviso.com</a></small></p>
 	</div>
  </div>
 
