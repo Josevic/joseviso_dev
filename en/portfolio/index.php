@@ -24,8 +24,6 @@
 		  
 	</div>
 
-	<hr/>
-
 	<!-- Link to the PDF version of the portfolio -->
 	<div class="row">
 		<div class="span12 centered">
