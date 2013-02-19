@@ -21,8 +21,8 @@
 		<!-- Summary -->
 		<div class="row spacer">
 			<div class="hero-unit span7">
-				<p>Heuristic Evaluation of the existing Eva Criado's beauty center website for a future redesign.</p> 
-				<a class="btn btn-large btn-primary pull-right" href="HE_EvaSpa.pdf">Download the Heuristic Evaluation</a>
+				<p>Redesign of the existing Eva Criado's beauty center website.</p> 
+				<!-- <a class="btn btn-large btn-primary pull-right" href="HE_EvaSpa.pdf">Download the Heuristic Evaluation</a> -->
 			</div>
 
 			<div class="span3 pull-right hidden-phone" >
@@ -35,14 +35,16 @@
 		<!-- Design Process -->
 		<div class="row">
 			<div class="span12">
-				<h3>Process</h3>
+				<h3>Design Process</h3>
 			</div>
 			<div class="span6">
 				<ol>
-					<li><p class="spacer"><b>To know roughly the domain field</b>: General research about this area, what are the different treatments and services that appear in the website and what the business do.</p></li>
-					<li><p class="spacer"><b>Basic evaluation of the interface</b>: The goal here was to look for important and easily noticeable problems.</p></li>
-					<li><p class="spacer"><b>Deep evaluation</b> considering the <a href="http://www.useit.com/papers/heuristic/heuristic_list.html">10 Usability Heuristics</a> by <a href="http://en.wikipedia.org/wiki/Jakob_Nielsen_(usability_consultant)">Jakob Nielsen</a>, noting the severity and importance of each one of them.</b></p></li>
-					<li><p class="spacer"><b>Analysis of the results</b> and recommendation of alternatives to solve or at least minimize the problems</p></li>
+					<li><p class="spacer"><b>Heuristic Evaluation</b> of the existing website to detect problems. Deep evaluation considering the <a href="http://www.useit.com/papers/heuristic/heuristic_list.html">10 Usability Heuristics</a> by <a href="http://en.wikipedia.org/wiki/Jakob_Nielsen_(usability_consultant)">Jakob Nielsen</a>, noting the severity and importance of each one of them.</b></p></li>
+					<li><p class="spacer">To <b/>know roughly the domain field</b>: General research about this area, what are the different treatments and services that appear in the website and what the business do.</p></li>
+					<li><p class="spacer">To <b>know the goals and the clients</b> of the business. Creation of personas and storyboards.</p></li>
+					<li><p class="spacer"><b>Redefinition of the Information Architecture</b> of the site. Use of <b>card sorting</b> to detect the most natural organization from user's perspective for the different services and treatments.</p></li>
+					<li><p class="spacer">Creation of paper sketches, low and mid-fidelity wireframes and prototypes. For this project I made use of a <b>sketchboard</b>, for self-use and communicating with the client.</p></li>
+					<li><p class="spacer">User testing and a lot of iterations.</p></li>
 				</ol>
 			</div>
 			<div class="span6">
@@ -51,16 +53,52 @@
 					<!-- Carousel items -->  
 				    <div class="carousel-inner">
 
-				    	<div class="active item">
-				        	<img src="../../images/evaspa_home.png" alt="Home" />
+				    	<div class="item">
+				        	<img src="../../images/evacriado_home_before.jpg" alt="Home" />
 				        	<div class="carousel-caption">
-				        		<p>Homepage studied</p>
+				        		<p>Before the redesign</p>
+				        	</div>
+				        </div>    
+				        <div class="item">
+				        	<img src="../../images/placeholder.gif" alt="After" />
+				        	<div class="carousel-caption">
+				        		<p>After the redesign</p>
 				        	</div>
 				        </div>    
 				    	<div class="item">
-				        	<img src="../../images/he1.png" alt="Findings" />
+				        	<img src="../../images/evacriado_he.jpg" alt="Findings" />
 				        	<div class="carousel-caption">
-				        		<p>Some of the findings</p>
+				        		<p>Some of the findings of the Heuristic Evaluation</p>
+				        	</div>
+				        </div>  
+				        <div class="item active">
+				        	<img src="../../images/sketchboard.jpg" alt="Sketchboard" />
+				        	<div class="carousel-caption">
+				        		<p>Sketchboard</p>
+				        	</div>
+				        </div>  
+				        <div class="item">
+				        	<img src="../../images/evacriado_personas.gif" alt="Personas" />
+				        	<div class="carousel-caption">
+				        		<p>The two personas defined: one primary and another secondary</p>
+				        	</div>
+				        </div>  
+				        <div class="item">
+				        	<img src="../../images/evacriado_storyboards.jpg" alt="Storyboards" />
+				        	<div class="carousel-caption">
+				        		<p>Storyboards created to define the context of use</p>
+				        	</div>
+				        </div>  
+				        <div class="item">
+				        	<img src="../../images/evacriado_ia.jpg" alt="Information Architecture" />
+				        	<div class="carousel-caption">
+				        		<p>Rough approximation of the Information Architecture</p>
+				        	</div>
+				        </div>  
+				        <div class="item">
+				        	<img src="../../images/evacriado_low-fi_wireframes.jpg" alt="Low-fidelity wireframes" />
+				        	<div class="carousel-caption">
+				        		<p>Three low-fidelity wireframes alternatives to get first feedback from client and users</p>
 				        	</div>
 				        </div>  
 				  	</div>  
@@ -85,7 +123,19 @@
 						<td><p class="centered"><a href="http://www.nngroup.com/articles/ten-usability-heuristics/">10 Usability Heuristics</a> (Jakob Nielsen)</p></td>
 					</tr>
 					<tr>
-						<td><p class="centered">Own Heuristic Evaluation template</p></td>
+						<td><p class="centered">Card sorting</p></td>
+					</tr>
+					<tr>
+						<td><p class="centered">Pen and Paper</p></td>
+					</tr>
+					<tr>
+						<td><p class="centered">Balsamiq Mockups</p></td>
+					</tr>
+					<tr>
+						<td><p class="centered">Axure</p></td>
+					</tr>
+					<tr>
+						<td><p class="centered">Sketchboard</p></td>
 					</tr>
   				</table>
 			</div>
@@ -98,12 +148,13 @@
 			<div class="span12">
 				<dl class="dl-horizontal">
 				  <dt>Date</dt>
-				  <dd>October 2012</dd>
+				  <dd>October 2012 - January 2013</dd>
 				
 				  <dt>Tags</dt>
 				  <dd>
 				      <a href="<?php echo $base . '/en/portfolio/category/user-research'; ?>"><span class="label">User Research</span></a>
 				      <a href="<?php echo $base . '/en/portfolio/category/heuristic-evaluation'; ?>"><span class="label">Heuristic Evaluation</span></a>
+				      <a href="<?php echo $base . '/en/portfolio/category/interaction-design'; ?>"><span class="label">Interaction Design</span></a>
     			  </dd>
 				</dl>
 			</div>
