@@ -24,16 +24,7 @@
 	 </div>
 	
 
- </div> <!-- Close container (opened in header file) -->
-
- <div id="push"></div>
-</div> <!-- Close wrap !-->	
- <div id="footer">
- 	<div class="container">
-		<p class="muted credit"><small>2013&nbsp;| &nbsp;<a href="mailto:contact@joseviso.com">contact@joseviso.com</a></small></p>
-	</div>
- </div>
-
+ </div> 
  <script src="http://code.jquery.com/jquery-latest.js"></script>
  <script src="<?php echo $base;?>/bootstrap/js/bootstrap.min.js"></script>
  <script src="<?php echo $base;?>/bootstrap-lightbox/bootstrap-lightbox.min.js"></script>

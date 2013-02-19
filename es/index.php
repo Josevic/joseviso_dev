@@ -22,16 +22,7 @@
 			<p class="secondary">Me dedico a crear software que sea realmente útil, simple y fácil de usar.</p>
  		</div>
 	
-	   </div>
- </div> <!-- Close container (opened in header file) -->
-
- <div id="push"></div>
-</div> <!-- Close wrap !-->	
- <div id="footer">
- 	<div class="container">
-		<p class="muted credit"><small>2013&nbsp;| &nbsp;<a href="mailto:contacto@joseviso.com">contacto@joseviso.com</a></small></p>
 	</div>
- </div>
 
  <script src="http://code.jquery.com/jquery-latest.js"></script>
  <script src="<?php echo $base;?>/bootstrap/js/bootstrap.min.js"></script>
