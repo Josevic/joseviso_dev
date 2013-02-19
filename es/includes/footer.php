@@ -1,12 +1,12 @@
 	<p class="pull-right hidden-desktop to-top"><a href="#top"><i class="icon-arrow-up"></i>Ir hacia arriba</a></p>
-
-	<div id="push"></div>
 </div>
-	<div id="footer">
+
+	<hr/>
+	<footer>
 		<div class="container">
-			<p class="muted credit"><small>2013&nbsp;| &nbsp;<a href="mailto:contacto@joseviso.com">contacto@joseviso.com</a></small></p>
+			<p class="muted credit"><small><a class="muted" href="mailto:contacto@joseviso.com">contacto@joseviso.com</a></small></p>
 		</div>
-	</div>
+	</footer>
 
     <script src="http://code.jquery.com/jquery-latest.js"></script>
     <script src="<?php echo $base;?>/bootstrap/js/bootstrap.min.js"></script>
