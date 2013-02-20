@@ -24,6 +24,12 @@
 	
 	</div>
 
+ <footer>
+	<div class="container hidden-desktop">
+		<p class="muted credit"><small><a class="muted" href="mailto:contact@joseviso.com">contact@joseviso.com</a></small></p>
+	</div>
+ </footer>
+
  <script src="http://code.jquery.com/jquery-latest.js"></script>
  <script src="<?php echo $base;?>/bootstrap/js/bootstrap.min.js"></script>
  <script src="<?php echo $base;?>/bootstrap-lightbox/bootstrap-lightbox.min.js"></script>
