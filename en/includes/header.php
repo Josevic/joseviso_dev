@@ -34,24 +34,22 @@
 		        <span class="icon-bar"></span>
 		        <span class="icon-bar"></span>
 		    </a>
-	       <a class="brand" href="<?php echo $base; ?>">Jose Viso</a>
-
-	       <div class="nav-collapse collapse pull-left visible-phone">
-	       		<a href="<?php echo $base; ?>/es/"><p id="change-language" style="color:black;">En Castellano</p></a></li>
-	       </div>
+	       <a class="brand" href="<?php echo $base; ?>">Jose Viso</a>   
 		   
-	       <div class="nav-collapse collapse pull-right" id="main-menu">
+	       <div class="nav-collapse collapse" id="main-menu">
 		       <ul class="nav">
 		          <li <?php if (strpos($_SERVER['PHP_SELF'], 'about.php')) echo 'class="active"';?>><a href="<?php echo $base;?>/en/about">About</a></li>
 				  <li <?php if (strpos($_SERVER['PHP_SELF'], 'portfolio')) echo 'class="active"';?>><a href="<?php echo $base;?>/en/portfolio">Portfolio</a></li>
 				  <li <?php if (strpos($_SERVER['PHP_SELF'], 'contact.php')) echo 'class="active"';?>><a href="<?php echo $base;?>/en/contact">Contact</a></li>
 				</ul>
+
+				<ul class="nav pull-right">
+	       			<li><a href="<?php echo $base; ?>/es/"><small>En Castellano</small></a></li>
+	       		</ul>
 	       </div>
 	     </div>
 	   </div>
 	</div>
 
     <div class="container">
-
-    	<a class="pull-right hidden-phone" href="<?php echo $base; ?>/es/"><p id="change-language" class="muted"><small>En Castellano</small></p></a>
 	   
