@@ -25,9 +25,11 @@
 				<!-- <a class="btn btn-large btn-primary pull-right" href="HE_EvaSpa.pdf">Download the Heuristic Evaluation</a> -->
 			</div>
 
+			<!--
 			<div class="span3 pull-right hidden-phone" >
-				<img src="../../images/thumb_evaspa.jpg" class="img-rounded">
+				<img src="../../images/thumb_evacriado2.png">
 			</div>
+			-->
 		</div>
 
 		<hr/>
@@ -60,7 +62,7 @@
 				        	</div>
 				        </div>    
 				        <div class="item">
-				        	<img src="../../images/placeholder.gif" alt="After" />
+				        	<img src="../../images/evacriado_home_after.gif" alt="After" />
 				        	<div class="carousel-caption">
 				        		<p>After the redesign</p>
 				        	</div>
