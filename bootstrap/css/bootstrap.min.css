@@ -977,5 +977,10 @@ ul#social_networks_bar .thumbnail {
   margin-bottom: 30px;
 }
 
+.img-shadow {
+    -webkit-box-shadow: 3px 3px 3px #7C7C7C;
+    box-shadow: 3px 3px 3px #7C7C7C;
+ }
+
 
 
