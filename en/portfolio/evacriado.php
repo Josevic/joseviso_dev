@@ -1,7 +1,7 @@
 <?php
 
 	$page_title = "Portfolio > Eva Criado";
-	$page_description = "Jose Viso's portfolio | Heuristic Evaluation for Evacriado.com";
+	$page_description = "Jose Viso's portfolio | Redesign of Evacriado.com";
 
 	include("../includes/header.php"); ?>
 
