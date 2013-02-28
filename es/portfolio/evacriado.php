@@ -1,7 +1,7 @@
 <?php
 
 	$page_title = "Portfolio > Eva Criado";
-	$page_description = "Portfolio de Jose Viso | Evaluación Heurística de Evacriado.com";
+	$page_description = "Portfolio de Jose Viso | Rediseño de Evacriado.com";
 	
 	include("../includes/header.php"); ?>
 
@@ -22,12 +22,7 @@
 		<!-- Summary -->
 		<div class="row spacer">
 			<div class="hero-unit span7">
-				<p>Evaluación Heurística de la web del centro de belleza Eva Criado, pensando en un futuro rediseño.</p>
-				<a class="btn btn-large btn-primary pull-right" href="HE_EvaSpa.pdf">Descarga la Evaluación Heurística</a>
-			</div>
-
-			<div class="span3 pull-right hidden-phone" >
-				<img src="../../images/thumb_evaspa.jpg" class="img-rounded">
+				<p>Rediseño de la web ya existente del centro de belleza y masaje Eva Criado.</p> 
 			</div>
 		</div>
 
@@ -36,14 +31,16 @@
 		<!-- Design Process -->
 		<div class="row">
 			<div class="span12">
-				<h3>Proceso Seguido</h3>
+				<h3>Proceso de Diseño</h3>
 			</div>
 			<div class="span6">
 				<ol>
-					<li><p class="spacer"><b>Conocer</b> a grandes rasgos <b>el campo de dominio</b>: Investigación general sobre el área, en qué consisten los distintos tratamientos y servicios que aparecen en el sitio, con la intención de saber qué es lo que hace el negocio exáctamente.</p></li>
-					<li><p class="spacer"><b>Evaluación superficial de la interfaz</b>: El objetivo en este punto era buscar los problemas más importantes y fácilmente detectables.</p></li>
-					<li><p class="spacer"><b>Evaluación exhaustiva</b> considerando las <a href="http://www.useit.com/papers/heuristic/heuristic_list.html">10 Heurísticas de Usabilidad</a> propuestas por <a href="http://es.wikipedia.org/wiki/Jakob_Nielsen">Jakob Nielsen</a>, teniendo en cuenta la severidad e importancia de cada una de ellas.</b></p></li>
-					<li><p class="spacer"><b>Análisis de los resultados</b> y <b>recomendación de alternativas</b> para solucionar los problemas o al menos minimizarlos.</p></li>
+					<li><p class="spacer"><b>Evaluación Heurística</b> de la web existente para detectar problemas. Estudio en produndidad considerando las <a href="http://www.useit.com/papers/heuristic/heuristic_list.html">10 Heurísticas de Usabilidad</a> de <a href="http://en.wikipedia.org/wiki/Jakob_Nielsen_(usability_consultant)">Jakob Nielsen</a>, teniendo en cuenta la severidad e importancia de cada un de los problemas encontrados</b>.</p></li>
+					<li><p class="spacer"><b/>Conocer a grandes rasgos el campo de dominio</b>: Investigación general sobre el área, sobre los diferentes tratamientos y servicios que aparecen en la web existente. En definitiva, saber qué hace el negocio exáctamente.</p></li>
+					<li><p class="spacer"><b>Conocer los objetivos y los clientes</b> del negocio. Creación de personas y storyboards.</p></li>
+					<li><p class="spacer"><b>Redefinición de la Arquitectura de la Información</b> del sitio. Uso de la técnica de <b>card sorting</b> para detectar la organización más natural desde la perspectiva del usuario para los diferentes servicios y tratamientos.</p></li>
+					<li><p class="spacer">Creación de sketches en papel, wireframes y prototipos de baja y alta fidelidad. Para este proyecto usé un <b>sketchboard</b>, tanto para uso personal, como para la comunicación con el cliente.</p></li>
+					<li><p class="spacer">Pruebas de usuarios y un montón de iteraciones.</p></li>
 				</ol>
 			</div>
 			<div class="span6">
@@ -52,16 +49,52 @@
 					<!-- Carousel items -->  
 				    <div class="carousel-inner">
 
-				    	<div class="active item">
-				        	<img src="../../images/evaspa_home.png" alt="Página principal" />
+				    	<div class="item">
+				        	<img src="../../images/evacriado_home_before.jpg" alt="Página principal" />
 				        	<div class="carousel-caption">
-				        		<p>Página principal estudiada</p>
+				        		<p>Antes del rediseño</p>
+				        	</div>
+				        </div>    
+				        <div class="item">
+				        	<img src="../../images/evacriado_home_after.gif" alt="Después" />
+				        	<div class="carousel-caption">
+				        		<p>Después del rediseño</p>
 				        	</div>
 				        </div>    
 				    	<div class="item">
-				        	<img src="../../images/he1.png" alt="Findings" />
+				        	<img src="../../images/evacriado_he.jpg" alt="Hallazgos" />
 				        	<div class="carousel-caption">
-				        		<p>Algunos de los hallazgos</p>
+				        		<p>Algunos de los hallazgos obtenidos con la Evaluación Heurística</p>
+				        	</div>
+				        </div>  
+				        <div class="item active">
+				        	<img src="../../images/sketchboard.jpg" alt="Sketchboard" />
+				        	<div class="carousel-caption">
+				        		<p>Sketchboard</p>
+				        	</div>
+				        </div>  
+				        <div class="item">
+				        	<img src="../../images/evacriado_personas.gif" alt="Personas" />
+				        	<div class="carousel-caption">
+				        		<p>Las dos personas definidas: una primaria y una secundaria</p>
+				        	</div>
+				        </div>  
+				        <div class="item">
+				        	<img src="../../images/evacriado_storyboards.jpg" alt="Storyboards" />
+				        	<div class="carousel-caption">
+				        		<p>Storyboards creados para definir un contexto de uso</p>
+				        	</div>
+				        </div>  
+				        <div class="item">
+				        	<img src="../../images/evacriado_ia.jpg" alt="Information Architecture" />
+				        	<div class="carousel-caption">
+				        		<p>Aproximación a grandes rasgos de la Arquitectura de la Información</p>
+				        	</div>
+				        </div>  
+				        <div class="item">
+				        	<img src="../../images/evacriado_low-fi_wireframes.jpg" alt="Low-fidelity wireframes" />
+				        	<div class="carousel-caption">
+				        		<p>Tres wireframes alternativos de baja fidelidad para obtener el primer feedback del cliente y los usuarios</p>
 				        	</div>
 				        </div>  
 				  	</div>  
@@ -71,7 +104,6 @@
 				</div>  
 			</div>
 		</div>
-
 		<hr/>
 
 		<!-- Tools Used -->
@@ -86,10 +118,19 @@
 						<td><p class="centered"><a href="http://www.nngroup.com/articles/ten-usability-heuristics/">10 Heurísticas de Usabilidad</a> (Jakob Nielsen)</p></td>
 					</tr>
 					<tr>
-						<td><p class="centered">iWork: Pages</p></td>
+						<td><p class="centered">Card sorting</p></td>
 					</tr>
 					<tr>
-						<td><p class="centered">Plantilla propia para Evaluaciones Heurísticas</p></td>
+						<td><p class="centered">Lápiz y Papel</p></td>
+					</tr>
+					<tr>
+						<td><p class="centered">Balsamiq Mockups</p></td>
+					</tr>
+					<tr>
+						<td><p class="centered">Axure</p></td>
+					</tr>
+					<tr>
+						<td><p class="centered">Sketchboard</p></td>
 					</tr>
   				</table>
 			</div>
@@ -104,13 +145,14 @@
 			<div class="span12">
 				<dl class="dl-horizontal">
 				  <dt>Fecha de Realización</dt>
-				  <dd>Octubre 2012</dd>
+				  <dd>Octubre 2012 - Enero 2013</dd>
 				
 				  <dt>Etiquetas</dt>
 				  <dd>
 				      <a href="<?php echo $base . '/es/portfolio/categoria/investigacion-de-usuarios'; ?>"><span class="label">Investigación de Usuarios</span></a>
-				      <a href="<?php echo $base . '/es/portfolio/categoria/evaluacion-heuristica'; ?>"><span class="label">Investigación de Usuarios</span></a>
-				  </dd>
+				      <a href="<?php echo $base . '/es/portfolio/categoria/evaluacion-heuristica'; ?>"><span class="label">Evaluación Heurística</span></a>
+				      <a href="<?php echo $base . '/es/portfolio/categoria/diseno-de-interaccion'; ?>"><span class="label">Diseño de Interacción</span></a>
+    			  </dd>
 				</dl>
 			</div>
 		</div>
