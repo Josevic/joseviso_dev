@@ -7,11 +7,11 @@
 	
 	   <div class="container" style="max-width: 800px;">
 	 	 <div class="centered spacer visible-desktop">
-		 	<img class="img-polaroid" src="../images/jose.png">
+		 	<img class="img-shadow" src="../images/jose.png">
 		 </div>		
 
 		 <div class="centered visible-phone visible-tablet">
-		 	<img class="img-polaroid" src="../images/jose.png">
+		 	<img class="img-shadow" src="../images/jose.png">
 		 </div>	
 
 		<div class="hidden-phone">
@@ -21,7 +21,7 @@
  		<div class="visible-phone">
 			<p class="secondary">Me dedico a crear software que sea realmente útil, simple y fácil de usar.</p>
  		</div>
-	
+	   </div>	
 	</div>
 
  <footer>

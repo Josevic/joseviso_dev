@@ -7,11 +7,11 @@
 
 	 <div class="container" style="max-width: 800px;">
 	 	 <div class="centered spacer visible-desktop">
-		 	<img class="img-polaroid" src="../images/jose.png">
+		 	<img class="img-shadow" src="../images/jose.png">
 		 </div>		
 
 		 <div class="centered visible-phone visible-tablet">
-		 	<img class="img-polaroid" src="../images/jose.png">
+		 	<img class="img-shadow" src="../images/jose.png">
 		 </div>		
 		
 		 <div class="hidden-phone">
@@ -22,9 +22,8 @@
 			<p class="secondary">I create really useful, simple and easy to use software.</p>
 		 </div>
 	 </div>
- </div> 
+  </div> 
 
- 
  <footer>
 	<div class="container hidden-desktop">
 		<p class="muted credit"><small><a class="muted" href="mailto:contact@joseviso.com">contact@joseviso.com</a></small></p>
