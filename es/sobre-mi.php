@@ -21,7 +21,7 @@
 
 			<p>Cuando llegó el momento me fui a Almería a estudiar. Recuerdo esos años como una gran época.</p>
 
-			<img class="pull-right img-polaroid" src="../images/In_Anfield.JPG"/>
+			<img class="pull-right img-shadow" src="../images/In_Anfield.JPG" style="margin-left:5px; margin-bottom:5px;"/>
 			
 			<p>En 2007 terminé los estudios y comencé a trabajar como becario en un departamento de sistemas. Fué una buena forma de entrar en el mercado laboral, aunque no me apasionaba lo que hacía. Medio año después comencé a trabajar como desarrollador de software. Durante los siguientes casi 3 años debí ocuparme yo sólo de un proyecto complejo, lo que a la larga creo que ha sido una gran experiencia de aprendizaje sobre muchas cosas que no se enseñan en la universidad.</p>
 

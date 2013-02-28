@@ -20,7 +20,7 @@
 
 	<p>When the moment came I moved to Almería to start in college. I remember those years as a great time. </p>
 
-	<img class="pull-right img-polaroid" src="../images/In_Anfield.JPG"/>
+	<img class="pull-right img-shadow" src="../images/In_Anfield.JPG" style="margin-left:5px; margin-bottom:5px;"/>
 
 	<p>In 2007 I finished my studies and started to work as an intern in a systems department. It was a good way of entering on the labor market, though I didn’t feel passionate about what I was doing. Half a year later I started to work as a software developer. During the following almost 3 years I was responsible for a complex project. Eventually it was an excellent learning experience about a lot of things not teached in University.</p>
 
