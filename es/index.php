@@ -26,7 +26,7 @@
 
  <footer>
 	<div class="container hidden-desktop">
-		<p class="muted credit"><small><a class="muted" href="mailto:contact@joseviso.com">contact@joseviso.com</a></small></p>
+		<p class="muted credit"><small><a class="muted" href="mailto:contacto@joseviso.com">contacto@joseviso.com</a></small></p>
 	</div>
  </footer>
 
