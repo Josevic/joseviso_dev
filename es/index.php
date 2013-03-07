@@ -7,26 +7,23 @@
 	
 	   <div class="container" style="max-width: 800px;">
 	 	 <div class="centered spacer visible-desktop">
-		 	<img class="img-shadow" src="../images/jose.png">
+		 	<img src="../images/jose.png">
 		 </div>		
 
 		 <div class="centered visible-phone visible-tablet">
-		 	<img class="img-shadow" src="../images/jose.png">
+		 	<img src="../images/jose.png">
 		 </div>	
 
-		<div class="hidden-phone">
-			<p class="primary">Me dedico a crear software que sea realmente útil, simple y fácil de usar.</p>
+		<div class="quote">
+			<span>Diseño software realmente útil, simple y fácil de usar.</span>
  		</div>
  		
- 		<div class="visible-phone">
-			<p class="secondary">Me dedico a crear software que sea realmente útil, simple y fácil de usar.</p>
- 		</div>
 	   </div>	
 	</div>
 
  <footer>
 	<div class="container hidden-desktop">
-		<p class="muted credit"><small><a class="muted" href="mailto:contacto@joseviso.com">contacto@joseviso.com</a></small></p>
+		<p class="muted credit spacer"><small><a class="muted" href="mailto:contacto@joseviso.com">contacto@joseviso.com</a></small></p>
 	</div>
  </footer>
 
