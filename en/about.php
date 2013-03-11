@@ -25,7 +25,7 @@
 				</div>
 				<div class="span7">
 					<p class="lead">José Viso Vargas</p>
-					<p>29th September 1984 (28 years old)</p>
+					<p>September 29th, 1984 (28 years old)</p>
 					<p>Almería, Spain</p>
 					<p>Studying a <em><a href="http://www.uoc.edu/masters/esp/web/informatica_multimedia_telecomunicacion/interaccion-persona-ordenador/">Human-Computer Interaction Postgraduate degree</a> (Universitat Oberta de Catalunya)</em><br/> 
 						<em>Bachelor of Computer Science (Universidad de Almería)</em></p>
@@ -42,23 +42,26 @@
 						<p>My main goal is to design software that satisfy the users' needs, studying their capabilities, motivations and limitations, but considering the client's needs too.</p>
 						<p>I've worked in complex projects, both in Spain and abroad, analyzing the user requirements and developing software. Later I've specialized in the Human-Computer Interaction field, that is what I'm really passionate about. I think this experience helps me to have a global vision for the projects I work on.</p>
 
-						<h5>Techniques I use</h5>
+						<h5 class="spacer">Techniques I use</h5>
 						<ul>
-							<li>Heuristic Evaluation</li>
+							<li>Heuristic Evaluations</li>
 							<li>User Research</li>
+							<li>Personas</li>
+							<li>Scenarios</li>
+							<li>Storyboarding</li>
 							<li>Prototyping (paper, low and high fidelity)</li>
 							<li>Wireframing</li>
 							<li>User tests</li>
 							<li>Iterative Design: (Design - Prototype - Evaluate)</li>
 						</ul>
 
-						<h5>Distinguished Projects I'm involved</h5>
+						<h5 class="spacer">Distinguished Projects I'm involved</h5>
 						<ul>
 							<li><em>Community TA</em> in the <a href="https://www.coursera.org/course/hci">Human-Computer Interaction course</a> by <a href="https://www.coursera.org/">Coursera</a> - Stanford University</li>
 							<li><a href="http://streetrockstars.com">Street Rockstars</a></li>
 						</ul>
 
-						<h5>Experience</h5>
+						<h5 class="spacer">Experience</h5>
 						<ul>
 							<li>User Experience Consultant</li>
 							<li>Web Developer (Amsterdam, Netherlands)</li>

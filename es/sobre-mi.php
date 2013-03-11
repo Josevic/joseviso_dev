@@ -41,23 +41,26 @@
 						<p>Mi principal objetivo es diseñar software que satisfaga las necesidades de los usuarios, estudiando sus capacidades, motivaciones y limitaciones, pero teniendo en cuenta también las necesidades del cliente.</p>
 						<p>He trabajado en proyectos complejos tanto en España como en el extranjero, analizando los requisitos de los usuarios y desarrollando software. Más tarde me he especializado en el campo de la Interacción Persona-Ordenador, que es lo que realmente me apasiona. Creo que esta experiencia me permite poseer una buena visión global de los proyectos.</p>
 
-						<h5>Técnicas que utilizo</h5>
+						<h5 class="spacer">Técnicas que utilizo</h5>
 						<ul>
-							<li>Evaluación Heurística</li>
+							<li>Evaluaciones Heurísticas</li>
 							<li>Investigación de usuarios</li>
+							<li>Personas</li>
+							<li>Scenarios</li>
+							<li>Storyboards</li>
 							<li>Prototipado (papel, baja y alta fidelidad)</li>
 							<li>Wireframing</li>
 							<li>Tests de usuarios</li>
-							<li>Diseño iterativo: Diseño - Prototipado - Evaluación</li>
+							<li>Diseño iterativo: (Diseño - Prototipado - Evaluación)</li>
 						</ul>
 
-						<h5>Proyectos destacados en los que trabajo</h5>
+						<h5 class="spacer">Proyectos destacados en los que participo</h5>
 						<ul>
 							<li><em>Community TA</em> en el <a href="https://www.coursera.org/course/hci">curso de Interacción Persona-Ordenador</a> de <a href="https://www.coursera.org/">Coursera</a> - Stanford University</li>
 							<li><a href="http://streetrockstars.com">Street Rockstars</a></li>
 						</ul>
 
-						<h5>Experiencia</h5>
+						<h5 class="spacer">Experiencia</h5>
 						<ul>
 							<li>Consultor de Experiencia de Usuario</li>
 							<li>Desarrollador web (Ámsterdam, Países Bajos)</li>
