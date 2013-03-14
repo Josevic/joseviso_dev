@@ -46,7 +46,7 @@
 							<li>Evaluaciones Heurísticas</li>
 							<li>Investigación de usuarios</li>
 							<li>Personas</li>
-							<li>Scenarios</li>
+							<li>Escenarios</li>
 							<li>Storyboards</li>
 							<li>Prototipado (papel, baja y alta fidelidad)</li>
 							<li>Wireframing</li>
