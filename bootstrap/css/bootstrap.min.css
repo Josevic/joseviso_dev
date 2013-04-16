@@ -77,20 +77,20 @@ ul#social_networks_bar .thumbnail {
 .quote {
 	margin-top: 20px;
 	text-align: center;
-	color: #222;
-
+	color: white;
     font-family: "proxima-nova", verdana;
-    font-size: 3.3em;
+    font-size: 3.5em;
     font-weight: normal;
-    letter-spacing: 0.01em;
-    line-height: 1.50em;
+    letter-spacing: 0.03em;
+    line-height: 1.60em;
     text-transform: none;
   	font-weight: bold;
 }
 
 .quote  span {
-	background-color: #FAAC58;
-	padding: 0 8px;
+	background-color: #0BB5FF; 
+	/*background-color: #0088cc;*/
+	padding: 3px 10px;
 }
 
 .img-shadow {
