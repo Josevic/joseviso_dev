@@ -15,7 +15,7 @@
 		 </div>	
 
 		<div class="quote">
-			<span>Diseño software realmente útil, simple y fácil de usar.</span>
+			<span>Hola, soy Jose Viso y diseño software realmente útil, simple y fácil de usar.</span>
  		</div>
  		
 	   </div>	

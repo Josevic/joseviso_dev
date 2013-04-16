@@ -15,7 +15,7 @@
 		 </div>		
 		
 		 <div class="quote">
-			<span>I design really useful, simple and easy to use software.</span>
+			<span>Hi, I'm Jose Viso and I design really useful, simple and easy to use software.</span>
 		 </div>
 	 </div>
   </div> 
