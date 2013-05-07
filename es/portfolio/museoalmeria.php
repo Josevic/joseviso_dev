@@ -82,22 +82,23 @@
 
 					<!-- Carousel items -->  
 				    <div class="carousel-inner">  
-				    	<div class="active item">
-				        	<img src="../../images/museoAlmeria_IA.png" alt="Arquitectura de la Información" />
-				        	<div class="carousel-caption">
-				        		<p>Arquitectura de la Información del kiosco</p>
-				        	</div>
-				        </div>  
-				        <div class="item">
-				        	<img src="../../images/museoAlmeria_personas.png" alt="Personas" />
+				    	
+				        <div class="active item">
+				        	<img src="../../images/museoAlmeria_personas.jpg" alt="Personas" />
 				        	<div class="carousel-caption">
 				        		<p>Las tres personas definidas</p>
 				        	</div>
 				        </div>  
 				        <div class="item">
-				        	<img src="../../images/placeholder.gif" alt="Flujos de interacción" />
+				        	<img src="../../images/museoAlmeria_IA.jpg" alt="Arquitectura de la Información" />
 				        	<div class="carousel-caption">
-				        		<p>Diagramas de flujo de interacción</p>
+				        		<p>Arquitectura de la Información del kiosco</p>
+				        	</div>
+				        </div>  
+				        <div class="item">
+				        	<img src="../../images/museoAlmeria_flowchart.jpg" alt="Flujos de interacción" />
+				        	<div class="carousel-caption">
+				        		<p>Diagrama de flujo de interacción para una de las funciones</p>
 				        	</div>
 				        </div> 
 				        <div class="item">
