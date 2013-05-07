@@ -23,7 +23,9 @@
 			<div class="hero-unit span7">
 				<p>Este proyecto es un concepto de kiosco interactivo ideado especialmente para las necesidades del <a href="http://www.museosdeandalucia.es/culturaydeporte/museos/MAL/?lng=es">Museo Arqueológico de Almería</a>. Fue realizado para la asignatura Diseño de Interacción del <a href="http://estudis.uoc.edu/ca/masters-postgraus-especialitzacions/diploma-postgrau/informatica-multimedia-telecomunicacio/interaccio-persona-ordinador/presentacio">Posgrado de Interacción Persona-Ordenador</a> de la Universitat Oberta de Catalunya.</p>
 				<br/>
+				<!-- 
 				<a class="btn btn-large btn-primary pull-right" href="https://dl.dropbox.com/u/3953712/SmartBite/test/screens/iPhoneDashboard.html">¡Prueba el prototipo interactivo!</a>
+				-->
 			</div>
 			<div class="span3 pull-right hidden-phone">
 				<img src="../../images/project_intro.jpeg">
@@ -42,9 +44,9 @@
 
 				<ul>
 					<li><p>Muy <b>poca información sobre los elementos</b> arqueológicos permanentes. Había gente preguntandose qué eran algunos objetos de las vitrinas y no tenían a donde acudir para resolver sus dudas.</li>
-					<li><b>No hay forma de</b> que los usuarios puedan <b>dar feedback</b> al museo para mejorar. No hay zona de atención al visitante o de información.</p></li>
-					<li><p>La <b>sala de exposiciones temporales</b> tiene muchas obras pero prácticamente <b>ninguna información sobre qué se expone</b> o quiénes son los autores (tan sólo aparece un pequeño cartel con el nombre).</p></li>
-					<li><p>Se echa en falta un <b>“hilo conductor”</b> que haga a los visitantes comprender mejor por qué ciertos objetos están expuestos en determinadas zonas.</p></li>
+					<li><b>No había forma de</b> que los usuarios pudiesen <b>dar feedback</b> al museo para mejorar. No había zona de atención al visitante o de información.</p></li>
+					<li><p>La <b>sala de exposiciones temporales</b> tenía muchas obras pero prácticamente <b>ninguna información sobre qué se expone</b> o quiénes son los autores (tan sólo aparecía un pequeño cartel con el nombre).</p></li>
+					<li><p>Se echaba en falta un <b>“hilo conductor”</b> que hiciese a los visitantes comprender mejor por qué ciertos objetos estaban expuestos en determinadas zonas.</p></li>
 				</ul>
 
 			</div>
@@ -59,10 +61,10 @@
 			</div>
 			<div class="span6">
 				<ol>
-					<li><p class="spacer">Creación de personas.</p></li>
-					<li><p class="spacer">Creación de la Arquitectura de la Información.</p></li>
-					<li><p class="spacer">Definición de flujos de interacción en la aplicación.</p></li>
-					<li><p class="spacer">Creación de sketches y wireframes</p></li>
+					<li><p class="spacer">Creación de <b>personas</b> para representar los 3 perfiles principales detectados.</p></li>
+					<li><p class="spacer">Definición de la <b>arquitectura de la información</b>. Primero se realizó un outline y posteriormente se creó un árbol de contenidos.</p></li>
+					<li><p class="spacer">Definición de <b>flujos de interacción</b> en la aplicación. Se identificaron las tareas principales que los usuarios necesitaban realizar, y a través de esquemas se diseñaron cómo se desarrollarían dentro de la aplicación.</p></li>
+					<li><p class="spacer">Realización de <b>sketches y wireframes</b>. Primero intenté obtener el mayor número de alternativas para cada una de las pantallas, posteriormente elegí una opción, y continué desarrollándola cada vez con un nivel de fidelidad mayor.</p> </li>
 				</ol>
 			</div>
 			<div class="span6">
@@ -75,7 +77,7 @@
 					    <li data-target="#myCarousel" data-slide-to="2"></li>
 					    <li data-target="#myCarousel" data-slide-to="3"></li>
 					    <li data-target="#myCarousel" data-slide-to="4"></li>
-					    <li data-target="#myCarousel" data-slide-to="5"></li>
+					    <!-- <li data-target="#myCarousel" data-slide-to="5"></li> -->
 					</ol>
 
 					<!-- Carousel items -->  
@@ -107,15 +109,18 @@
 				        <div class="item">
 				        	<img src="../../images/placeholder.gif" alt="Wireframes de baja fidelidad" />
 				        	<div class="carousel-caption">
-				        		<p>Wireframes de baja fidelidad</p>
+				        		<p>Wireframes de media fidelidad</p>
 				        	</div>
 				        </div> 
+
+				        <!--
 				        <div class="item">
 				        	<img src="../../images/placeholder.gif" alt="Wireframes de alta fidelidad" />
 				        	<div class="carousel-caption">
 				        		<p>Wireframes de alta fidelidad</p>
 				        	</div>
-				        </div>   
+				        </div>  
+				        --> 
 				  	</div>  
 				  	<!-- Carousel nav -->  
 				  	<a class="carousel-control left" href="#myCarousel" data-slide="prev">‹</a>  
@@ -140,10 +145,10 @@
 						<td><p class="centered">Lápiz y Papel</p></td>
 					</tr>
 					<tr>
-						<td><p class="centered">OmniGraffle</p></td>
+						<td><p class="centered">Balsamiq Mockups</p></td>
 					</tr>
 					<tr>
-						<td><p class="centered">Balsamiq Mockups</p></td>
+						<td><p class="centered">OmniGraffle</p></td>
 					</tr>
   				</table>
 			</div>
