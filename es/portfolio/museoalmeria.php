@@ -102,15 +102,15 @@
 				        	</div>
 				        </div> 
 				        <div class="item">
-				        	<img src="../../images/placeholder.gif" alt="Primer prototipo" />
+				        	<img src="../../images/museoAlmeria_prototype.jpg" alt="Primer prototipo" />
 				        	<div class="carousel-caption">
-				        		<p>Primer prototipo para pruebas de usuario</p>
+				        		<p>Pantalla principal del primer prototipo</p>
 				        	</div>
 				        </div>   
 				        <div class="item">
-				        	<img src="../../images/placeholder.gif" alt="Wireframes de baja fidelidad" />
+				        	<img src="../../images/museoAlmeria_mf-wireframe.jpg" alt="Wireframe de media fidelidad" />
 				        	<div class="carousel-caption">
-				        		<p>Wireframes de media fidelidad</p>
+				        		<p>Wireframe anotado de la pantalla de información de objeto</p>
 				        	</div>
 				        </div> 
 
