@@ -93,6 +93,7 @@
 		$projects = array(
 		 			"evacriado" 		 => "Eva Criado",
 		 			"smartbite" 		 => "SmartBite",
+		 			"museoalmeria" 		 => "Museum of Almería Kiosk",
 		 			"streetrockstars" 	 => "Street Rockstars",
 		 			"amsterdammers"		 => "Amsterdammers",
 		 			"supersimple_mobile" => "SuperSimple Mobile",
@@ -117,6 +118,7 @@
 		$interaction_design = array(
 		 			"evacriado" 		 => "Eva Criado",
 		 			"smartbite" 		 => "SmartBite",
+		 			"museoalmeria" 		 => "Museum of Almería Kiosk",
 		 			"streetrockstars" 	 => "Street Rockstars",
 		 			"supersimple_mobile" => "SuperSimple Mobile",
 		 			"nextepisode" 		 => "NextEpisode",
