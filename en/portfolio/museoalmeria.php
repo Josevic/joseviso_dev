@@ -62,8 +62,8 @@
 				<ol>
 					<li><p class="spacer">Creation of <b>personas</b> to represent the 3 main roles detected.</p></li>
 					<li><p class="spacer">Definition of the <b>information architecture</b>. First I made an outline and after that I created the site map.</p></li>
-					<li><p class="spacer">Definition of the <b>interaction flows</b> in the application. I identified the main tasks the users needed to do and throught different charts I designed how the application would work.</p></li>
-					<li><p class="spacer">Creation of <b>sketches and wireframes</b>. First I tried to get the bigger number of alternatives for each screen. After that I chose an option and continued developing it with a higher level of fidelity.</p> </li>
+					<li><p class="spacer">Definition of the <b>interaction flows</b> in the application. I identified the main tasks the users needed to do and throught different charts I designed how the application should work.</p></li>
+					<li><p class="spacer">Creation of <b>sketches and wireframes</b>. First I tried to get a good number of alternatives for each screen. After that I chose an option and continued developing it with a higher level of fidelity.</p> </li>
 				</ol>
 			</div>
 			<div class="span6">
