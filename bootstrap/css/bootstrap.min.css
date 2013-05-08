@@ -39,7 +39,6 @@ body {
 	margin-right: 18px;
 }
 
-
 .thumbnails {
     text-align:center;
 }
@@ -95,4 +94,10 @@ ul#social_networks_bar .thumbnail {
 .img-shadow {
     -webkit-box-shadow: 3px 3px 3px #7C7C7C;
     box-shadow: 3px 3px 3px #7C7C7C;
+ }
+
+ .link-muted {
+ 	color: gray;
+ 	text-decoration:none;
+	border-bottom:1px dotted gray;
  }
