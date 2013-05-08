@@ -28,7 +28,7 @@
 				-->
 			</div>
 			<div class="span3 pull-right hidden-phone">
-				<img src="../../images/project_intro.jpeg">
+				<img src="../../images/museoalmeria_front.png">
 			</div>
 		</div>
 
