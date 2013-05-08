@@ -2,11 +2,14 @@
 </div>
 
 	<hr/>
+	
+	<?php if (!strpos($_SERVER['PHP_SELF'], 'contact.php')): ?>
 	<footer>
 		<div class="container">
-			<p class="muted credit"><small><a class="muted" href="mailto:contact@joseviso.com">contact@joseviso.com</a></small></p>
+			<p class="muted credit"><small><a class="link-muted" href="mailto:contact@joseviso.com" title="My email account">contact@joseviso.com</a> · <a href="http://facebook.com/joseviso" title="My Facebook page"><img src="<?php echo $base; ?>/images/icons/PNG/facebook-32.png" onmouseover="this.src='<?php echo $base; ?>/images/icons/PNG/facebook-hover.png'" onmouseout="this.src='<?php echo $base; ?>/images/icons/PNG/facebook-32.png'"/></a> · <a href="http://twitter.com/XoseViso" title="My Twitter account"><img src="<?php echo $base; ?>/images/icons/PNG/twitter-32.png" onmouseover="this.src='<?php echo $base; ?>/images/icons/PNG/twitter-hover.png'" onmouseout="this.src='<?php echo $base; ?>/images/icons/PNG/twitter-32.png'"/></a></small></p>
 		</div>
 	</footer>
+	<?php endif; ?>
 
     <script src="http://code.jquery.com/jquery-latest.js"></script>
     <script src="<?php echo $base;?>/bootstrap/js/bootstrap.min.js"></script>
