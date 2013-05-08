@@ -6,7 +6,7 @@
 	include("../includes/header.php"); ?>
 
 	<div class="row">
-		<div class="span12">
+		<div class="span12 hidden-desktop">
 			<ul class="breadcrumb">
 				<li><a href="<?php echo $base; ?>/es/">Inicio</a> <span class="divider">/</span></li>
 				<li><a href="<?php echo $base; ?>/es/portfolio"> Portfolio</a> <span class="divider">/</span></li>
