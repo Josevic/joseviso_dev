@@ -94,12 +94,12 @@
 		 			"evacriado" 		 => "Eva Criado",
 		 			"smartbite" 		 => "SmartBite",
 		 			"museoalmeria" 		 => "Museum of Almería Kiosk",
+		 			"schiphol"			 => "Schiphol",
 		 			"streetrockstars" 	 => "Street Rockstars",
-		 			"amsterdammers"		 => "Amsterdammers",
 		 			"supersimple_mobile" => "SuperSimple Mobile",
 		 			"nextepisode" 		 => "NextEpisode",
 		 			"takemethere" 		 => "Take Me There",
-		 			"schiphol"			 => "Schiphol"
+		 			"amsterdammers"		 => "Amsterdammers"
 		 		);
 		
 		$user_research = array(
@@ -112,7 +112,8 @@
 		 		);
 
 		$heuristic_evaluation = array(
-		 			"evacriado" 		 => "Eva Criado"
+		 			"evacriado" 		 => "Eva Criado",
+		 			"smartbite" 		 => "SmartBite"
 		 		);
 
 		$interaction_design = array(
@@ -126,8 +127,8 @@
 		 		);
 
 		$development = array(
-					"streetrockstars" => "Street Rockstars",
-					"schiphol"		  => "Schiphol"
+					"schiphol"		  => "Schiphol",
+					"streetrockstars" => "Street Rockstars"
 			);
 
 		$other = array(
