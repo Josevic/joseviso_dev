@@ -76,7 +76,7 @@
 					    <li data-target="#myCarousel" data-slide-to="2"></li>
 					    <li data-target="#myCarousel" data-slide-to="3"></li>
 					    <li data-target="#myCarousel" data-slide-to="4"></li>
-					    <!-- <li data-target="#myCarousel" data-slide-to="5"></li> -->
+					    <li data-target="#myCarousel" data-slide-to="5"></li>
 					</ol>
 
 					<!-- Carousel items -->  
@@ -112,15 +112,13 @@
 				        		<p>Annotated wireframe for the object information screen</p>
 				        	</div>
 				        </div> 
-
-				        <!--
 				        <div class="item">
-				        	<img src="../../images/placeholder.gif" alt="Wireframes de alta fidelidad" />
+				        	<img src="../../images/museoalmeria_hf-wireframe.jpg" alt="High-fidelity wireframe" />
 				        	<div class="carousel-caption">
-				        		<p>Wireframes de alta fidelidad</p>
+				        		<p>High-fidelity wireframe for the home screen</p>
 				        	</div>
 				        </div>  
-				        --> 
+				        
 				  	</div>  
 				  	<!-- Carousel nav -->  
 				  	<a class="carousel-control left" href="#myCarousel" data-slide="prev">‹</a>  
