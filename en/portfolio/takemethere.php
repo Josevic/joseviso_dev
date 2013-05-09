@@ -5,18 +5,18 @@
 
 	include("../includes/header.php"); ?>
 
-	<div class="row hidden-desktop">
-		<div class="span6">
+	<div class="row">
+		<div class="span12">
 			<ul class="breadcrumb">
-				<li><a href="<?php echo $base; ?>">Home</a> <span class="divider">/</span></li>
-				<li><a href="<?php echo $base; ?>/en/portfolio"> Portfolio</a> <span class="divider">/</span></li>
+				<li><a href="<?php echo $base; ?>">Home</a> <span class="divider">></span></li>
+				<li><a href="<?php echo $base; ?>/en/portfolio"> Portfolio</a> <span class="divider">></span></li>
 				<li class="active">Take Me There</li>	
 		    </ul>
 		</div>
 	</div>
 
 		<!-- Big Text -->	
-		<div class="header spacer"><h1>Take Me There</h1></div>
+		<div class="header"><h1>Take Me There</h1></div>
 		
 		<!-- Summary -->
 		<div class="row spacer">
@@ -139,12 +139,5 @@
 				</dl>
 			</div>
 		</div>
-
-		<!-- Indicator of location inside Portfolio -->
-		<ul class="breadcrumb hidden-phone spacer">
-		  <li><a href="<?php echo $base; ?>">Home</a> <span class="divider">/</span></li>
-		  <li><a href="../portfolio">Portfolio</a> <span class="divider">/</span></li>
-		  <li class="active">Take Me There</li>
-		</ul>
 
 	<?php include("../includes/footer.php"); ?>
