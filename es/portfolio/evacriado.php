@@ -57,7 +57,7 @@
 			</div>
 			<div class="span6">
 				<ol>
-					<li><p class="spacer"><b>Evaluación Heurística</b> de la web existente para detectar problemas. Estudio en produndidad considerando las <a href="http://www.useit.com/papers/heuristic/heuristic_list.html">10 Heurísticas de Usabilidad</a> de <a href="http://en.wikipedia.org/wiki/Jakob_Nielsen_(usability_consultant)">Jakob Nielsen</a>, teniendo en cuenta la severidad e importancia de cada un de los problemas encontrados</b>.</p></li>
+					<li><p><b>Evaluación Heurística</b> de la web existente para detectar problemas. Estudio en produndidad considerando las <a href="http://www.useit.com/papers/heuristic/heuristic_list.html">10 Heurísticas de Usabilidad</a> de <a href="http://en.wikipedia.org/wiki/Jakob_Nielsen_(usability_consultant)">Jakob Nielsen</a>, teniendo en cuenta la severidad e importancia de cada un de los problemas encontrados</b>.</p></li>
 					<li><p class="spacer"><b/>Conocer a grandes rasgos el campo de dominio</b>: Investigación general sobre el área, sobre los diferentes tratamientos y servicios que aparecen en la web existente. En definitiva, saber qué hace el negocio exáctamente.</p></li>
 					<li><p class="spacer"><b>Conocer los objetivos y los clientes</b>. Estudio de lo que quería conseguir realmente el negocio, así como de los clientes actuales y sus características. Uso de personas y storyboards para identificar qué tareas necesitaban realizar realmente los usuarios y la forma más natural de hacerlas.</p></li>
 					<li><p class="spacer"><b>Redefinición de la Arquitectura de la Información</b> del sitio. Uso de la técnica de <b>card sorting</b> para detectar la organización más natural desde la perspectiva del usuario para los diferentes servicios y tratamientos.</p></li>
@@ -143,7 +143,7 @@
 		<!-- Tools Used -->
 		<div class="row">
 			<div class="span12">
-				<h3>Herramientas Usadas</h3>
+				<h3>Herramientas usadas</h3>
 			</div>
 			<div class="offset4 span4">
 				<!-- <img src="http://placehold.it/700x150"> -->
