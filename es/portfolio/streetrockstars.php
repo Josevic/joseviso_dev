@@ -58,10 +58,17 @@
 			<div class="span6">
 				<!-- <img src="http://placehold.it/500x350"> -->
 
-				<div id="myCarousel" class="carousel slide">  
+				<div id="myCarousel" class="carousel slide">
+					<ol class="carousel-indicators">
+					    <li data-target="#myCarousel" data-slide-to="0"></li>
+					    <li data-target="#myCarousel" data-slide-to="1"></li>
+					    <li data-target="#myCarousel" data-slide-to="2" class="active"></li>
+					    <li data-target="#myCarousel" data-slide-to="3"></li>
+					</ol>
+
 					<!-- Carousel items -->  
 				    <div class="carousel-inner">  
-				    	<div class="active item">
+				    	<div class="item">
 				        	<img src="../../images/streetrockstars_persona1.png" alt="Primary Persona" />
 				        	<div class="carousel-caption">
 				        		<p>Persona Primaria</p>
@@ -74,7 +81,7 @@
 				        	</div>
 				        </div>  
 				        
-				        <div class="item">
+				        <div class="item active">
 				        	<img src="../../images/streetrockstars_wf1.png" alt="Low-fidelity wireframe" />
 				        	<div class="carousel-caption">
 				        		<p>Wireframe de baja fidelidad creado usando Balsamiq Mockups</p>

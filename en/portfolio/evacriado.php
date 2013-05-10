@@ -52,9 +52,50 @@
 			<div class="span6">
 		
 				<div id="myCarousel" class="carousel slide">  
+					<ol class="carousel-indicators">
+					    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+					    <li data-target="#myCarousel" data-slide-to="1"></li>
+					    <li data-target="#myCarousel" data-slide-to="2"></li>
+					    <li data-target="#myCarousel" data-slide-to="3"></li>
+					    <li data-target="#myCarousel" data-slide-to="4"></li>
+					    <li data-target="#myCarousel" data-slide-to="5"></li>
+					    <li data-target="#myCarousel" data-slide-to="6"></li>
+					    <li data-target="#myCarousel" data-slide-to="7"></li>
+					</ol>
+
 					<!-- Carousel items -->  
 				    <div class="carousel-inner">
 
+				    	<div class="item active">
+				        	<img src="../../images/sketchboard.jpg" alt="Sketchboard" />
+				        	<div class="carousel-caption">
+				        		<p>Sketchboard</p>
+				        	</div>
+				        </div>  
+				    	<div class="item">
+				        	<img src="../../images/evacriado_personas.gif" alt="Personas" />
+				        	<div class="carousel-caption">
+				        		<p>The two personas defined: one primary and another secondary</p>
+				        	</div>
+				        </div>  
+				        <div class="item">
+				        	<img src="../../images/evacriado_storyboards.jpg" alt="Storyboards" />
+				        	<div class="carousel-caption">
+				        		<p>Storyboards created to define the context of use</p>
+				        	</div>
+				        </div>  
+				        <div class="item">
+				        	<img src="../../images/evacriado_ia.jpg" alt="Information Architecture" />
+				        	<div class="carousel-caption">
+				        		<p>Rough approximation of the Information Architecture</p>
+				        	</div>
+				        </div> 
+				        <div class="item">
+				        	<img src="../../images/evacriado_low-fi_wireframes.jpg" alt="Low-fidelity wireframes" />
+				        	<div class="carousel-caption">
+				        		<p>Three low-fidelity wireframes alternatives to get first feedback from client and users</p>
+				        	</div>
+				        </div>   
 				    	<div class="item">
 				        	<img src="../../images/evacriado_home_before.jpg" alt="Home" />
 				        	<div class="carousel-caption">
@@ -73,36 +114,7 @@
 				        		<p>Some of the findings of the Heuristic Evaluation</p>
 				        	</div>
 				        </div>  
-				        <div class="item active">
-				        	<img src="../../images/sketchboard.jpg" alt="Sketchboard" />
-				        	<div class="carousel-caption">
-				        		<p>Sketchboard</p>
-				        	</div>
-				        </div>  
-				        <div class="item">
-				        	<img src="../../images/evacriado_personas.gif" alt="Personas" />
-				        	<div class="carousel-caption">
-				        		<p>The two personas defined: one primary and another secondary</p>
-				        	</div>
-				        </div>  
-				        <div class="item">
-				        	<img src="../../images/evacriado_storyboards.jpg" alt="Storyboards" />
-				        	<div class="carousel-caption">
-				        		<p>Storyboards created to define the context of use</p>
-				        	</div>
-				        </div>  
-				        <div class="item">
-				        	<img src="../../images/evacriado_ia.jpg" alt="Information Architecture" />
-				        	<div class="carousel-caption">
-				        		<p>Rough approximation of the Information Architecture</p>
-				        	</div>
-				        </div>  
-				        <div class="item">
-				        	<img src="../../images/evacriado_low-fi_wireframes.jpg" alt="Low-fidelity wireframes" />
-				        	<div class="carousel-caption">
-				        		<p>Three low-fidelity wireframes alternatives to get first feedback from client and users</p>
-				        	</div>
-				        </div>  
+				        
 				  	</div>  
 				  	<!-- Carousel nav -->  
 				  	<a class="carousel-control left" href="#myCarousel" data-slide="prev">‹</a>  

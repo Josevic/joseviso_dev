@@ -50,16 +50,24 @@
 			<div class="span6">
 				<!-- <img src="http://placehold.it/500x350"> -->
 
-				<div id="myCarousel" class="carousel slide">  
+				<div id="myCarousel" class="carousel slide"> 
+					<ol class="carousel-indicators">
+					    <li data-target="#myCarousel" data-slide-to="0"></li>
+					    <li data-target="#myCarousel" data-slide-to="1" class="active"></li>
+					    <li data-target="#myCarousel" data-slide-to="2"></li>
+					    <li data-target="#myCarousel" data-slide-to="3"></li>
+					    <li data-target="#myCarousel" data-slide-to="4"></li>
+					</ol>
+
 					<!-- Carousel items -->  
 				    <div class="carousel-inner">  
-				    	<div class="active item">
+				    	<div class="item">
 				        	<img src="../../images/smartbite_observation.jpg" alt="First sketches" />
 				        	<div class="carousel-caption">
 				        		<p>One of the people observed for finding a design opportunity</p>
 				        	</div>
 				        </div>  
-				        <div class="item">
+				        <div class="item active">
 				        	<img src="../../images/smartbite_storyboard.png" alt="Storyboard" />
 				        	<div class="carousel-caption">
 				        		<p>Storyboard for representing the context where the app would be used</p>

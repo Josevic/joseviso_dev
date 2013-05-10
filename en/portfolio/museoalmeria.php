@@ -71,18 +71,18 @@
 
 				<div id="myCarousel" class="carousel slide"> 
                     <ol class="carousel-indicators">
-					    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+					    <li data-target="#myCarousel" data-slide-to="0"></li>
 					    <li data-target="#myCarousel" data-slide-to="1"></li>
 					    <li data-target="#myCarousel" data-slide-to="2"></li>
 					    <li data-target="#myCarousel" data-slide-to="3"></li>
 					    <li data-target="#myCarousel" data-slide-to="4"></li>
-					    <li data-target="#myCarousel" data-slide-to="5"></li>
+					    <li data-target="#myCarousel" data-slide-to="5" class="active"></li>
 					</ol>
 
 					<!-- Carousel items -->  
 				    <div class="carousel-inner">  
 				    	
-				        <div class="active item">
+				        <div class="item">
 				        	<img src="../../images/museoAlmeria_personas.jpg" alt="Personas" />
 				        	<div class="carousel-caption">
 				        		<p>The three personas defined</p>
@@ -112,7 +112,8 @@
 				        		<p>Annotated wireframe for the object information screen</p>
 				        	</div>
 				        </div> 
-				        <div class="item">
+
+				        <div class="item active">
 				        	<img src="../../images/museoalmeria_hf-wireframe.jpg" alt="High-fidelity wireframe" />
 				        	<div class="carousel-caption">
 				        		<p>High-fidelity wireframe for the home screen</p>

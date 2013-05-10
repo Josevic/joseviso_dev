@@ -47,10 +47,18 @@
 			<div class="span6">
 				<!-- <img src="http://placehold.it/500x350"> -->
 
-				<div id="myCarousel" class="carousel slide">  
+				<div id="myCarousel" class="carousel slide"> 
+					<ol class="carousel-indicators">
+					    <li data-target="#myCarousel" data-slide-to="0"></li>
+					    <li data-target="#myCarousel" data-slide-to="1"></li>
+					    <li data-target="#myCarousel" data-slide-to="2"></li>
+					    <li data-target="#myCarousel" data-slide-to="3" class="active"></li>
+					    <li data-target="#myCarousel" data-slide-to="4"></li>
+					</ol>
+
 					<!-- Carousel items -->  
 				    <div class="carousel-inner">  
-				    	<div class="active item">
+				    	<div class="item">
 				        	<img src="../../images/takemethere_persona.png" alt="Primary Persona" border="1"/>
 				        	<div class="carousel-caption">
 				        		<p>Primary Persona</p>
@@ -68,7 +76,7 @@
 				        		<p>User Flow Sketches</p>
 				        	</div>
 				        </div>  
-				        <div class="item">
+				        <div class="item active">
 				        	<img src="../../images/takemethere_wireframe1.png" alt="Low-fidelity Wireframe" />
 				        	<div class="carousel-caption">
 				        		<p>Low-fidelity Wireframe</p>

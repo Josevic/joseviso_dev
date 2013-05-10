@@ -46,28 +46,21 @@
 			<div class="span6">
 		
 				<div id="myCarousel" class="carousel slide">  
+					<ol class="carousel-indicators">
+					    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+					    <li data-target="#myCarousel" data-slide-to="1"></li>
+					    <li data-target="#myCarousel" data-slide-to="2"></li>
+					    <li data-target="#myCarousel" data-slide-to="3"></li>
+					    <li data-target="#myCarousel" data-slide-to="4"></li>
+					    <li data-target="#myCarousel" data-slide-to="5"></li>
+					    <li data-target="#myCarousel" data-slide-to="6"></li>
+					    <li data-target="#myCarousel" data-slide-to="7"></li>
+					</ol>
+
 					<!-- Carousel items -->  
 				    <div class="carousel-inner">
 
-				    	<div class="item">
-				        	<img src="../../images/evacriado_home_before.jpg" alt="Página principal" />
-				        	<div class="carousel-caption">
-				        		<p>Antes del rediseño</p>
-				        	</div>
-				        </div>    
-				        <div class="item">
-				        	<img src="../../images/evacriado_home_after.gif" alt="Después" />
-				        	<div class="carousel-caption">
-				        		<p>Después del rediseño</p>
-				        	</div>
-				        </div>    
-				    	<div class="item">
-				        	<img src="../../images/evacriado_he.jpg" alt="Hallazgos" />
-				        	<div class="carousel-caption">
-				        		<p>Algunos de los hallazgos obtenidos con la Evaluación Heurística</p>
-				        	</div>
-				        </div>  
-				        <div class="item active">
+				    	<div class="item active">
 				        	<img src="../../images/sketchboard.jpg" alt="Sketchboard" />
 				        	<div class="carousel-caption">
 				        		<p>Sketchboard</p>
@@ -97,6 +90,25 @@
 				        		<p>Tres wireframes alternativos de baja fidelidad para obtener el primer feedback del cliente y los usuarios</p>
 				        	</div>
 				        </div>  
+				    	<div class="item">
+				        	<img src="../../images/evacriado_home_before.jpg" alt="Página principal" />
+				        	<div class="carousel-caption">
+				        		<p>Antes del rediseño</p>
+				        	</div>
+				        </div>    
+				        <div class="item">
+				        	<img src="../../images/evacriado_home_after.gif" alt="Después" />
+				        	<div class="carousel-caption">
+				        		<p>Después del rediseño</p>
+				        	</div>
+				        </div>    
+				    	<div class="item">
+				        	<img src="../../images/evacriado_he.jpg" alt="Hallazgos" />
+				        	<div class="carousel-caption">
+				        		<p>Algunos de los hallazgos obtenidos con la Evaluación Heurística</p>
+				        	</div>
+				        </div>  
+				       
 				  	</div>  
 				  	<!-- Carousel nav -->  
 				  	<a class="carousel-control left" href="#myCarousel" data-slide="prev">‹</a>  
