@@ -28,16 +28,38 @@
 
 		<hr/>
 
+		<!-- Design Opportunity -->
+		<div class="row">
+			<div class="span12">
+				<h3>Oportunidad de diseño y estrategia</h3>
+			</div>
+			<div class="span12">
+				<p>Este centro de belleza y masaje me contactó con la necesidad de rediseñar su página web para intentar llegar mejor a sus clientes actuales,
+					así como ampliarlo captando a otros de unas características distintas.</p>
+				<p>Una de las limitaciones que tenía este proyecto era el presupuesto disponible, ya que se trataba de un negocio pequeño. Otra limitación era la falta de un estudio
+					sobre sus usuarios habituales.</p>
+
+				<p>Tras varias entrevistas y observaciones en el centro, se detectaron las siguientes oportunidades de mejora:</p>	
+				<ul>
+					<li><p>Mostrar <b>más información clara</b> sobre el negocio, los servicios ofrecidos y diferenciación respecto a otros competidores.</p></li>
+					<li><p>Posibilidad de <b>automatizar ciertas acciones</b>: como reserva de cita y actualización de ofertas.</p></li>
+					<li><p><b>Adaptarse a los distintos dispositivos</b>: ordenador de escritorio, smartphone y tablet. Previamente sólo se disponía de una versión apropiada para ordenadores de escritorio.</p></li>
+				</ul>
+			</div>
+		</div>
+
+		<hr/>
+
 		<!-- Design Process -->
 		<div class="row">
 			<div class="span12">
-				<h3>Proceso de Diseño</h3>
+				<h3>Proceso</h3>
 			</div>
 			<div class="span6">
 				<ol>
 					<li><p class="spacer"><b>Evaluación Heurística</b> de la web existente para detectar problemas. Estudio en produndidad considerando las <a href="http://www.useit.com/papers/heuristic/heuristic_list.html">10 Heurísticas de Usabilidad</a> de <a href="http://en.wikipedia.org/wiki/Jakob_Nielsen_(usability_consultant)">Jakob Nielsen</a>, teniendo en cuenta la severidad e importancia de cada un de los problemas encontrados</b>.</p></li>
 					<li><p class="spacer"><b/>Conocer a grandes rasgos el campo de dominio</b>: Investigación general sobre el área, sobre los diferentes tratamientos y servicios que aparecen en la web existente. En definitiva, saber qué hace el negocio exáctamente.</p></li>
-					<li><p class="spacer"><b>Conocer los objetivos y los clientes</b> del negocio. Creación de personas y storyboards.</p></li>
+					<li><p class="spacer"><b>Conocer los objetivos y los clientes</b>. Estudio de lo que quería conseguir realmente el negocio, así como de los clientes actuales y sus características. Uso de personas y storyboards para identificar qué tareas necesitaban realizar realmente los usuarios y la forma más natural de hacerlas.</p></li>
 					<li><p class="spacer"><b>Redefinición de la Arquitectura de la Información</b> del sitio. Uso de la técnica de <b>card sorting</b> para detectar la organización más natural desde la perspectiva del usuario para los diferentes servicios y tratamientos.</p></li>
 					<li><p class="spacer">Creación de sketches en papel, wireframes y prototipos de baja y alta fidelidad. Para este proyecto usé un <b>sketchboard</b>, tanto para uso personal, como para la comunicación con el cliente.</p></li>
 					<li><p class="spacer">Pruebas de usuarios y un montón de iteraciones.</p></li>
