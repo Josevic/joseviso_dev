@@ -53,7 +53,7 @@
 		<!-- Design Process -->
 		<div class="row">
 			<div class="span12">
-				<h3>Proceso</h3>
+				<h3>Proceso seguido</h3>
 			</div>
 			<div class="span6">
 				<ol>
