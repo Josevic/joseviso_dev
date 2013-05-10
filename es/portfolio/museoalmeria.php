@@ -34,7 +34,7 @@
 
 		<hr/>
 
-		<!-- Design Process -->
+		<!-- Design Opportunity -->
 		<div class="row">
 			<div class="span12">
 				<h3>Oportunidad de diseño</h3>
