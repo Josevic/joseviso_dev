@@ -1,8 +1,8 @@
 	<p class="pull-right to-top"><a href="#top"><img src="<?php echo $base;?>/images/icons/PNG/arrow-up48.png" title="Ir hacia arriba"/></a></p>
 </div>
 
-	<hr/>
 	<?php if (!strpos($_SERVER['PHP_SELF'], 'contacto.php')): ?>
+	<hr/>
 	<footer>
 		<div class="container">
 			<p class="muted credit"><small><a class="link-muted" href="mailto:contacto@joseviso.com" title="Mi cuenta de correo electrónico">contacto@joseviso.com</a> · <a href="http://facebook.com/joseviso" title="Mi página de Facebook"><img src="<?php echo $base; ?>/images/icons/PNG/facebook-32.png" onmouseover="this.src='<?php echo $base; ?>/images/icons/PNG/facebook-hover.png'" onmouseout="this.src='<?php echo $base; ?>/images/icons/PNG/facebook-32.png'"/></a> · <a href="http://twitter.com/XoseViso" title="Mi cuenta de Twitter"><img src="<?php echo $base; ?>/images/icons/PNG/twitter-32.png" onmouseover="this.src='<?php echo $base; ?>/images/icons/PNG/twitter-hover.png'" onmouseout="this.src='<?php echo $base; ?>/images/icons/PNG/twitter-32.png'"/></a></small></p>
