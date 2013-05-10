@@ -1,4 +1,4 @@
-	<p class="pull-right hidden-desktop to-top"><a href="#top"><i class="icon-arrow-up"></i>Ir hacia arriba</a></p>
+	<p class="pull-right to-top"><a href="#top"><img src="<?php echo $base;?>/images/icons/PNG/arrow-up48.png" title="Ir hacia arriba"/></a></p>
 </div>
 
 	<hr/>
