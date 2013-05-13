@@ -22,6 +22,7 @@
 		<div class="row spacer">
 			<div class="hero-unit span7">
 				<p><em>SmartBite</em> es una aplicación de dietas para smartphone enfocada en motivar a los usuarios a no abandonar, adaptándo la dieta a la comida preferida de cada persona y proporcionando una amplia variedad de alternativas.</p>
+				<p>Creado durante el <a href="http://hci-class.org">curso de Interacción-Persona Ordenador</a> ofrecido por <a href="https://www.coursera.org/stanford">Coursera - Stanford University</a>.</p>
 				<br/>
 				<a class="btn btn-large btn-primary pull-right" href="https://dl.dropbox.com/u/3953712/SmartBite/test/screens/iPhoneDashboard.html">¡Prueba el prototipo interactivo!</a>
 			</div>
@@ -32,16 +33,39 @@
 
 		<hr/>
 
+		<!-- Design Opportunity -->
+		<div class="row">
+			<div class="span12">
+				<h3>Oportunidad de diseño</h3>
+			</div>
+			<div class="span12">
+				<p>La primera parte de este proyecto fue buscar necesidades no cubiertas u oportunidades de diseño a mi alrededor relacionadas a un tema a mi elección. 
+				   Me decidí por observar y entrevistar a <b>gente que hace dieta</b> y ver cómo decide qué comida puede o debería comer, cómo obtiene motivación y cómo hace para continuar con la dieta.</p>
+
+				<p>Los problemas y oportunidades detectados fueron los siguientes:</p>
+				<ul>
+					<li><p><b>Falta de motivación para seguir</b> con la dieta tras unos días.</p></li>
+					<li><p>Las personas teminan cansándose de tener <b>pocas alternativas para cada comida</b> (rutina a la hora de comer).</p></li>
+					<li><p>Dificultad para <b>saber si un alimento es apropiado</b> para la dieta que se está siguiendo.</p></li>
+					<li><p><b>Falta de tiempo</b> para poder cocinar y necesidad de encontrar recetas específicas.</p></li>
+				</ul>
+
+			</div>
+		</div>
+
+		<hr/>
+
 		<!-- Design Process -->
 		<div class="row">
 			<div class="span12">
-				<h3>Proceso de Diseño</h3>
+				<h3>Proceso seguido</h3>
 			</div>
 			<div class="span6">
 				<ol>
-					<li><p class="spacer"><b>Búsqueda de Necesidades</b>: Descubrir necesidades no cubiertas u oportunidnades de mejora a mi alrededor. Para conseguirlo, observé y entrevisté a varias personas.</p></li>
-					<li><p class="spacer">Bocetos de la estructura: Creación de un "punto de vista", uso de <b>storyboards</b>, elección de una dirección concreta y creación de <b>prototipos rápidos</b> con Balsamiq Mockups.</p></li>
-					<li><p class="spacer">Creación de <b>prototipos interactivos</b> usando Justinmind.</p></li>
+					<li><p class="spacer">Creación de un <b>punto de vista</b>:</p>
+						 <blockquote><p>Sin apoyo y motivación, las dietas son una lata. Las mejoras de las tecnologías móviles e Internet pueden ser una gran herramienta de ayuda.</p></blockquote></li>
+					<li><p class="spacer">Bocetos de la estructura: uso de <b>storyboards</b>, elección de una dirección concreta y creación de <b>prototipos rápidos</b> con <a href="http://www.balsamiq.com/">Balsamiq Mockups</a>.</p></li>
+					<li><p class="spacer">Creación de <b>prototipos interactivos</b> usando <a href="http://www.justinmind.com/">Justinmind</a>.</p></li>
 					<li><p class="spacer"><b>Pruebas de Usuario</b>: Definición de un Plan de Evaluación, realización de las pruebas, análisis de los resultados y planificación de la siguiente iteración de diseño.</p></li>
 				</ol>
 			</div>
@@ -105,7 +129,7 @@
 		<!-- Tools Used -->
 		<div class="row">
 			<div class="span12">
-				<h3>Herramientas Usadas</h3>
+				<h3>Herramientas usadas</h3>
 			</div>
 			<div class="offset4 span4">
 				<!-- <img src="http://placehold.it/700x150"> -->
