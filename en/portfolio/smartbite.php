@@ -34,16 +34,39 @@
 
 		<hr/>
 
+		<!-- Design Opportunity -->
+		<div class="row">
+			<div class="span12">
+				<h3>Design opportunity</h3>
+			</div>
+			<div class="span12">
+				<p>The first part of this project was to find not covered needs and design opportunities around me, related to a topic up to me. 
+				   I decided to observe and interview <b>people in diet</b> to discover how they knew what food could/should eat and how they got motivated.</p>
+
+				<p>The problems and opportunities found were the following:</p>
+				<ul>
+					<li><p>The <b>lack of motivation</b> for keep following the diet after the first days.</p></li>
+					<li><p>People get tired of having just a <b>few choices for each meal</b>. Eating routine.</p></li>
+					<li><p><b>To know if a given food is appropiate</b> for the diet the person is following.</p></li>
+					<li><p><b>Lack of time</b> to cook. Need of finding specific recipes.</p></li>
+				</ul>
+
+			</div>
+		</div>
+
+		<hr/>
+
 		<!-- Design Process -->
 		<div class="row">
 			<div class="span12">
-				<h3>Design Process</h3>
+				<h3>Process</h3>
 			</div>
 			<div class="span6">
 				<ol>
-					<li><p class="spacer"><b>Needfinding</b>: Discover not covered needs or opportunities for improvement around me. To do it I observed and interviewed some people.</p></li>
-					<li><p class="spacer">Sketches of the structure: Creation of a point of view, use of <b>storyboards</b>, pick one concrete direction and creating <b>rapid prototypes</b> with Balsamiq Mockups.</p></li>
-					<li><p class="spacer">Creation of <b>interactive Prototypes</b> using Justinmind.</p></li>
+					<li><p class="spacer">Creation of a <b>point of view</b>:</p>
+						 <blockquote><p>Without support and motivation, diets are a pain. Enhancements of mobile technology and Internet can be a great tool.</p></blockquote></li>
+					<li><p class="spacer">Sketches of the structure: Creation of a point of view, use of <b>storyboards</b>, pick one concrete direction and creating <b>rapid prototypes</b> with <a href="http://www.balsamiq.com/">Balsamiq Mockups</a>.</p></li>
+					<li><p class="spacer">Creation of <b>interactive Prototypes</b> using <a href="http://www.justinmind.com/">Justinmind</a>.</p></li>
 					<li><p class="spacer"><b>User Tests</b>: Defining an Evaluation Plan, conducting the tests, analysis of the results and planification of the next design iteration.</p></li>
 				</ol>
 			</div>
@@ -107,7 +130,7 @@
 		<!-- Tools Used -->
 		<div class="row">
 			<div class="span12">
-				<h3>Tools Used</h3>
+				<h3>Tools used</h3>
 			</div>
 			<div class="offset4 span4">
 				<!-- <img src="http://placehold.it/700x150"> -->
