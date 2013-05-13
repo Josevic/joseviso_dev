@@ -20,10 +20,11 @@
 			<h3>Quién soy</h3>
 			<div class="row">
 				<div class="offset1 span4">
-					<img src="../images/In_Canal.JPG"/>
+					<img src="../images/Jose_whitebg.JPG"/>
 				</div>
 				<div class="span7">
 					<p class="lead">José Viso Vargas</p>
+					<p><em>Diseñador / Desarrollador de Experiencia de Usuario</em></p>
 					<p>29 Septiembre 1984 (28 años)</p>
 					<p>Almería, España</p>
 					<p>Cursando <em><a href="http://www.uoc.edu/masters/esp/web/informatica_multimedia_telecomunicacion/interaccion-persona-ordenador/">Posgrado de Interacción Persona-Ordenador</a> (Universitat Oberta de Catalunya)</em><br/> 
@@ -39,7 +40,8 @@
 						<!-- Explanation of what I do -->
 						<p class="lead">Diseño Centrado en el Usuario </p>
 						<p>Mi principal objetivo es diseñar software que satisfaga las necesidades de los usuarios, estudiando sus capacidades, motivaciones y limitaciones, pero teniendo en cuenta también las necesidades del cliente.</p>
-						<p>He trabajado en proyectos complejos tanto en España como en el extranjero, analizando los requisitos de los usuarios y desarrollando software. Más tarde me he especializado en el campo de la Interacción Persona-Ordenador, que es lo que realmente me apasiona. Creo que esta experiencia me permite poseer una buena visión global de los proyectos.</p>
+						<p>He trabajado en proyectos complejos tanto en España como en el extranjero, analizando los requisitos de los usuarios y desarrollando software. Más tarde me he especializado en el campo de la Interacción Persona-Ordenador, que es lo que realmente me apasiona. Creo que esta experiencia me permite poseer una buena visión global de los proyectos.
+							Puedes encontrar algunas cosas de las que he hecho echando un vistazo a <a href="portfolio">mi portfolio</a>.</p>
 
 						<h5 class="spacer">Técnicas que utilizo</h5>
 						<ul>
@@ -57,7 +59,7 @@
 						<h5 class="spacer">Proyectos destacados en los que participo</h5>
 						<ul>
 							<li><em>Community TA</em> en el <a href="https://www.coursera.org/course/hci">curso de Interacción Persona-Ordenador</a> de <a href="https://www.coursera.org/">Coursera</a> - Stanford University</li>
-							<li><a href="http://streetrockstars.com">Street Rockstars</a></li>
+							<li>Creador de <a href="http://streetrockstars.com">Street Rockstars</a></li>
 						</ul>
 
 						<h5 class="spacer">Experiencia</h5>
