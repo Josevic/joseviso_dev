@@ -79,13 +79,33 @@
 				    	<?php endforeach; ?>
 				        
 				  	</div>
-				  	  
+
 				  	<!-- Carousel nav -->  
 				  	<a class="carousel-control left" href="#myCarousel" data-slide="prev">‹</a>  
 				  	<a class="carousel-control right" href="#myCarousel" data-slide="next">›</a>  
 				</div>  
 			</div>
 	</div>
-<?php endif; ?>
+	<?php endif; ?>
+
+	<hr/>
+
+	<!-- Tools used -->
+	<div class="row">
+		<div class="span12">
+			<h3>Tools used</h3>
+		</div>
+		<div class="offset4 span4">
+			<table class="table table-bordered">
+
+				<?php foreach ($tools_used as $i => $tool): ?>
+				<tr>
+					<td><p class="centered"><?php echo $tools_used[$i]; ?></p></td>
+				</tr>
+				<?php endforeach; ?>
+
+  			</table>
+		</div>
+	</div>
 
 	
