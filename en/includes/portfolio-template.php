@@ -1,3 +1,39 @@
+	<?php 
+	/*** 
+	Data structure example for the arrays used;
+	
+		$process = array(
+	    	"steps" =>  array(
+				"Step 1",
+				"Step 2"
+			),
+			"slides" => array(
+				0 => array(
+						"image" => "../../images/image0.jpg",
+						"alt_text" => "Element 0",
+						"caption" => "This is the element 0"
+					 ),
+				1 => array(
+						"image" => "../../images/image1.jpg",
+						"alt_text" => "Element 1",
+						"caption" => "This is the element 1"
+					 )
+			),
+			"active" => 0
+	    );
+
+
+	    $details = array(
+		"date" => "Month Year start - Month Year end",
+		"tags" => array(
+			"Tag name 1" => "tag-url", 
+			"Tag name 2" => "tag2-url"
+		)
+	);
+
+	***/ 
+	?>
+
 	<!-- Breadcrumb -->
 	<div class="row">
 		<div class="span12">
