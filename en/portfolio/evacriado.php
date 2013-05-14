@@ -34,10 +34,30 @@
 
 		<hr/>
 
+		<!-- Design Opportunity -->
+		<div class="row">
+			<div class="span12">
+				<h3>Design opportunity and strategy</h3>
+			</div>
+			<div class="span12">
+				<p>This beauty center contacted me because they had the need to redesign their webpage to try to reach in a better way their current clients, and wanted to gain new ones with different characteristics.</p>
+				<p>One of the limitations was the budget, because it was a small business. Another limitation was they didn't have any study about their regular clients.</p>
+
+				<p>After several interviews and observations in the center, I detected the following opportunities of improvement:</p>	
+				<ul>
+					<li><p>Need of showing a <b>more clear information</b> about the business, offered services and what make them different from other competitors.</p></li>
+					<li><p>Possibility of <b>automate some actions</b>: as reservations and update offers.</p></li>
+					<li><p><b>Adaptation to new devices</b>: desktop, smartphone and tablet. Previously the webpage was appropriate just for desktop computers.</p></li>
+				</ul>
+			</div>
+		</div>
+
+		<hr/>
+
 		<!-- Design Process -->
 		<div class="row">
 			<div class="span12">
-				<h3>Design Process</h3>
+				<h3>Process</h3>
 			</div>
 			<div class="span6">
 				<ol>
@@ -128,7 +148,7 @@
 		<!-- Tools Used -->
 		<div class="row">
 			<div class="span12">
-				<h3>Tools Used</h3>
+				<h3>Tools used</h3>
 			</div>
 			<div class="offset4 span4">
 				<!-- <img src="http://placehold.it/700x150"> -->
