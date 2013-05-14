@@ -71,44 +71,20 @@
 		"active" => 0
     );
 
+	$tools_used = array(
+		"<a href='http://www.nngroup.com/articles/ten-usability-heuristics/'>10 Usability Heuristics</a> (Jakob Nielsen)",
+		"Card sorting",
+		"Pen and Paper",
+		"Balsamiq Mockups",
+		"Axure",
+		"Sketchboard"
+	);
+
 	include("../includes/header.php"); 
 	include("../includes/portfolio-template.php");
 
 	?>
 
-
-
-		<hr/>
-
-		<!-- Tools Used -->
-		<div class="row">
-			<div class="span12">
-				<h3>Tools used</h3>
-			</div>
-			<div class="offset4 span4">
-				<!-- <img src="http://placehold.it/700x150"> -->
-				<table class="table table-bordered">
-					<tr>
-						<td><p class="centered"><a href="http://www.nngroup.com/articles/ten-usability-heuristics/">10 Usability Heuristics</a> (Jakob Nielsen)</p></td>
-					</tr>
-					<tr>
-						<td><p class="centered">Card sorting</p></td>
-					</tr>
-					<tr>
-						<td><p class="centered">Pen and Paper</p></td>
-					</tr>
-					<tr>
-						<td><p class="centered">Balsamiq Mockups</p></td>
-					</tr>
-					<tr>
-						<td><p class="centered">Axure</p></td>
-					</tr>
-					<tr>
-						<td><p class="centered">Sketchboard</p></td>
-					</tr>
-  				</table>
-			</div>
-		</div>
 
 		<div class="row">
 			<div class="span12">
