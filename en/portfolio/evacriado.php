@@ -2,146 +2,81 @@
 
 	$page_title = "Portfolio > Eva Criado";
 	$page_description = "Jose Viso's portfolio | Redesign of Evacriado.com";
+	$project_name = "Eva Criado";
+	$herounit_width = 7;
+	$herounit_desc = 
+		"<p>Redesign of the existing Eva Criado's beauty center website.</p>";
 
-	include("../includes/header.php"); ?>
+	$design_opportunity_desc = 
+		"<p>This beauty center contacted me because they had the need to redesign their webpage to try to reach in a better way their current clients, and wanted to gain new ones with different characteristics.</p>
+		 <p>One of the limitations was the budget, because it was a small business. Another limitation was they didn't have any study about their regular clients.</p>
+		 <p>After several interviews and observations in the center, I detected the following opportunities of improvement:</p>	
+			<ul>
+				<li><p>Need of showing a <b>more clear information</b> about the business, offered services and what make them different from other competitors.</p></li>
+				<li><p>Possibility of <b>automate some actions</b>: as reservations and update offers.</p></li>
+				<li><p><b>Adaptation to new devices</b>: desktop, smartphone and tablet. Previously the webpage was appropriate just for desktop computers.</p></li>
+			</ul>";
 
-	<div class="row">
-		<div class="span12">
-			<ul class="breadcrumb">
-				<li><a href="<?php echo $base; ?>">Home</a> <span class="divider">></span></li>
-				<li><a href="<?php echo $base; ?>/en/portfolio"> Portfolio</a> <span class="divider">></span></li>
-				<li class="active">Eva Criado</li>	
-		    </ul>
-		</div>
-	</div>
+	$process = array(
+    	"steps" =>  array(
+			"<b>Heuristic Evaluation</b> of the existing website to detect problems. Deep evaluation considering the <a href='http://www.useit.com/papers/heuristic/heuristic_list.html'>10 Usability Heuristics</a> by <a href='http://en.wikipedia.org/wiki/Jakob_Nielsen_(usability_consultant)'>Jakob Nielsen</a>, noting the severity and importance of each one of them.</b>",
+			"To <b/>know roughly the domain field</b>: General research about this area, what are the different treatments and services that appear in the website and what the business do.",
+			"To <b>know the goals and the clients</b> of the business. Creation of personas and storyboards.",
+			"<b>Redefinition of the Information Architecture</b> of the site. Use of <b>card sorting</b> to detect the most natural organization from user's perspective for the different services and treatments.",
+			"Creation of paper sketches, low and mid-fidelity wireframes and prototypes. For this project I made use of a <b>sketchboard</b>, for self-use and communicating with the client.",
+			"User testing and a lot of iterations."
+		),
+		"slides" => array(
+			0 => array(
+					"image" => "../../images/sketchboard.jpg",
+					"alt_text" => "Sketchboard",
+					"caption" => "Sketchboard"
+				 ),
+			1 => array(
+					"image" => "../../images/evacriado_personas.gif",
+					"alt_text" => "Personas",
+					"caption" => "The two personas defined: one primary and another secondary"
+				 ),
+			2 => array(
+					"image" => "../../images/evacriado_storyboards.jpg",
+					"alt_text" => "Storyboards",
+					"caption" => "Storyboards created to define the context of use"
+				 ),
+			3 => array(
+					"image" => "../../images/evacriado_ia.jpg",
+					"alt_text" => "Information Architecture",
+					"caption" => "Rough approximation of the Information Architecture"
+				 ),
+			4 => array(
+					"image" => "../../images/evacriado_low-fi_wireframes.jpg",
+					"alt_text" => "Low-fidelity wireframes",
+					"caption" => "Three low-fidelity wireframes alternatives to get first feedback from client and users"
+				 ),
+			5 => array(
+					"image" => "../../images/evacriado_home_before.jpg",
+					"alt_text" => "Home",
+					"caption" => "Before the redesign"
+				 ),
+			6 => array(
+					"image" => "../../images/evacriado_home_after.gif",
+					"alt_text" => "After",
+					"caption" => "After the redesign"
+				 ),
+			7 => array(
+					"image" => "../../images/evacriado_he.jpg",
+					"alt_text" => "Findings",
+					"caption" => "Some of the findings of the Heuristic Evaluation"
+				 )
+		),
+		"active" => 0
+    );
 
-		<!-- Big Text -->	
-		<div class="header"><h1>Eva Criado</h1></div>
-		
-		<!-- Summary -->
-		<div class="row spacer">
-			<div class="hero-unit span7">
-				<p>Redesign of the existing Eva Criado's beauty center website.</p> 
-				<!-- <a class="btn btn-large btn-primary pull-right" href="HE_EvaSpa.pdf">Download the Heuristic Evaluation</a> -->
-			</div>
+	include("../includes/header.php"); 
+	include("../includes/portfolio-template.php");
 
-			<!--
-			<div class="span3 pull-right hidden-phone" >
-				<img src="../../images/thumb_evacriado2.png">
-			</div>
-			-->
-		</div>
+	?>
 
-		<hr/>
 
-		<!-- Design Opportunity -->
-		<div class="row">
-			<div class="span12">
-				<h3>Design opportunity and strategy</h3>
-			</div>
-			<div class="span12">
-				<p>This beauty center contacted me because they had the need to redesign their webpage to try to reach in a better way their current clients, and wanted to gain new ones with different characteristics.</p>
-				<p>One of the limitations was the budget, because it was a small business. Another limitation was they didn't have any study about their regular clients.</p>
-
-				<p>After several interviews and observations in the center, I detected the following opportunities of improvement:</p>	
-				<ul>
-					<li><p>Need of showing a <b>more clear information</b> about the business, offered services and what make them different from other competitors.</p></li>
-					<li><p>Possibility of <b>automate some actions</b>: as reservations and update offers.</p></li>
-					<li><p><b>Adaptation to new devices</b>: desktop, smartphone and tablet. Previously the webpage was appropriate just for desktop computers.</p></li>
-				</ul>
-			</div>
-		</div>
-
-		<hr/>
-
-		<!-- Design Process -->
-		<div class="row">
-			<div class="span12">
-				<h3>Process</h3>
-			</div>
-			<div class="span6">
-				<ol>
-					<li><p class="spacer"><b>Heuristic Evaluation</b> of the existing website to detect problems. Deep evaluation considering the <a href="http://www.useit.com/papers/heuristic/heuristic_list.html">10 Usability Heuristics</a> by <a href="http://en.wikipedia.org/wiki/Jakob_Nielsen_(usability_consultant)">Jakob Nielsen</a>, noting the severity and importance of each one of them.</b></p></li>
-					<li><p class="spacer">To <b/>know roughly the domain field</b>: General research about this area, what are the different treatments and services that appear in the website and what the business do.</p></li>
-					<li><p class="spacer">To <b>know the goals and the clients</b> of the business. Creation of personas and storyboards.</p></li>
-					<li><p class="spacer"><b>Redefinition of the Information Architecture</b> of the site. Use of <b>card sorting</b> to detect the most natural organization from user's perspective for the different services and treatments.</p></li>
-					<li><p class="spacer">Creation of paper sketches, low and mid-fidelity wireframes and prototypes. For this project I made use of a <b>sketchboard</b>, for self-use and communicating with the client.</p></li>
-					<li><p class="spacer">User testing and a lot of iterations.</p></li>
-				</ol>
-			</div>
-			<div class="span6">
-		
-				<div id="myCarousel" class="carousel slide">  
-					<ol class="carousel-indicators">
-					    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-					    <li data-target="#myCarousel" data-slide-to="1"></li>
-					    <li data-target="#myCarousel" data-slide-to="2"></li>
-					    <li data-target="#myCarousel" data-slide-to="3"></li>
-					    <li data-target="#myCarousel" data-slide-to="4"></li>
-					    <li data-target="#myCarousel" data-slide-to="5"></li>
-					    <li data-target="#myCarousel" data-slide-to="6"></li>
-					    <li data-target="#myCarousel" data-slide-to="7"></li>
-					</ol>
-
-					<!-- Carousel items -->  
-				    <div class="carousel-inner">
-
-				    	<div class="item active">
-				        	<img src="../../images/sketchboard.jpg" alt="Sketchboard" />
-				        	<div class="carousel-caption">
-				        		<p>Sketchboard</p>
-				        	</div>
-				        </div>  
-				    	<div class="item">
-				        	<img src="../../images/evacriado_personas.gif" alt="Personas" />
-				        	<div class="carousel-caption">
-				        		<p>The two personas defined: one primary and another secondary</p>
-				        	</div>
-				        </div>  
-				        <div class="item">
-				        	<img src="../../images/evacriado_storyboards.jpg" alt="Storyboards" />
-				        	<div class="carousel-caption">
-				        		<p>Storyboards created to define the context of use</p>
-				        	</div>
-				        </div>  
-				        <div class="item">
-				        	<img src="../../images/evacriado_ia.jpg" alt="Information Architecture" />
-				        	<div class="carousel-caption">
-				        		<p>Rough approximation of the Information Architecture</p>
-				        	</div>
-				        </div> 
-				        <div class="item">
-				        	<img src="../../images/evacriado_low-fi_wireframes.jpg" alt="Low-fidelity wireframes" />
-				        	<div class="carousel-caption">
-				        		<p>Three low-fidelity wireframes alternatives to get first feedback from client and users</p>
-				        	</div>
-				        </div>   
-				    	<div class="item">
-				        	<img src="../../images/evacriado_home_before.jpg" alt="Home" />
-				        	<div class="carousel-caption">
-				        		<p>Before the redesign</p>
-				        	</div>
-				        </div>    
-				        <div class="item">
-				        	<img src="../../images/evacriado_home_after.gif" alt="After" />
-				        	<div class="carousel-caption">
-				        		<p>After the redesign</p>
-				        	</div>
-				        </div>    
-				    	<div class="item">
-				        	<img src="../../images/evacriado_he.jpg" alt="Findings" />
-				        	<div class="carousel-caption">
-				        		<p>Some of the findings of the Heuristic Evaluation</p>
-				        	</div>
-				        </div>  
-				        
-				  	</div>  
-				  	<!-- Carousel nav -->  
-				  	<a class="carousel-control left" href="#myCarousel" data-slide="prev">‹</a>  
-				  	<a class="carousel-control right" href="#myCarousel" data-slide="next">›</a>  
-				</div>  
-			</div>
-		</div>
 
 		<hr/>
 
