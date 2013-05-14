@@ -80,29 +80,17 @@
 		"Sketchboard"
 	);
 
+	$details = array(
+		"date" => "October 2012 - January 2013",
+		"tags" => array(
+			"User Research" => "user-research", 
+			"Heuristic Evaluation" => "heuristic-evaluation",
+			"Interaction Design" => "interaction-design"
+		)
+	);
+
 	include("../includes/header.php"); 
 	include("../includes/portfolio-template.php");
+	include("../includes/footer.php");
 
-	?>
-
-
-		<div class="row">
-			<div class="span12">
-				<h3>Details</h3>
-			</div>
-			<div class="span12">
-				<dl class="dl-horizontal">
-				  <dt>Date</dt>
-				  <dd>October 2012 - January 2013</dd>
-				
-				  <dt>Tags</dt>
-				  <dd>
-				      <a href="<?php echo $base . '/en/portfolio/category/user-research'; ?>"><span class="label">User Research</span></a>
-				      <a href="<?php echo $base . '/en/portfolio/category/heuristic-evaluation'; ?>"><span class="label">Heuristic Evaluation</span></a>
-				      <a href="<?php echo $base . '/en/portfolio/category/interaction-design'; ?>"><span class="label">Interaction Design</span></a>
-    			  </dd>
-				</dl>
-			</div>
-		</div>
-	 
-	 <?php include("../includes/footer.php"); ?>
+?>
