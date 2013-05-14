@@ -40,9 +40,10 @@
 			<?php echo $design_opportunity_desc; ?>
 		</div>
 	</div>
+	<hr/>
 	<?php endif; ?>
 
-	<hr/>
+	
 
 	<!-- Process -->
 	<?php if (isset($process)): ?>
@@ -86,11 +87,13 @@
 				</div>  
 			</div>
 	</div>
+	<hr/>
 	<?php endif; ?>
 
-	<hr/>
+	
 
 	<!-- Tools used -->
+	<?php if(isset($tools_used)): ?>
 	<div class="row">
 		<div class="span12">
 			<h3>Tools used</h3>
@@ -107,5 +110,32 @@
   			</table>
 		</div>
 	</div>
+	<hr/>
+	<?php endif; ?>
+
+
+	<!-- Details -->
+	<?php if(isset($details)): ?>
+	<div class="row">
+			<div class="span12">
+				<h3>Details</h3>
+			</div>
+			<div class="span12">
+				<dl class="dl-horizontal">
+				  <dt>Date</dt>
+				  <dd><?php echo $details['date']; ?></dd>
+				
+				  <dt>Tags</dt>
+				  <dd>
+
+				  	<?php foreach ($details['tags'] as $tag_name => $tag_url): ?>
+				  	<a href="<?php echo $base . '/en/portfolio/category/' . $tag_url; ?>"><span class="label"><?php echo $tag_name; ?></span></a>
+				  	<?php endforeach; ?>
+
+    			  </dd>
+				</dl>
+			</div>
+	</div>
+	<?php endif; ?>
 
 	
