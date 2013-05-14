@@ -24,125 +24,60 @@
 				<li><p><b>Lack of time</b> to cook. Need of finding specific recipes.</p></li>
 			</ul>";
 
+	$process = array(
+		'steps' => array(
+			"Creation of a <b>point of view</b>:<br/>
+						 <blockquote><p>Without support and motivation, diets are a pain. Enhancements of mobile technology and Internet can be a great tool.</p></blockquote>",
+			"Sketches of the structure: Creation of a point of view, use of <b>storyboards</b>, pick one concrete direction and creating <b>rapid prototypes</b> with <a href='http://www.balsamiq.com/'>Balsamiq Mockups</a>.",
+			"Creation of <b>interactive Prototypes</b> using <a href='http://www.justinmind.com/'>Justinmind</a>.",
+			"<b>User Tests</b>: Defining an Evaluation Plan, conducting the tests, analysis of the results and planification of the next design iteration."
+		 ),
+		'slides' => array(
+			0 => array(
+						"image" => "../../images/smartbite_observation.jpg",
+						"alt_text" => "Person observed",
+						"caption" => "One of the people observed for finding a design opportunity"
+			),
+			1 => array(
+						"image" => "../../images/smartbite_storyboard.png",
+						"alt_text" => "Storyboard",
+						"caption" => "Storyboard for representing the context where the app would be used"
+			),
+			2 => array(
+						"image" => "../../images/smartbite_lowfidelity2.png",
+						"alt_text" => "Low-fidelity prototype",
+						"caption" => "Basic Prototype built with Balsamiq Mockups"
+			),
+			3 => array(
+						"image" => "../../images/smartbite_highfidelity.png",
+						"alt_text" => "High-fidelity prototype",
+						"caption" => "More detailed prototype considering the users' feedback built with Justinmind"
+			),
+			4 => array(
+						"image" => "../../images/smartbite_usertest.jpg",
+						"alt_text" => "User test",
+						"caption" => "One of the user tests"
+			)
+		),
+		'active' => 1
+	);
+
+	$tools_used = array(
+		"Pen and Paper",
+		"Balsamiq Mockups",
+		"Justinmind"
+	);
+
+	$details = array(
+		"date" => "May - July 2012",
+		"tags" => array(
+			"User Research" => "user-research", 
+			"Heuristic Evaluation" => "heuristic-evaluation",
+			"Interaction Design" => "interaction-design"
+		)
+	);
+
 	include("../includes/header.php"); 
 	include("../includes/portfolio-template.php");
+	include("../includes/footer.php");
 	?>
-
-		<hr/>
-
-		<!-- Design Process -->
-		<div class="row">
-			<div class="span12">
-				<h3>Process</h3>
-			</div>
-			<div class="span6">
-				<ol>
-					<li><p class="spacer">Creation of a <b>point of view</b>:</p>
-						 <blockquote><p>Without support and motivation, diets are a pain. Enhancements of mobile technology and Internet can be a great tool.</p></blockquote></li>
-					<li><p class="spacer">Sketches of the structure: Creation of a point of view, use of <b>storyboards</b>, pick one concrete direction and creating <b>rapid prototypes</b> with <a href="http://www.balsamiq.com/">Balsamiq Mockups</a>.</p></li>
-					<li><p class="spacer">Creation of <b>interactive Prototypes</b> using <a href="http://www.justinmind.com/">Justinmind</a>.</p></li>
-					<li><p class="spacer"><b>User Tests</b>: Defining an Evaluation Plan, conducting the tests, analysis of the results and planification of the next design iteration.</p></li>
-				</ol>
-			</div>
-			<div class="span6">
-				<!-- <img src="http://placehold.it/500x350"> -->
-
-				<div id="myCarousel" class="carousel slide"> 
-					<ol class="carousel-indicators">
-					    <li data-target="#myCarousel" data-slide-to="0"></li>
-					    <li data-target="#myCarousel" data-slide-to="1" class="active"></li>
-					    <li data-target="#myCarousel" data-slide-to="2"></li>
-					    <li data-target="#myCarousel" data-slide-to="3"></li>
-					    <li data-target="#myCarousel" data-slide-to="4"></li>
-					</ol>
-
-					<!-- Carousel items -->  
-				    <div class="carousel-inner">  
-				    	<div class="item">
-				        	<img src="../../images/smartbite_observation.jpg" alt="First sketches" />
-				        	<div class="carousel-caption">
-				        		<p>One of the people observed for finding a design opportunity</p>
-				        	</div>
-				        </div>  
-				        <div class="item active">
-				        	<img src="../../images/smartbite_storyboard.png" alt="Storyboard" />
-				        	<div class="carousel-caption">
-				        		<p>Storyboard for representing the context where the app would be used</p>
-				        	</div>
-				        </div>  
-				        
-				        <div class="item">
-				        	<img src="../../images/smartbite_lowfidelity2.png" alt="" />
-				        	<div class="carousel-caption">
-				        		<p>Basic Prototype built with Balsamiq Mockups</p>
-				        	</div>
-				        </div>
-				        <div class="item">
-				        	<img src="../../images/smartbite_highfidelity.png" alt="" />
-				        	<div class="carousel-caption">
-				        		<p>More detailed prototype considering the users' feedback built with Justinmind</p>
-				        	</div>
-				        </div>    
-				        <div class="item">
-				        	<img src="../../images/smartbite_usertest.jpg" alt="" />
-				        	<div class="carousel-caption">
-				        		<p>User test</p>
-				        	</div>
-				        </div>  
-				  	</div>  
-				  	<!-- Carousel nav -->  
-				  	<a class="carousel-control left" href="#myCarousel" data-slide="prev">‹</a>  
-				  	<a class="carousel-control right" href="#myCarousel" data-slide="next">›</a>  
-				</div>  
-
-
-			</div>
-		</div>
-
-		<hr/>
-
-		<!-- Tools Used -->
-		<div class="row">
-			<div class="span12">
-				<h3>Tools used</h3>
-			</div>
-			<div class="offset4 span4">
-				<!-- <img src="http://placehold.it/700x150"> -->
-				<table class="table table-bordered">
-					<tr>
-						<td><p class="centered">Pen and Paper</p></td>
-					</tr>
-					<tr>
-						<td><p class="centered">Balsamiq Mockups</p></td>
-					</tr>
-					<tr>
-						<td><p class="centered">Justinmind</p></td>
-					</tr>
-  				</table>
-			</div>
-		</div>
-
-		<hr/>
-
-		<div class="row">
-			<div class="span12">
-				<h3>Details</h3>
-			</div>
-			<div class="span12">
-				<dl class="dl-horizontal">
-				  <dt>Date</dt>
-				  <dd>May - July 2012</dd>
-				
-				  <dt>Tags</dt>
-				  <dd>
-				      <a href="<?php echo $base . '/en/portfolio/category/user-research'; ?>"><span class="label">User Research</span></a>
-				 	  <a href="<?php echo $base . '/en/portfolio/category/heuristic-evaluation'; ?>"><span class="label">Heuristic Evaluation</span></a>
-				 	  <a href="<?php echo $base . '/en/portfolio/category/interaction-design'; ?>"><span class="label">Interaction Design</span></a>
-				  </dd>
-				</dl>
-			</div>
-		</div>
-
-	 <?php include("../includes/footer.php"); ?>
-		
-		
