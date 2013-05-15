@@ -1,4 +1,53 @@
 	<?php 
+
+	/***
+	
+	All possible variables needed:
+	
+	$page_title = "";
+	$page_description = "";
+	$project_name = "";
+	$herounit_width = 7;
+	$herounit_desc = "";
+	
+	$image_front = "";
+
+	$design_opportunity_desc = "";
+
+	$process = array(
+	    	"steps" =>  array(
+				"Step 1",
+				"Step 2"
+			),
+			"slides" => array(
+				0 => array(
+						"image" => "../../images/image0.jpg",
+						"alt_text" => "Element 0",
+						"caption" => "This is the element 0"
+					 ),
+				1 => array(
+						"image" => "../../images/image1.jpg",
+						"alt_text" => "Element 1",
+						"caption" => "This is the element 1"
+					 )
+			),
+			"active" => 0
+	    );
+
+	$tools_used = array(
+		"Tool 1",
+		"Tool 2"
+	);
+
+	$details = array(
+		"date" => "",
+		"tags" => array(
+			"Tag name 1" => "tag url", 
+			"Tag name 1" => "tag url 2"
+		)
+	);
+
+	***/
 	
 	// Breadcrumb
 	include("../includes/portfolio-sections/breadcrumb.php");
