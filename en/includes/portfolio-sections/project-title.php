@@ -1,0 +1,1 @@
+	<div class="header"><h1><?php echo $project_name; ?></h1></div>
