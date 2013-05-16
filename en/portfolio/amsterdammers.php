@@ -61,5 +61,7 @@
 
 		<?php 
 		endfor; 
+
+	include("../includes/portfolio-sections/project-details.php");	
 	include("../includes/footer.php"); 
 	?>
