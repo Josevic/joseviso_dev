@@ -4,22 +4,22 @@
 	$page_description = "Jose Viso's portfolio | Amsterdammers: Photo project of people from Amsterdam.";
 	$number_of_photos = 33;
 
-	include("../includes/header.php"); ?>
+	$project_name = "Amsterdammers";
 
-	<div class="row">
-		<div class="span12">
-			<ul class="breadcrumb">
-				<li><a href="<?php echo $base; ?>">Home</a> <span class="divider">></span></li>
-				<li><a href="<?php echo $base; ?>/en/portfolio"> Portfolio</a> <span class="divider">></span></li>
-				<li class="active">Amsterdammers</li>	
-		    </ul>
-		</div>
-	</div>
+	$details = array(
+		"date" => "March 2012",
+		"tags" => array(
+			"Other" => "other", 
+			"Photography" => ""
+		)
+	);
 
+	include("../includes/header.php");
+	include("../includes/portfolio-sections/breadcrumb.php");
+	include("../includes/portfolio-sections/project-title.php"); 
 
-		<!-- Big Text -->	
-		<div id="top" class="header"><h1>Amsterdammers</h1></div>
-		
+	?>
+
 		<!-- Summary -->
 		<div class="row spacer">
 			<div class="hero-unit span5">
@@ -32,7 +32,7 @@
 
 		<hr/>
 
-		<!-- Process -->
+		<!-- Detailed description -->
 		<div class="row">
 			<div class="span12">
 				<h3>Why and How</h3>
@@ -58,33 +58,8 @@
 				</div>
 			</div>
 		</div>
-		<?php endfor; ?>
 
-		<hr/>
-
-		<div class="row">
-			<div class="span12">
-				<h3>Details</h3>
-			</div>
-			<div class="span12">
-				<dl class="dl-horizontal">
-				  <dt>Date</dt>
-				  <dd>March 2012</dd>
-				
-				  <dt>Tags</dt>
-				  <dd>
-				      <a href="<?php echo $base . '/en/portfolio/category/other'; ?>"><span class="label">Other</span></a>
-				      <span class="label label-important">Photography</span>
-				  </dd>
-				</dl>
-			</div>
-		</div>
-
-		<!-- Indicator of location inside Portfolio -->
-		<ul class="breadcrumb spacer">
-		  <li><a href="<?php echo $base; ?>">Home</a> <span class="divider">></span></li>
-		  <li><a href="../portfolio">Portfolio</a> <span class="divider">></span></li>
-		  <li class="active">Amsterdammers</li>
-		</ul>
-
-	 <?php include("../includes/footer.php"); ?>
+		<?php 
+		endfor; 
+	include("../includes/footer.php"); 
+	?>
