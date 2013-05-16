@@ -2,150 +2,68 @@
 
 	$page_title = "Portfolio > Take Me There";
 	$page_description = "Jose Viso's portfolio | Take Me There: See places as if you were there.";
+	$project_name = "Take Me There";
+	$herounit_width = 10;
+	$herounit_desc = "<p><em>Take Me There</em> is a website that groups videos of popular places around the world recorded in a subjective POV (Point-Of-View). The goal is to give people watching the video the feeling to be in that place.</p>";
 
-	include("../includes/header.php"); ?>
+	$process = array(
+	    	"steps" =>  array(
+				"Generation of <b>Personas</b> and <b>Scenarios</b>.",
+				"Definition of <b>User Flows</b> and <b>User Journeys</b>.",
+				"Definition of the <b>Information Architecture</b>.",
+				"Creation of Low and Mid fidelity <b>wireframes</b>.",
+				"<b>User Tests</b>.",
+				"<b>Iteration</b> over the wireframes, analysis and redesigns.",
+				"Creation of High fidelity wireframes.",
+				"A/B and specific parts testing."
+			),
+			"slides" => array(
+				0 => array(
+						"image" => "../../images/takemethere_persona.png",
+						"alt_text" => "Primary Persona",
+						"caption" => "Primary Persona"
+					 ),
+				1 => array(
+						"image" => "../../images/takemethere_scenario.png",
+						"alt_text" => "Scenario for the Primary Persona",
+						"caption" => "One of the Scenarios"
+					 ),
+				2 => array(
+						"image" => "../../images/takemethere_userflow.jpg",
+						"alt_text" => "User Flow",
+						"caption" => "User Flow Sketches"
+					 ),
+				3 => array(
+						"image" => "../../images/takemethere_wireframe1.png",
+						"alt_text" => "Low-fidelity Wireframe",
+						"caption" => "Low-fidelity Wireframe"
+					 ),
+				4 => array(
+						"image" => "../../images/takemethere_wireframe2.png",
+						"alt_text" => "High-fidelity Wireframe",
+						"caption" => "High-fidelity Wireframe"
+					 )
+			),
+			"active" => 3
+	    );
 
-	<div class="row">
-		<div class="span12">
-			<ul class="breadcrumb">
-				<li><a href="<?php echo $base; ?>">Home</a> <span class="divider">></span></li>
-				<li><a href="<?php echo $base; ?>/en/portfolio"> Portfolio</a> <span class="divider">></span></li>
-				<li class="active">Take Me There</li>	
-		    </ul>
-		</div>
-	</div>
+	$tools_used = array(
+		"Pen and Paper",
+		"OmniGraffle",
+		"Balsamiq Mockups",
+		"Adobe Fireworks CS5",
+		"Axure RP"
+	);
 
-		<!-- Big Text -->	
-		<div class="header"><h1>Take Me There</h1></div>
-		
-		<!-- Summary -->
-		<div class="row spacer">
-			<div class="hero-unit span10">
-				<p><em>Take Me There</em> is a website that groups videos of popular places around the world recorded in a subjective POV (Point-Of-View). The goal is to give people watching the video the feeling to be in that place.</p>
-			</div>
-		</div>
+	$details = array(
+		"date" => "April 2012",
+		"tags" => array(
+			"User Research" => "user-research", 
+			"Interaction Design" => "interaction-design"
+		)
+	);
 
-		<hr/>
-
-		<!-- Design Process -->
-		<div class="row">
-			<div class="span12">
-				<h3>Design Process</h3>
-			</div>
-			<div class="span6">
-				<ol>
-					<li><p class="spacer">Generation of <b>Personas</b> and <b>Scenarios</b>.</p></li>
-					<li><p class="spacer">Definition of <b>User Flows</b> and <b>User Journeys</b>.</p></li>
-					<li><p class="spacer">Definition of the <b>Information Architecture</b>.</p></li>
-					<li><p class="spacer">Creation of Low and Mid fidelity <b>wireframes</b>.</p></li>
-					<li><p class="spacer"><b>User Tests</b>.</p></li>
-					<li><p class="spacer"><b>Iteration</b> over the wireframes, analysis and redesigns.</p></li>
-					<li><p class="spacer">Creation of High fidelity wireframes.</p></li>
-					<li><p class="spacer">A/B and specific parts testing .</p></li>
-				</ol>
-			</div>
-			<div class="span6">
-				<!-- <img src="http://placehold.it/500x350"> -->
-
-				<div id="myCarousel" class="carousel slide"> 
-					<ol class="carousel-indicators">
-					    <li data-target="#myCarousel" data-slide-to="0"></li>
-					    <li data-target="#myCarousel" data-slide-to="1"></li>
-					    <li data-target="#myCarousel" data-slide-to="2"></li>
-					    <li data-target="#myCarousel" data-slide-to="3" class="active"></li>
-					    <li data-target="#myCarousel" data-slide-to="4"></li>
-					</ol>
-
-					<!-- Carousel items -->  
-				    <div class="carousel-inner">  
-				    	<div class="item">
-				        	<img src="../../images/takemethere_persona.png" alt="Primary Persona" border="1"/>
-				        	<div class="carousel-caption">
-				        		<p>Primary Persona</p>
-				        	</div>
-				        </div>  
-				        <div class="item">
-				        	<img src="../../images/takemethere_scenario.png" alt="Scenario for the Primary Persona" />
-				        	<div class="carousel-caption">
-				        		<p>One of the Scenarios</p>
-				        	</div>
-				        </div>  
-				        <div class="item">
-				        	<img src="../../images/takemethere_userflow.jpg" alt="User Flow" />
-				        	<div class="carousel-caption">
-				        		<p>User Flow Sketches</p>
-				        	</div>
-				        </div>  
-				        <div class="item active">
-				        	<img src="../../images/takemethere_wireframe1.png" alt="Low-fidelity Wireframe" />
-				        	<div class="carousel-caption">
-				        		<p>Low-fidelity Wireframe</p>
-				        	</div>
-				        </div>  
-				        <div class="item">
-				        	<img src="../../images/takemethere_wireframe2.png" alt="High-fidelity Wireframe" />
-				        	<div class="carousel-caption">
-				        		<p>High-fidelity Wireframe</p>
-				        	</div>
-				        </div>  
-				        
-				  	</div>  
-				  	<!-- Carousel nav -->  
-				  	<a class="carousel-control left" href="#myCarousel" data-slide="prev">‹</a>  
-				  	<a class="carousel-control right" href="#myCarousel" data-slide="next">›</a>  
-				</div>  
-
-
-			</div>
-		</div>
-
-		<hr/>
-
-		<!-- Tools Used -->
-		<div class="row">
-			<div class="span12">
-				<h3>Tools Used</h3>
-			</div>
-			<div class="offset4 span4">
-				<!-- <img src="http://placehold.it/700x150"> -->
-				<table class="table table-bordered">
-					<tr>
-						<td><p class="centered">Pen and Paper</p></td>
-					</tr>
-					<tr>
-						<td><p class="centered">OmniGraffle</p></td>
-					</tr>
-					<tr>
-						<td><p class="centered">Balsamiq Mockups</p></td>
-					</tr>
-					<tr>
-						<td><p class="centered">Adobe Fireworks CS5</p></td>
-					</tr>
-					<tr>
-						<td><p class="centered">Axure RP</p></td>
-					</tr>
-  				</table>
-			</div>
-		</div>
-
-		<hr/>
-
-		<div class="row">
-			<div class="span12">
-				<h3>Details</h3>
-			</div>
-			<div class="span12">
-				<dl class="dl-horizontal">
-				  <dt>Date</dt>
-				  <dd>April 2012</dd>
-				
-				  <dt>Tags</dt>
-				  <dd>
-				      <a href="<?php echo $base . '/en/portfolio/category/user-research'; ?>"><span class="label">User Research</span></a>
-				 	  <a href="<?php echo $base . '/en/portfolio/category/interaction-design'; ?>"><span class="label">Interaction Design</span></a>
-				  </dd>
-				</dl>
-			</div>
-		</div>
-
-	<?php include("../includes/footer.php"); ?>
+	include("../includes/header.php"); 
+	include("../includes/portfolio-template.php");
+	include("../includes/footer.php");
+	?>
