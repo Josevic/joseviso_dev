@@ -1,7 +1,7 @@
 <!-- Social Networks links -->
 		
 		<div class="spacer">		
-			<ul id="social_networks_bar" class="thumbnails">
+			<ul id="social_networks_bar" class="thumbnails pull-left">
 			  <li class="span1">
 			    <div class="thumbnail">
 			      <a href="http://www.facebook.com/joseviso">
