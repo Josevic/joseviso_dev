@@ -1,32 +1,28 @@
+	<header class="jumbotron subhead">
+	  <div class="container">
+	    <h1 style="color:gray">Portfolio</h1>
+	  </div>
+	</header>
+
 	<div class="row hidden-desktop">
-		<div class="span6">
-			<ul class="breadcrumb">
-				<li><a href="<?php echo $base; ?>">Home</a> <span class="divider">/</span></li>
+		<div class="span5">
 				<?php 
-					if (strpos($_SERVER['PHP_SELF'], 'index.php')) {
-						echo "<li class='active'>Portfolio</li>";
-					}		
-					else{
-						echo "<li><a href='". $base . "/en/portfolio'>" . "Portfolio</a></li>";
-					}
-					
 					if (strpos($_SERVER['PHP_SELF'], 'user-research.php')){
-						echo "<li class='active'><span class='divider'> / </span>User Research</li>";
+						echo " <h3 class='muted centered'>User Research</h3>";
 					}
 					elseif (strpos($_SERVER['PHP_SELF'], 'heuristic-evaluation.php')) {
-						echo "<li class='active'><span class='divider'>/</span>Heuristic Evaluation</li>";
+						echo " <h3 class='muted centered'>Heuristic Evaluation</h3>";
 					}
 					elseif (strpos($_SERVER['PHP_SELF'], 'interaction-design.php')){
-						echo "<li class='active'><span class='divider'>/</span>Interaction Design</li>";
+						echo "<h3 class='muted centered'>Interaction Design</h3>";
 					}
 					elseif (strpos($_SERVER['PHP_SELF'], 'development.php')){
-						echo "<li class='active'><span class='divider'>/</span>Development</li>";
+						echo "<h3 class='muted centered'>Development</h3>";
 					}
 					elseif (strpos($_SERVER['PHP_SELF'], 'other.php')){
-						echo "<li class='active'><span class='divider'>/</span>Other</li>";
+						echo "<h3 class='muted centered'>Other</h3>";
 					}
-				?>		  
-		    </ul>
+				?>
 		</div>
 	</div>
 
