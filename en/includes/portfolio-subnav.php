@@ -4,7 +4,7 @@
 	  </div>
 	</header>
 
-	<div class="row hidden-desktop">
+	<div class="row hidden-desktop hidden-tablet">
 		<div class="span5">
 				<?php 
 					if (strpos($_SERVER['PHP_SELF'], 'user-research.php')){
