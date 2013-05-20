@@ -1,32 +1,28 @@
-	<div class="row hidden-desktop">
-		<div class="span6">
-			<ul class="breadcrumb">
-				<li><a href="<?php echo $base; ?>/es/">Inicio</a> <span class="divider">/</span></li>
+	<header class="jumbotron subhead">
+	  <div class="container">
+	    <h1 style="color:gray">Portfolio</h1>
+	  </div>
+	</header>
+
+	<div class="row hidden-desktop hidden-tablet">
+		<div class="span5">
 				<?php 
-					if (strpos($_SERVER['PHP_SELF'], 'index.php')) {
-						echo "<li class='active'>Portfolio</li>";
-					}		
-					else{
-						echo "<li><a href='". $base . "/es/portfolio'>" . "Portfolio</a></li>";
-					}
-					
 					if (strpos($_SERVER['PHP_SELF'], 'investigacion-de-usuarios.php')){
-						echo "<li class='active'><span class='divider'> / </span>Investigación de Usuarios</li>";
+						echo "<h3 class='muted centered'>Investigación de Usuarios</h3>";
 					}
 					elseif (strpos($_SERVER['PHP_SELF'], 'evaluacion-heuristica.php')) {
-						echo "<li class='active'><span class='divider'>/</span>Evaluación Heurística</li>";
+						echo "<h3 class='muted centered'>Evaluación Heurística</h3>";
 					}
 					elseif (strpos($_SERVER['PHP_SELF'], 'diseno-de-interaccion.php')){
-						echo "<li class='active'><span class='divider'>/</span>Diseño de Interacción</li>";
+						echo "<h3 class='muted centered'>Diseño de Interacción</h3>";
 					}
 					elseif (strpos($_SERVER['PHP_SELF'], 'desarrollo.php')){
-						echo "<li class='active'><span class='divider'>/</span>Desarrollo</li>";
+						echo "<h3 class='muted centered'>Desarrollo</h3>";
 					}
 					elseif (strpos($_SERVER['PHP_SELF'], 'otro.php')){
-						echo "<li class='active'><span class='divider'>/</span>Otro</li>";
+						echo "<h3 class='muted centered'>Otro</h3>";
 					}
 				?>		  
-		    </ul>
 		</div>
 	</div>
 
