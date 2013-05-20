@@ -5,25 +5,33 @@
 
 	include("includes/header.php"); ?>
 	
-	   <div class="container" style="max-width: 800px;">
-	 	 <div class="centered spacer visible-desktop">
-		 	<img src="../images/jose.png">
-		 </div>		
-
-		 <div class="centered visible-phone visible-tablet">
-		 	<img src="../images/jose.png">
-		 </div>	
-
-		<div class="quote">
-			<span>Hola, soy Jose Viso y diseño software realmente útil, simple y fácil de usar.</span>
- 		</div>
- 		
-	   </div>	
-	</div>
+	   <div class="row"> 
+			<div class="span12 visible-desktop">
+				<div class="parent">
+					<div class="child">
+						<p id="presentation_desktop">¡Hola! Soy <a class="link_presentation" href="about">Jose Viso</a> y diseño <a class="link_presentation" href="portfolio">software</a> <span class="useful"><strong>útil</strong></span>, <span class="simple"><strong>simple</strong></span> y <span class="easy"><strong>fácil de usar</strong></span>.</p>
+					</div>
+				</div>
+			</div>
+			<div class="span12 visible-tablet">
+				<div class="parent">
+					<div class="child">
+						<p id="presentation_tablet">¡Hola! Soy <a class="link_presentation" href="about">Jose Viso</a> y diseño <a class="link_presentation" href="portfolio">software</a> <span class="useful"><strong>útil</strong></span>, <span class="simple"><strong>simple</strong></span> y <span class="easy"><strong>fácil de usar</strong></span>.</p>
+					</div>
+				</div>
+			</div>
+			<div class="span12 visible-phone">
+				<div class="parent">
+					<div class="child">
+						<p id="presentation_phone">¡Hola! Soy <a class="link_presentation" href="about">Jose Viso</a> y diseño <a class="link_presentation" href="portfolio">software</a> <span class="useful"><strong>útil</strong></span>, <span class="simple"><strong>simple</strong></span> y <span class="easy"><strong>fácil de usar</strong></span>.</p>
+					</div>
+				</div>
+			</div>
+		</div>
 
  <footer>
-	<div class="container spacer">
-		<p class="muted credit spacer"><small><a class="link-muted" href="mailto:contacto@joseviso.com" title="Mi cuenta de correo electrónico">contacto@joseviso.com</a> · <a href="http://facebook.com/joseviso" title="Mi página de Facebook"><img src="../images/icons/PNG/facebook-32.png" onmouseover="this.src='../images/icons/PNG/facebook-hover.png'" onmouseout="this.src='../images/icons/PNG/facebook-32.png'"/></a> · <a href="http://twitter.com/XoseViso" title="Mi cuenta de Twitter"><img src="../images/icons/PNG/twitter-32.png" onmouseover="this.src='../images/icons/PNG/twitter-hover.png'" onmouseout="this.src='../images/icons/PNG/twitter-32.png'"/></a></small></p>
+	<div class="container">
+		<p class="muted credit"><small>contacto@joseviso.com · <a href="http://facebook.com/joseviso" title="Mi página de Facebook"><img src="../images/icons/PNG/facebook-32.png" onmouseover="this.src='../images/icons/PNG/facebook-hover.png'" onmouseout="this.src='../images/icons/PNG/facebook-32.png'"/></a> · <a href="http://twitter.com/XoseViso" title="Mi cuenta de Twitter"><img src="../images/icons/PNG/twitter-32.png" onmouseover="this.src='../images/icons/PNG/twitter-hover.png'" onmouseout="this.src='../images/icons/PNG/twitter-32.png'"/></a></small></p>
 	</div>
  </footer>
 
