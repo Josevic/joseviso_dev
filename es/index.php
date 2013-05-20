@@ -9,21 +9,21 @@
 			<div class="span12 visible-desktop">
 				<div class="parent">
 					<div class="child">
-						<p id="presentation_desktop">¡Hola! Soy <a class="link_presentation" href="about">Jose Viso</a> y diseño <a class="link_presentation" href="portfolio">software</a> <span class="useful"><strong>útil</strong></span>, <span class="simple"><strong>simple</strong></span> y <span class="easy"><strong>fácil de usar</strong></span>.</p>
+						<p id="presentation_desktop">¡Hola! Soy <a class="link_presentation" href="sobre-mi">Jose Viso</a> y diseño <a class="link_presentation" href="portfolio">software</a> <span class="useful"><strong>útil</strong></span>, <span class="simple"><strong>simple</strong></span> y <span class="easy"><strong>fácil de usar</strong></span>.</p>
 					</div>
 				</div>
 			</div>
 			<div class="span12 visible-tablet">
 				<div class="parent">
 					<div class="child">
-						<p id="presentation_tablet">¡Hola! Soy <a class="link_presentation" href="about">Jose Viso</a> y diseño <a class="link_presentation" href="portfolio">software</a> <span class="useful"><strong>útil</strong></span>, <span class="simple"><strong>simple</strong></span> y <span class="easy"><strong>fácil de usar</strong></span>.</p>
+						<p id="presentation_tablet">¡Hola! Soy <a class="link_presentation" href="sobre-mi">Jose Viso</a> y diseño <a class="link_presentation" href="portfolio">software</a> <span class="useful"><strong>útil</strong></span>, <span class="simple"><strong>simple</strong></span> y <span class="easy"><strong>fácil de usar</strong></span>.</p>
 					</div>
 				</div>
 			</div>
 			<div class="span12 visible-phone">
 				<div class="parent">
 					<div class="child">
-						<p id="presentation_phone">¡Hola! Soy <a class="link_presentation" href="about">Jose Viso</a> y diseño <a class="link_presentation" href="portfolio">software</a> <span class="useful"><strong>útil</strong></span>, <span class="simple"><strong>simple</strong></span> y <span class="easy"><strong>fácil de usar</strong></span>.</p>
+						<p id="presentation_phone">¡Hola! Soy <a class="link_presentation" href="sobre-mi">Jose Viso</a> y diseño <a class="link_presentation" href="portfolio">software</a> <span class="useful"><strong>útil</strong></span>, <span class="simple"><strong>simple</strong></span> y <span class="easy"><strong>fácil de usar</strong></span>.</p>
 					</div>
 				</div>
 			</div>
