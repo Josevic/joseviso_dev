@@ -59,13 +59,13 @@
 
 		<div class="row visible-phone contact-method">
 			<div class="offset1 span7">
-				<p class="lead" style="margin-top:12px;"><small class="muted">Telf:</small> <a href="tel:+34687352837">+34 <strong>687 352 837</strong></a><p/>	
+				<p class="lead" style="margin-top:12px;"><small class="muted">Tel:</small> <a href="tel:+34687352837">+34 <strong>687 352 837</strong></a><p/>	
 			</div>
 		</div>
 
 		<div class="row hidden-phone contact-method">
 			<div class="span7">
-				<p class="lead" style="margin-top:12px;"><small class="muted">Telf:</small> +34 <strong>687 352 837</strong><p/>
+				<p class="lead" style="margin-top:12px;"><small class="muted">Tel:</small> +34 <strong>687 352 837</strong><p/>
 			</div>
 		</div>
 		<hr/>
