@@ -42,8 +42,8 @@
 
 						<div class="row">
 							
+							<h4 class="spacer">Techniques, Methodologies and Tools I use</h4>
 							<div class="span4">
-								<h4 class="spacer">Techniques and Methodologies I use</h4>
 								<ol>
 									<li>Sketchboard</li>
 									<li>Heuristic Evaluations and other Usability studies</li>
@@ -53,11 +53,12 @@
 									<li>Storyboarding</li>
 									<li>Sitemap diagrams</li>
 									<li>User flow diagrams</li>
-									<li>Prototyping (paper prototypes, low and high fidelity graphic tools, code prototypes)</li>
-									<li>Wireframing</li>
+									<li>Prototyping: paper prototypes, low and high fidelity graphic tools (Balsamiq Mockups, Axure, Justinmind), code prototypes</li>
+									<li>Wireframing (OmniGraffle, Fireworks, Photoshop)</li>
 									<li>User tests</li>
 									<li>Iterative Design: (Design - Prototype - Evaluate)</li>
 									<li>Agile Development</li>
+									<li>Software frameworks and CMSs</li>
 								</ol>
 							</div>
 							<div class="span6">
