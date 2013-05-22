@@ -41,6 +41,7 @@
 
  <script type="text/javascript">
 
+ 	  /* Code related to Google Analytics */
 	  var _gaq = _gaq || [];
 	  _gaq.push(['_setAccount', 'UA-37330001-1']);
 	  _gaq.push(['_trackPageview']);
@@ -50,6 +51,17 @@
 	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
 	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 	  })();
+
+	  /* Function to dynamically change the icon of the collapsable menu */
+	  $(document).ready(function(){    
+		    $('.nav-collapse').on('shown', function () {
+		       $(".icon-chevron-down").removeClass("icon-chevron-down").addClass("icon-chevron-up");
+		    });
+
+		    $('.nav-collapse').on('hidden', function () {
+		       $(".icon-chevron-up").removeClass("icon-chevron-up").addClass("icon-chevron-down");
+		    });
+	  });
  </script>
  </body>
 
