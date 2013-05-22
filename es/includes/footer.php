@@ -15,6 +15,7 @@
     <script src="<?php echo $base;?>/bootstrap-lightbox/bootstrap-lightbox.min.js"></script>
     <script type="text/javascript">
 
+      /* Code related to Google Analytics */
 	  var _gaq = _gaq || [];
 	  _gaq.push(['_setAccount', 'UA-37330001-1']);
 	  _gaq.push(['_trackPageview']);
@@ -25,6 +26,7 @@
 	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 	  })();
 
+	  /* Function to go to top of the page */
 	  $("a[href='#top']").click(function() {
 		  $("html, body").animate({ scrollTop: 0 }, "slow");
 		  return false;
@@ -34,6 +36,17 @@
 		    var url = sel[sel.selectedIndex].value;
 		    window.location = url;
 	  }
+
+	  /* Function to dynamically change the icon of the collapsable menu */
+	  $(document).ready(function(){    
+		    $('.nav-collapse').on('shown', function () {
+		       $(".icon-chevron-down").removeClass("icon-chevron-down").addClass("icon-chevron-up");
+		    });
+
+		    $('.nav-collapse').on('hidden', function () {
+		       $(".icon-chevron-up").removeClass("icon-chevron-up").addClass("icon-chevron-down");
+		    });
+	  });
 	</script>
   </body>
 
