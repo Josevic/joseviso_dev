@@ -12,7 +12,7 @@
 		  <ul class="thumbnails pull-left">
 			  <?php foreach ($projects as $url => $name): ?>
 			  <li>
-			    <div class="thumbnail span3">
+			    <div class="thumbnail span3 project">
 			    	<a href="<?php echo $url ?>">
 			    		<img src="../../images/thumb_<?php echo $url; ?>.png" alt="">
 			    		<h4><?php echo $projects[$url]; ?></h4>

@@ -12,7 +12,7 @@
 		  <ul class="thumbnails pull-left">
 			  <?php foreach ($interaction_design as $url => $name): ?>
 			  <li>
-			    <div class="thumbnail span3">
+			    <div class="thumbnail span3 project">
 			    	<a href="../<?php echo $url ?>">
 			    		<img src="../../../images/thumb_<?php echo $url; ?>.png" alt="">
 			    		<h4><?php echo $interaction_design[$url]; ?></h4>
