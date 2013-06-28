@@ -154,10 +154,15 @@
 
 				</div>
 			
-			<h3 class="spacer">Things I like</h3>
+				<h3 class="spacer">Things I like</h3>
 				<div class="row">
 					<div class="offset1 span11">			
 						<p>Sports, Photography, Music, Science, To travel</p>
+						<p class="spacer">One quote that I really like is this:</p>
+						<blockquote>
+							<p>Design is not just what it looks like and feels like. Design is how it works.</p>
+							<small>Steve Jobs</small>
+						</blockquote>
 					</div>
 
 				</div>
