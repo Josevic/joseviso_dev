@@ -156,6 +156,11 @@
 				<div class="row">
 					<div class="offset1 span11">
 						<p>Deportes, Fotografía, Música, Ciencia, Viajar</p>
+						<p class="spacer">Una frase que representa muy bien mi filosofía es esta:</p>
+						<blockquote class="spacer">
+							<p>Diseño no es sólo cómo es por fuera o cómo te sientes usándolo. Diseño es cómo funciona.</p>
+							<small>Steve Jobs</small>
+						</blockquote>
 					</div>
 
 				</div>
