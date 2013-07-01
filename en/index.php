@@ -7,32 +7,35 @@
 
 		<div class="row"> 
 			<div class="span12 visible-desktop">
-				<div class="parent">
-					<div class="child">
-						<p id="presentation_desktop">Hi! I'm <a class="link_presentation" href="about">Jose Viso</a> and I design <span class="useful"><strong>useful</strong></span>, <span class="simple"><strong>simple</strong></span> and <span class="easy"><strong>easy to use</strong></span> <a class="link_presentation" href="portfolio">software</a>.</p>
-					</div>
-				</div>
+				<p class="spacer" id="presentation_desktop">
+					<span class="big-word"><strong>Useful</strong></span><br/>
+					<span class="big-word"><strong>Simple</strong></span><br/>
+					<span class="big-word"><strong>Easy to use</strong></span><br/>
+				</p>
+				<p class="pull-right lead"><a class="link_presentation" href="about">More info</a></p>	
 			</div>
 			<div class="span12 visible-tablet">
-				<div class="parent">
-					<div class="child">
-						<p id="presentation_tablet">Hi! I'm Jose Viso and I design <span class="useful"><strong>useful</strong></span>, <span class="simple"><strong>simple</strong></span> and <span class="easy"><strong>easy to use</strong></span> software.</p>
-					</div>
-				</div>
+				<p id="presentation_tablet">
+					<span class="big-word"><strong>Useful</strong></span><br/>
+					<span class="big-word"><strong>Simple</strong></span><br/>
+					<span class="big-word"><strong>Easy to use</strong></span><br/>
+					<p class="pull-right lead"><a class="link_presentation" href="about">More info</a></p>	
+				</p>
 			</div>
 			<div class="span12 visible-phone">
-				<div class="parent">
-					<div class="child">
-						<p id="presentation_phone">Hi! I'm <a class="link_presentation" href="about" >Jose Viso</a> and I design <span class="useful"><strong>useful</strong></span>, <span class="simple"><strong>simple</strong></span> and <span class="easy"><strong>easy to use</strong></span> <a class="link_presentation" href="portfolio">software</a>.</p>
-					</div>
-				</div>
+				<p id="presentation_phone">
+					<span class="big-word"><strong>Useful</strong></span><br/>
+					<span class="big-word"><strong>Simple</strong></span><br/>
+					<span class="big-word"><strong>Easy to use</strong></span><br/>
+					<p class="pull-right"><a class="link_presentation" href="about">More info</a></p>	
+				</p>
 			</div>
 		</div>
 	
   </div> 
 
  <footer>
-	<div class="container">
+	<div class="container spacer">
 		<p class="muted credit"><small>contact@joseviso.com · <a href="http://facebook.com/joseviso" title="My Facebook page"><img src="../images/icons/PNG/facebook-32.png" onmouseover="this.src='../images/icons/PNG/facebook-hover.png'" onmouseout="this.src='../images/icons/PNG/facebook-32.png'"/></a> · <a href="http://twitter.com/XoseViso" title="My Twitter account"><img src="../images/icons/PNG/twitter-32.png" onmouseover="this.src='../images/icons/PNG/twitter-hover.png'" onmouseout="this.src='../images/icons/PNG/twitter-32.png'"/></a></small></p>
 	</div>
  </footer>
