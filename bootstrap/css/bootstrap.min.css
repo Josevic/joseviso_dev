@@ -81,21 +81,21 @@ ul#social_networks_bar .thumbnail {
  }
 
  #presentation_desktop {
- 	font-size: 8em;
- 	line-height: 1.3em;
- 	/* font-family: helvetica; */
+ 	font-size: 10em;
+ 	line-height: 1.2em;
+ 	font-family: helvetica;
 
  }
 
  #presentation_tablet {
- 	font-size: 7em;
- 	line-height: 1.2em;
+ 	font-size: 8em;
+ 	line-height: 1.5em;
  	font-family: helvetica;
  }
 
  #presentation_phone {
  	font-size: 3em;
- 	line-height: 1.2em;
+ 	line-height: 1.5em;
  	font-family: helvetica;
 
  }
@@ -111,25 +111,9 @@ ul#social_networks_bar .thumbnail {
  	text-decoration: none; 
  }
 
- .useful {
- 	color: #f34238;
- }
-
- .simple {
-	color: #76B800;
- }
-
- .easy {
+ .big-word {
  	color: #05c6f2;
  }
-
-.parent {
-    padding: 1.25% 0;
-}
-
-.child {
-    padding: 2.5% 0;
-}
 
 
 .project:hover {
