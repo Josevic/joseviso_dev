@@ -17,7 +17,7 @@
 			<h3>Who I am</h3>
 			<div class="row">
 				<div class="offset1 span4">
-					<img src="../images/jose_whitebg.jpg"/>
+					<img src="../images/jose_about.jpg"/>
 				</div>
 				<div class="span7">
 					<p class="lead spacer">José Viso Vargas</p>
