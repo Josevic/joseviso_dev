@@ -60,36 +60,36 @@
 		/* Inclusion of the different projects in each subnav category */
 
 		$projects = array(
-		 			"evacriado" 		 => "Eva Criado",
 		 			"smartbite" 		 => "SmartBite",
+		 			"evacriado" 		 => "Eva Criado",
 		 			"museoalmeria" 		 => "Museum of Almería Kiosk",
 		 			//"renfe"				 => "Usability study - Renfe.com",
-		 			"schiphol"			 => "Schiphol",
-		 			"streetrockstars" 	 => "Street Rockstars"
+		 			"streetrockstars" 	 => "Street Rockstars",
+		 			"schiphol"			 => "Schiphol"
 		 		);
 		
 		$user_research = array(
-		 			"evacriado" 		 => "Eva Criado",
 		 			"smartbite" 		 => "SmartBite",
+		 			"evacriado" 		 => "Eva Criado",
 		 			"streetrockstars" 	 => "Street Rockstars",
 		 		);
 
 		$heuristic_evaluation = array(
-		 			"evacriado" 		 => "Eva Criado",
-		 			"smartbite" 		 => "SmartBite"//,
+		 			"smartbite" 		 => "SmartBite",
+		 			"evacriado" 		 => "Eva Criado"
 		 			//"renfe"				 => "Usability study - Renfe.com"
 		 		);
 
 		$interaction_design = array(
-		 			"evacriado" 		 => "Eva Criado",
 		 			"smartbite" 		 => "SmartBite",
+		 			"evacriado" 		 => "Eva Criado",
 		 			"museoalmeria" 		 => "Museum of Almería Kiosk",
 		 			//"renfe"				 => "Usability study - Renfe.com",
 		 			"streetrockstars" 	 => "Street Rockstars",
 		 		);
 
 		$development = array(
-					"schiphol"		  => "Schiphol",
-					"streetrockstars" => "Street Rockstars"
+					"streetrockstars" => "Street Rockstars",
+					"schiphol"		  => "Schiphol"
 			);
 	?>
