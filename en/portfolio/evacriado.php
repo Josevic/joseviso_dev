@@ -58,7 +58,7 @@
 					"caption" => "Before the redesign"
 				 ),
 			6 => array(
-					"image" => "../../images/evacriado_home_after.gif",
+					"image" => "../../images/evacriado_home_after.jpg",
 					"alt_text" => "After",
 					"caption" => "After the redesign"
 				 ),
