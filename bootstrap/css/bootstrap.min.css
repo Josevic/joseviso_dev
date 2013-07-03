@@ -39,10 +39,6 @@ body {
 	margin-right: 18px;
 }
 
-.thumbnails {
-    text-align:center;
-}
-
 .thumbnails > li {
     display: inline-block;
     *display:inline; /* ie7 fix */
@@ -114,10 +110,11 @@ ul#social_networks_bar .thumbnail {
  	color: #05c6f2;
  }
 
-
+/* 
 .project:hover {
 	border: solid 1px #CCC;
 	-moz-box-shadow: 1px 1px 10px #999;
 	-webkit-box-shadow: 1px 1px 10px #999;
         box-shadow: 1px 1px 10px #999;
 }
+*/
