@@ -63,7 +63,7 @@
 		 			"evacriado" 		 => "Eva Criado",
 		 			"smartbite" 		 => "SmartBite",
 		 			"museoalmeria" 		 => "Museum of Almería Kiosk",
-		 			"renfe"				 => "Usability study - Renfe.com",
+		 			//"renfe"				 => "Usability study - Renfe.com",
 		 			"schiphol"			 => "Schiphol",
 		 			"streetrockstars" 	 => "Street Rockstars"
 		 		);
@@ -76,15 +76,15 @@
 
 		$heuristic_evaluation = array(
 		 			"evacriado" 		 => "Eva Criado",
-		 			"smartbite" 		 => "SmartBite",
-		 			"renfe"				 => "Usability study - Renfe.com"
+		 			"smartbite" 		 => "SmartBite"//,
+		 			//"renfe"				 => "Usability study - Renfe.com"
 		 		);
 
 		$interaction_design = array(
 		 			"evacriado" 		 => "Eva Criado",
 		 			"smartbite" 		 => "SmartBite",
 		 			"museoalmeria" 		 => "Museum of Almería Kiosk",
-		 			"renfe"				 => "Usability study - Renfe.com",
+		 			//"renfe"				 => "Usability study - Renfe.com",
 		 			"streetrockstars" 	 => "Street Rockstars",
 		 		);
 
