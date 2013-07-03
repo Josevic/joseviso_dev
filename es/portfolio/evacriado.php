@@ -119,7 +119,7 @@
 				        	</div>
 				        </div>    
 				        <div class="item">
-				        	<img src="../../images/evacriado_home_after.gif" alt="Después" />
+				        	<img src="../../images/evacriado_home_after.jpg" alt="Después" />
 				        	<div class="carousel-caption">
 				        		<p>Después del rediseño</p>
 				        	</div>
