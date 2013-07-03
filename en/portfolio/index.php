@@ -9,7 +9,7 @@
 	<!-- Projects -->		  
 	<ul class="thumbnails">
 		<?php foreach ($projects as $url => $name): ?>
-			<li class="span8 spacer">
+			<li class="span4 spacer">
 				<a href="<?php echo $url ?>" class="thumbnail">
 			    	<img src="../../images/thumb_<?php echo $url; ?>.png" alt="">
 			    	<h3 class="centered"><?php echo $projects[$url]; ?></h3>
