@@ -20,12 +20,18 @@
 					<img src="../images/jose_about.JPG"/>
 				</div>
 				<div class="span7">
-					<p class="lead">José Viso Vargas</p>
+					<p class="lead spacer">José Viso Vargas</p>
 					<p><em>Diseñador / Desarrollador de Experiencia de Usuario</em></p>
 					<p>29 Septiembre 1984 (28 años)</p>
 					<p>Almería, España</p>
-					<p>Cursando <em><a href="http://www.uoc.edu/masters/esp/web/informatica_multimedia_telecomunicacion/interaccion-persona-ordenador/">Posgrado de Interacción Persona-Ordenador</a> (Universitat Oberta de Catalunya)</em><br/> 
-						<em>Ingeniero Técnico en Informática de Gestión (Universidad de Almería)</em></p>
+					<p>
+						Cursando <a href="http://www.uoc.edu/masters/esp/web/informatica_multimedia_telecomunicacion/interaccion-persona-ordenador/">Posgrado de Interacción Persona-Ordenador</a><br>
+					   <em class="muted">(Universitat Oberta de Catalunya)</em>
+					</p> 
+					<p>
+					   Ingeniero Técnico en Informática de Gestión<br/>
+					   <em class="muted">(Universidad de Almería)</em>
+					</p>
 				</div>
 			</div>
 			
@@ -33,16 +39,19 @@
 				<div class="row">
 
 					<div class="offset1 span11">
-						<!-- Explanation of what I do -->
-						<p class="lead">Diseño Centrado en el Usuario </p>
-						<p>Mi principal objetivo es diseñar software que satisfaga las necesidades de los usuarios, estudiando sus capacidades, motivaciones y limitaciones, pero teniendo en cuenta también las necesidades del cliente.</p>
-						<p>He trabajado en proyectos complejos tanto en España como en el extranjero, analizando los requisitos de los usuarios y desarrollando software. Más tarde me he especializado en el campo de la Interacción Persona-Ordenador, que es lo que realmente me apasiona. Creo que esta experiencia me permite poseer una buena visión global de los proyectos.
-							Puedes encontrar algunas cosas de las que he hecho echando un vistazo a <a href="portfolio">mi portfolio</a>.</p>
-
 						<div class="row">
+							<div class="span7">
+								<!-- Explanation of what I do -->
+								<p class="lead">Diseño Centrado en el Usuario </p>
+								<p>Mi principal objetivo es <b>diseñar software que satisfaga las necesidades de los usuarios</b>, estudiando sus capacidades, motivaciones y limitaciones, pero teniendo en cuenta también las necesidades del cliente.</p>
+								<p>He trabajado en proyectos complejos tanto en España como en el extranjero, analizando los requisitos de los usuarios y desarrollando software. Más tarde me he especializado en el campo de la Interacción Persona-Ordenador, que es lo que realmente me apasiona. Creo que esta experiencia me permite poseer una buena visión global de los proyectos.
+								Puedes encontrar algunas cosas de las que he hecho echando un vistazo a <a href="portfolio">mi portfolio</a>.</p>
+							</div>
+						</div>
+						<div class="row">
+							<div class="span5">
+								<h4 class="spacer">Técnicas, Metodologías y Herramientas que utilizo</h4>
 							
-							<h4 class="spacer">Técnicas, Metodologías y Herramientas que utilizo</h4>
-							<div class="span4">
 								<ol>
 									<li>Sketchboard</li>
 									<li>Evaluacines Heurísticas y otros estudios de Usabilidad</li>
@@ -61,76 +70,7 @@
 								</ol>
 							</div>
 							<div class="span6">
-										<div id="myCarousel" class="carousel slide">  
-											<ol class="carousel-indicators">
-												<li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-												<li data-target="#myCarousel" data-slide-to="1"></li>
-												<li data-target="#myCarousel" data-slide-to="2"></li>
-												<li data-target="#myCarousel" data-slide-to="3"></li>
-												<li data-target="#myCarousel" data-slide-to="4"></li>
-												<li data-target="#myCarousel" data-slide-to="5"></li>
-												<li data-target="#myCarousel" data-slide-to="6"></li>
-												<li data-target="#myCarousel" data-slide-to="7"></li>
-											</ol>
-
-											<!-- Carousel items -->  
-										    <div class="carousel-inner">
-
-										    	<div class="item active">
-										        	<img src="../images/sketchboard.jpg" alt="Sketchboard" />
-										        	<div class="carousel-caption">
-										        		<p>Sketchboard</p>
-										        	</div>
-										        </div> 
-										        
-										        <div class="item ">
-										        	<img src="../images/evacriado_personas.gif" alt="Personas"/>
-										        	<div class="carousel-caption">
-										        		<p>Personas</p>
-										        	</div>
-										        </div> 
-										        <div class="item ">
-										        	<img src="../images/smartbite_storyboard.png" alt="Storyboard"/>
-										        	<div class="carousel-caption">
-										        		<p>Storyboard</p>
-										        	</div>
-										        </div> 
-										        <div class="item ">
-										        	<img src="../images/NextEpisode_paperPrototype.jpg" alt="Paper prototype"/>
-										        	<div class="carousel-caption">
-										        		<p>Prototipo en papel</p>
-										        	</div>
-										        </div> 
-										        <div class="item ">
-										        	<img src="../images/museoAlmeria_mf-wireframe.jpg" alt="Wireframe con anotaciones"/>
-										        	<div class="carousel-caption">
-										        		<p>Wireframe con anotaciones</p>
-										        	</div>
-										        </div> 
-										        <div class="item ">
-										        	<img src="../images/museoAlmeria_hf-wireframe.jpg" alt="Wireframe de alta fidelidad"/>
-										        	<div class="carousel-caption">
-										        		<p>Wireframe de alta fidelidad</p>
-										        	</div>
-										        </div> 
-										        <div class="item ">
-										        	<img src="../images/user_test.png" alt="Pruebas de usuario"/>
-										        	<div class="carousel-caption">
-										        		<p>Pruebas de usuario</p>
-										        	</div>
-										        </div> 
-										        <div class="item ">
-										        	<img src="../images/live_website.png" alt="Página web en funcionamiento"/>
-										        	<div class="carousel-caption">
-										        		<p>Página web en funcionamiento</p>
-										        	</div>
-										        </div>   
-										  	</div>
-
-										  	<!-- Carousel nav -->  
-										  	<a class="carousel-control left" href="#myCarousel" data-slide="prev">‹</a>  
-										  	<a class="carousel-control right" href="#myCarousel" data-slide="next">›</a>  
-								</div>
+								<!-- Placeholder for image -->			 
 							</div>
 						</div>
 
@@ -158,7 +98,7 @@
 						<p>Deportes, Fotografía, Música, Ciencia, Viajar</p>
 						<p class="spacer">Una frase que representa muy bien mi filosofía es esta:</p>
 						<blockquote class="spacer">
-							<p>Diseño no es sólo cómo es por fuera o cómo te sientes usándolo. Diseño es cómo funciona.</p>
+							<p>Diseño no es sólo cómo es por fuera o la impresión que da. Diseño es cómo funciona.</p>
 							<small>Steve Jobs</small>
 						</blockquote>
 					</div>

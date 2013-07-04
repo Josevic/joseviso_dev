@@ -24,26 +24,30 @@
 					<p><em>User Experience Designer / Developer</em></p>
 					<p>September 29th, 1984 (28 years old)</p>
 					<p>Living in Almería, Spain</p>
-					<p>Studying a <em><a href="http://www.uoc.edu/masters/esp/web/informatica_multimedia_telecomunicacion/interaccion-persona-ordenador/">Human-Computer Interaction Postgraduate degree</a> (Universitat Oberta de Catalunya)</em><br/> 
-						<em>Bachelor of Computer Science (Universidad de Almería)</em></p>
+					<p>Studying a <a href="http://www.uoc.edu/masters/esp/web/informatica_multimedia_telecomunicacion/interaccion-persona-ordenador/">Human-Computer Interaction Postgraduate degree</a><br/>
+					   <em class="muted">(Universitat Oberta de Catalunya)</em>
+					</p> 
+					<p>Bachelor of Computer Science<br/>
+					   <em class="muted">(Universidad de Almería)</em>
+					</p>
 				</div>
 			</div>
 			
 			<h3 class="spacer">What I do</h3>
-				<div class="row">
-
-					
+				<div class="row">					
 					<div class="offset1 span11">
-						<!-- Explanation of what I do -->
-						<p class="lead">User Centered Design</p>
-						<p>My main goal is to <strong>design software that satisfy the users' needs</strong>, studying their capabilities, motivations and limitations, but considering the client's needs too.</p>
-						<p>I've worked in complex projects, both in Spain and abroad, analyzing the user requirements and developing software. Later I've specialized in the Human-Computer Interaction field, that is what I'm really passionate about. I think this experience helps me to have a global vision for the projects I work on. 
-						   You can find some of the things I've made taking a look at <a href="portfolio">my portfolio</a>.</p>
-
 						<div class="row">
-							
-							<h4 class="spacer">Techniques, Methodologies and Tools I use</h4>
-							<div class="span4">
+							<div class="span7">
+								<!-- Explanation of what I do -->
+								<p class="lead">User Centered Design</p>
+								<p>My main goal is to <strong>design software that satisfy the users' needs</strong>, studying their capabilities, motivations and limitations, but considering the client's needs too.</p>
+								<p>I've worked in complex projects, both in Spain and abroad, analyzing the user requirements and developing software. Later I've specialized in the Human-Computer Interaction field, that is what I'm really passionate about. I think this experience helps me to have a global vision for the projects I work on. 
+						   		   You can find some of the things I've made taking a look at <a href="portfolio">my portfolio</a>.</p>
+							</div>
+						</div>
+						<div class="row">
+							<div class="span5">
+								<h4 class="spacer">Techniques, Methodologies and Tools I use</h4>
 								<ol>
 									<li>Sketchboard</li>
 									<li>Heuristic Evaluations and other Usability studies</li>
@@ -61,79 +65,12 @@
 									<li>Software frameworks and CMSs</li>
 								</ol>
 							</div>
+
+							
 							<div class="span6">
-								<div id="myCarousel" class="carousel slide">  
-									<ol class="carousel-indicators">
-										<li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-										<li data-target="#myCarousel" data-slide-to="1"></li>
-										<li data-target="#myCarousel" data-slide-to="2"></li>
-										<li data-target="#myCarousel" data-slide-to="3"></li>
-										<li data-target="#myCarousel" data-slide-to="4"></li>
-										<li data-target="#myCarousel" data-slide-to="5"></li>
-										<li data-target="#myCarousel" data-slide-to="6"></li>
-										<li data-target="#myCarousel" data-slide-to="7"></li>
-									</ol>
-
-									<!-- Carousel items -->  
-								    <div class="carousel-inner">
-
-								    	<div class="item active">
-								        	<img src="../images/sketchboard.jpg" alt="Sketchboard" />
-								        	<div class="carousel-caption">
-								        		<p>Sketchboard</p>
-								        	</div>
-								        </div> 
-								        
-								        <div class="item ">
-								        	<img src="../images/evacriado_personas.gif" alt="Personas"/>
-								        	<div class="carousel-caption">
-								        		<p>Personas</p>
-								        	</div>
-								        </div> 
-								        <div class="item ">
-								        	<img src="../images/smartbite_storyboard.png" alt="Storyboard"/>
-								        	<div class="carousel-caption">
-								        		<p>Storyboard</p>
-								        	</div>
-								        </div> 
-								        <div class="item ">
-								        	<img src="../images/NextEpisode_paperPrototype.jpg" alt="Paper prototype"/>
-								        	<div class="carousel-caption">
-								        		<p>Paper prototype</p>
-								        	</div>
-								        </div> 
-								        <div class="item ">
-								        	<img src="../images/museoAlmeria_mf-wireframe.jpg" alt="Annotated wireframe"/>
-								        	<div class="carousel-caption">
-								        		<p>Annotated wireframe</p>
-								        	</div>
-								        </div> 
-								        <div class="item ">
-								        	<img src="../images/museoAlmeria_hf-wireframe.jpg" alt="High-fidelity wireframe"/>
-								        	<div class="carousel-caption">
-								        		<p>High-fidelity wireframe</p>
-								        	</div>
-								        </div> 
-								        <div class="item ">
-								        	<img src="../images/user_test.png" alt="User test"/>
-								        	<div class="carousel-caption">
-								        		<p>User test</p>
-								        	</div>
-								        </div> 
-								        <div class="item ">
-								        	<img src="../images/live_website.png" alt="Live website"/>
-								        	<div class="carousel-caption">
-								        		<p>Live website</p>
-								        	</div>
-								        </div> 
-								        
-								  	</div>
-
-								  	<!-- Carousel nav -->  
-								  	<a class="carousel-control left" href="#myCarousel" data-slide="prev">‹</a>  
-								  	<a class="carousel-control right" href="#myCarousel" data-slide="next">›</a>  
-								</div>  
+								<!-- Placeholder for an image -->
 							</div>
+							
 						</div>
 
 						<h4 class="spacer">Distinguished Projects I'm involved</h4>
