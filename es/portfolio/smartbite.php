@@ -67,10 +67,10 @@
 
 		<!-- Design Process -->
 		<div class="row">
-			<div class="span12">
+			<div class="span7">
 				<h3 style="color:gray">Proceso seguido</h3>
 			</div>
-			<div class="span12">
+			<div class="span7">
 				<p>Tras haber detectado una serie de oportunidades de mejora, comencé a diseñar una solución que resolviese dichos problemas. Para ello seguí los siguientes pasos:</p>
 				<ol>
 					<li><p class="spacer">Creé un <b>punto de vista</b> para dirigir el proceso en todo momento:</p>
@@ -120,10 +120,10 @@
 
 		<!-- Tools Used -->
 		<div class="row">
-			<div class="span12">
+			<div class="span7">
 				<h3 style="color:gray">Herramientas usadas</h3>
 			</div>
-			<div class="offset4 span4">
+			<div class="offset2 span4">
 				<!-- <img src="http://placehold.it/700x150"> -->
 				<table class="table table-bordered">
 					<tr>
