@@ -164,59 +164,6 @@
 				</div>
 			</div>
 		</div>
-			
-			<!--
-		
-				
-				    	<div class="item active">
-				        	<img src="../../images/sketchboard.jpg" alt="Sketchboard" />
-				        	<div class="carousel-caption">
-				        		<p>Sketchboard</p>
-				        	</div>
-				        </div>  
-				        <div class="item">
-				        	<img src="../../images/evacriado_personas.gif" alt="Personas" />
-				        	<div class="carousel-caption">
-				        		<p>Las dos personas definidas: una primaria y una secundaria</p>
-				        	</div>
-				        </div>  
-				        <div class="item">
-				        	<img src="../../images/evacriado_storyboards.jpg" alt="Storyboards" />
-				        	<div class="carousel-caption">
-				        		<p>Storyboards creados para definir un contexto de uso</p>
-				        	</div>
-				        </div>  
-				        <div class="item">
-				        	<img src="../../images/evacriado_ia.jpg" alt="Information Architecture" />
-				        	<div class="carousel-caption">
-				        		<p>Aproximación a grandes rasgos de la Arquitectura de la Información</p>
-				        	</div>
-				        </div>  
-				        <div class="item">
-				        	<img src="../../images/evacriado_low-fi_wireframes.jpg" alt="Low-fidelity wireframes" />
-				        	<div class="carousel-caption">
-				        		<p>Tres wireframes alternativos de baja fidelidad para obtener el primer feedback del cliente y los usuarios</p>
-				        	</div>
-				        </div>  
-				    	<div class="item">
-				        	<img src="../../images/evacriado_home_before.jpg" alt="Página principal" />
-				        	<div class="carousel-caption">
-				        		<p>Antes del rediseño</p>
-				        	</div>
-				        </div>    
-				        <div class="item">
-				        	<img src="../../images/evacriado_home_after.jpg" alt="Después" />
-				        	<div class="carousel-caption">
-				        		<p>Después del rediseño</p>
-				        	</div>
-				        </div>    
-				    	<div class="item">
-				        	<img src="../../images/evacriado_he.jpg" alt="Hallazgos" />
-				        	<div class="carousel-caption">
-				        		<p>Algunos de los hallazgos obtenidos con la Evaluación Heurística</p>
-				        	</div>
-				        </div>  
-			-->
 
 		<hr/>		
 
