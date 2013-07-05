@@ -58,7 +58,7 @@
 						</ul>
 					</div>
 					<div class="span5">
-						<img src="../../images/moleskine.jpg" alt="" />
+						<img class="pull-right" src="../../images/moleskine.jpg" alt="" />
 					</div>
 				</div>
 			</div>
@@ -76,9 +76,9 @@
 								<p>
 									<b>Evaluación Heurística</b> de la web existente para detectar problemas. Estudio en produndidad considerando las <a href="http://www.useit.com/papers/heuristic/heuristic_list.html">10 Heurísticas de Usabilidad</a> de <a href="http://en.wikipedia.org/wiki/Jakob_Nielsen_(usability_consultant)">Jakob Nielsen</a>, teniendo en cuenta la severidad e importancia de cada un de los problemas encontrados</b>.
 								</p>
-								<p>**<a href="HE_EvaSpa.pdf">Descarga la evaluación heurísica</a>**.
+								<p>**<a href="HE_EvaSpa.pdf">Descarga la evaluación heurísica</a>**.</p>
+									<!-- 
 									<div class="centered">
-										<!-- <img src="../../images/evacriado_he.png" alt="Hallazgos" /> -->
 
 										<a data-toggle="lightbox" href="#he_big">
 											<img src="../../images/evacriado_he.png" class="img-polaroid" alt="Click to make bigger" width="500">
@@ -92,7 +92,8 @@
 												</div>
 										</div>
 									</div>
-								</p>
+										-->
+							
 							</li>
 							
 							<li>
@@ -145,7 +146,7 @@
 							<li>
 								<p class="spacer">Creación de sketches en papel, wireframes y prototipos de baja y alta fidelidad.
 									<div class="centered">
-										<img src="../../images/evacriado_low-fi_wireframes.jpg" alt="Low-fidelity wireframes" />
+										<img src="../../images/evacriado_lowfi_wireframes.jpg" alt="Low-fidelity wireframes" />
 										<img class="spacer" src="../../images/evacriado_home_after.jpg" alt="Después" />
 									</div>
 								</p>
@@ -241,6 +242,9 @@
 							</tr>
 							<tr>
 								<td><p class="centered">Axure</p></td>
+							</tr>
+							<tr>
+								<td><p class="centered">Photoshop</p></td>
 							</tr>
 							<tr>
 								<td><p class="centered">Sketchboard</p></td>
