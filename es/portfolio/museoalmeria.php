@@ -20,55 +20,95 @@
 		
 		<!-- Summary -->
 		<div class="row spacer">
-			<div class="hero-unit span7">
-				<p>Este proyecto es un concepto de kiosco interactivo ideado especialmente para las necesidades del <a href="http://www.museosdeandalucia.es/culturaydeporte/museos/MAL/?lng=es">Museo Arqueológico de Almería</a>. Fue realizado para la asignatura Diseño de Interacción del <a href="http://estudis.uoc.edu/ca/masters-postgraus-especialitzacions/diploma-postgrau/informatica-multimedia-telecomunicacio/interaccio-persona-ordinador/presentacio">Posgrado de Interacción Persona-Ordenador</a> de la Universitat Oberta de Catalunya.</p>
-				<br/>
-				<!-- 
-				<a class="btn btn-large btn-primary pull-right" href="https://dl.dropbox.com/u/3953712/SmartBite/test/screens/iPhoneDashboard.html">¡Prueba el prototipo interactivo!</a>
-				-->
-			</div>
-			<div class="span3 pull-right hidden-phone">
-				<img src="../../images/museoalmeria_front.png">
+			<div class="span12">
+				<div class="row">
+					<div class="span7">
+						<p class="lead">Este proyecto es un concepto de kiosco interactivo ideado especialmente para las necesidades del <a href="http://www.museosdeandalucia.es/culturaydeporte/museos/MAL/?lng=es">Museo Arqueológico de Almería</a>.</p>
+						<p class="lead">Fue realizado para la asignatura Diseño de Interacción del <a href="http://estudis.uoc.edu/ca/masters-postgraus-especialitzacions/diploma-postgrau/informatica-multimedia-telecomunicacio/interaccio-persona-ordinador/presentacio">Posgrado de Interacción Persona-Ordenador</a> de la Universitat Oberta de Catalunya.</p>
+					</div>
+					<div class="span5">
+						<div class="pull-right hidden-phone">
+							<img src="../../images/museoalmeria_front.png">
+						</div>
+					</div>
+				</div>
 			</div>
 		</div>
 
 		<hr/>
 
+		
 		<!-- Design Opportunity -->
 		<div class="row">
 			<div class="span12">
-				<h3>Oportunidad de diseño</h3>
-			</div>
-			<div class="span12">
-				<p>Tras una primera visita al museo para buscar posibles necesidades no cubiertas y oportunidades de diseño, se obtuvieron las siguientes:</p>
+				<h3 style="color:gray;">Oportunidad de diseño y estrategia</h3>
+				<div class="row">
+					<div class="span7">
+						<p>Tras una primera visita al museo para buscar posibles necesidades no cubiertas y oportunidades de diseño, se obtuvieron las siguientes:</p>
 
-				<ul>
-					<li><p>Muy <b>poca información sobre los elementos</b> arqueológicos permanentes. Había gente preguntandose qué eran algunos objetos de las vitrinas y no tenían a donde acudir para resolver sus dudas.</li>
-					<li><b>No había forma de</b> que los usuarios pudiesen <b>dar feedback</b> al museo para mejorar. No había zona de atención al visitante o de información.</p></li>
-					<li><p>La <b>sala de exposiciones temporales</b> tenía muchas obras pero prácticamente <b>ninguna información sobre qué se expone</b> o quiénes son los autores (tan sólo aparecía un pequeño cartel con el nombre).</p></li>
-					<li><p>Se echaba en falta un <b>“hilo conductor”</b> que hiciese a los visitantes comprender mejor por qué ciertos objetos estaban expuestos en determinadas zonas.</p></li>
-				</ul>
-
+						<ul>
+							<li><p>Muy <b>poca información sobre los elementos</b> arqueológicos permanentes. Había gente preguntandose qué eran algunos objetos de las vitrinas y no tenían a donde acudir para resolver sus dudas.</li>
+							<li><b>No había forma de</b> que los usuarios pudiesen <b>dar feedback</b> al museo para mejorar. No había zona de atención al visitante o de información.</p></li>
+							<li><p>La <b>sala de exposiciones temporales</b> tenía muchas obras pero prácticamente <b>ninguna información sobre qué se expone</b> o quiénes son los autores (tan sólo aparecía un pequeño cartel con el nombre).</p></li>
+							<li><p>Se echaba en falta un <b>“hilo conductor”</b> que hiciese a los visitantes comprender mejor por qué ciertos objetos estaban expuestos en determinadas zonas.</p></li>
+						</ul>
+					</div>
+					<div class="span5">
+						<img class="pull-right" src="../../images/moleskine.jpg" alt="" />
+					</div>
+				</div>
 			</div>
 		</div>
-
 		<hr/>
 
 		<!-- Design Process -->
 		<div class="row">
 			<div class="span12">
-				<h3>Proceso seguido</h3>
+				<h3 style="color:gray;">Proceso seguido</h3>
+				<div class="row">
+					<div class="span7">
+						<ol>
+							<li>
+								<p class="spacer">Creación de <b>personas</b> para representar los 3 perfiles principales detectados.</p>
+								<div class="centered">
+									<img src="../../images/museoAlmeria_personas.jpg" alt="Personas" />
+								</div>
+							</li>
+
+							<li>
+								<p class="spacer">Definición de la <b>arquitectura de la información</b>. Primero se realizó un outline y posteriormente se creó un árbol de contenidos.</p>
+								<div class="centered">
+									<img src="../../images/museoAlmeria_IA.jpg" alt="Arquitectura de la Información" />
+								</div>
+							</li>
+							<li>
+								<p class="spacer">Definición de <b>flujos de interacción</b> en la aplicación. Se identificaron las tareas principales que los usuarios necesitaban realizar, y a través de esquemas se diseñaron cómo se desarrollarían dentro de la aplicación.</p>
+								<div class="centered">
+									<img src="../../images/museoAlmeria_flowchart.jpg" alt="Flujos de interacción" />
+								</div>
+							</li>
+							<li>
+								<p class="spacer">Realización de <b>sketches y wireframes</b>. Primero intenté obtener el mayor número de alternativas para cada una de las pantallas, posteriormente elegí una opción, y continué desarrollándola cada vez con un nivel de fidelidad mayor.</p>
+								<div class="centered">
+									<img src="../../images/museoAlmeria_prototype.jpg" alt="Primer prototipo" />
+									<img class="spacer" src="../../images/museoAlmeria_mf-wireframe.jpg" alt="Wireframe de media fidelidad" />
+									<img class="spacer" src="../../images/museoalmeria_hf-wireframe.jpg" alt="Wireframe de alta fidelidad" />
+								</div>
+							</li>
+						</ol>
+						</div>
+				</div>
+			</div>
+		</div>
+
+		<hr/>		
+
+
+
+<!--
 			</div>
 			<div class="span6">
-				<ol>
-					<li><p class="spacer">Creación de <b>personas</b> para representar los 3 perfiles principales detectados.</p></li>
-					<li><p class="spacer">Definición de la <b>arquitectura de la información</b>. Primero se realizó un outline y posteriormente se creó un árbol de contenidos.</p></li>
-					<li><p class="spacer">Definición de <b>flujos de interacción</b> en la aplicación. Se identificaron las tareas principales que los usuarios necesitaban realizar, y a través de esquemas se diseñaron cómo se desarrollarían dentro de la aplicación.</p></li>
-					<li><p class="spacer">Realización de <b>sketches y wireframes</b>. Primero intenté obtener el mayor número de alternativas para cada una de las pantallas, posteriormente elegí una opción, y continué desarrollándola cada vez con un nivel de fidelidad mayor.</p> </li>
-				</ol>
-			</div>
-			<div class="span6">
-				<!-- <img src="http://placehold.it/500x350"> -->
+				
 
 				<div id="myCarousel" class="carousel slide"> 
                     <ol class="carousel-indicators">
@@ -80,7 +120,7 @@
 					    <li data-target="#myCarousel" data-slide-to="5" class="active"></li>
 					</ol>
 
-					<!-- Carousel items -->  
+					
 				    <div class="carousel-inner">  
 				    	
 				        <div class="item">
@@ -121,7 +161,7 @@
 				        </div>  
 				        
 				  	</div>  
-				  	<!-- Carousel nav -->  
+				  	 
 				  	<a class="carousel-control left" href="#myCarousel" data-slide="prev">‹</a>  
 				  	<a class="carousel-control right" href="#myCarousel" data-slide="next">›</a>  
 				</div>  
@@ -131,11 +171,12 @@
 		</div>
 
 		<hr/>
+	-->
 
 		<!-- Tools Used -->
 		<div class="row">
 			<div class="span12">
-				<h3>Herramientas usadas</h3>
+				<h3 style="color:gray;">Herramientas usadas</h3>
 			</div>
 			<div class="offset4 span4">
 				<!-- <img src="http://placehold.it/700x150"> -->
@@ -157,7 +198,7 @@
 
 		<div class="row">
 			<div class="span12">
-				<h3>Detalles</h3>
+				<h3 style="color:gray;">Detalles</h3>
 			</div>
 			<div class="span12">
 				<dl class="dl-horizontal">
