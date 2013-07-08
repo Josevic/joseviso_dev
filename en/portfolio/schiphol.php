@@ -2,16 +2,30 @@
 
 	$page_title = "Portfolio > Schiphol";
 	$page_description = "Jose Viso's portfolio | Schiphol: Amsterdam Airport mobile page.";
-	$project_name = "Schiphol";
-	$herounit_width = 10;
-	$herounit_desc = "<p>I contributed to this project helping to develop the <a href='https://schiphol.mobi'>mobile website</a> and backend system of <a href='http://en.wikipedia.org/wiki/Amsterdam_Airport_Schiphol'>Amsterdam Airport Schiphol</a> (one of Europe's largest), while working for <a href='http://m2mobi.com'>M2Mobi</a>.";
 
+	include("../includes/header.php"); ?>
 
-	include("../includes/header.php"); 
-	include("../includes/portfolio-sections/breadcrumb.php");
-	include("../includes/portfolio-sections/project-title.php"); 
-	include("../includes/portfolio-sections/project-summary.php");
-	?>
+	<div class="row">
+		<div class="span6">
+			<ul class="breadcrumb">
+				<li><a href="<?php echo $base; ?>/es/">Home</a> <span class="divider">></span></li>
+				<li><a href="<?php echo $base; ?>/es/portfolio"> Portfolio</a> <span class="divider">></span></li>
+				<li class="active">Schiphol</li>	
+		    </ul>
+		</div>
+	</div>
+
+		<!-- Big Text -->	
+		<div class="header"><h1>Schiphol</h1></div>
+		
+		<!-- Summary -->
+		<div class="row spacer">
+			<div class="span9">
+				<p class="lead">I contributed to this project helping to develop the <a href='https://schiphol.mobi'>mobile website</a> and backend system of <a href='http://en.wikipedia.org/wiki/Amsterdam_Airport_Schiphol'>Amsterdam Airport Schiphol</a> (one of Europe's largest), while working for <a href='http://m2mobi.com'>M2Mobi</a>.</p>
+			</div>
+ 		</div>
+
+		<hr/>
 
 		<!-- Design Process -->
 		<div class="row">
@@ -39,7 +53,7 @@
 				    	<div class="active item">
 				        	<img src="../../images/schiphol_snlogin.png" alt="Page for signing in with social networks" border="1"/>
 				        	<div class="carousel-caption">
-				        		<p>Page for signing in with social networks</p>
+				        		<p>Page for signing in with social networks.</p>
 				        	</div>
 				        </div>  
 				        <div class="item">
@@ -61,27 +75,56 @@
 
 		<hr/>
 
+		<!-- Tools Used -->
+		<div class="row">
+			<div class="span12">
+				<h3>Tools and methodologies used</h3>
+			</div>
+			<div class="offset4 span4">
+				<!-- <img src="http://placehold.it/700x150"> -->
+				<table class="table table-bordered">
+					<tr>
+						<td><p class="centered">PHP</p></td>
+					</tr>
+					<tr>
+						<td><p class="centered">HTML</p></td>
+					</tr>
+					<tr>
+						<td><p class="centered">CSS</p></td>
+					</tr>
+					<tr>
+						<td><p class="centered">Git</p></td>
+					</tr>
+					<tr>
+						<td><p class="centered"><a href='http://ellislab.com/codeigniter'>CodeIgniter</a>-based framework</p></td>
+					</tr>
+					<tr>
+						<td><p class="centered">Peer Review</p></td>
+					</tr>
+					<tr>
+						<td><p class="centered">Scrum</p></td>
+					</tr>
+  				</table>
+			</div>
+		</div>
 
-	<?php 
+		<hr/>
 
-	$tools_used = array(
-		"PHP",
-		"HTML",
-		"CSS",
-		"Git",
-		"<a href='http://ellislab.com/codeigniter'>CodeIgniter</a>-based framework",
-		"Peer Review",
-		"Scrum"
-	);
+		<div class="row">
+			<div class="span12">
+				<h3>Details</h3>
+			</div>
+			<div class="span12">
+				<dl class="dl-horizontal">
+				  <dt>Date</dt>
+				  <dd>April 2011 - April 2012</dd>
+				
+				  <dt>Tags</dt>
+				  <dd>
+				      <a href="<?php echo $base . '/en/portfolio/category/development'; ?>"><span class="label">Development</span></a>
+				  </dd>
+				</dl>
+			</div>
+		</div>
 
-	$details = array(
-		"date" => "April 2011 - April 2012",
-		"tags" => array(
-			"Development" => "development"
-		)
-	);
-	include("../includes/portfolio-sections/tools-used.php");
-	include("../includes/portfolio-sections/project-details.php");
-	include("../includes/footer.php");
-
-	?>
+	<?php include("../includes/footer.php"); ?>

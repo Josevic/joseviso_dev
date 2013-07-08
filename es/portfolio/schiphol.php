@@ -20,8 +20,8 @@
 		
 		<!-- Summary -->
 		<div class="row spacer">
-			<div class="hero-unit span10">
-				<p>Contribuí en este proyecto ayudando a desarrollar la <a href="https://schiphol.mobi">web móvil</a> y el backend del <a href="http://en.wikipedia.org/wiki/Amsterdam_Airport_Schiphol">Aeropuerto de Ámsterdam - Schiphol</a> (uno de los más grandes de Europa), mientras trabajaba en <a href="http://m2mobi.com">M2Mobi</a>.</p>
+			<div class="span9">
+				<p class="lead">Contribuí en este proyecto ayudando a desarrollar la <a href="https://schiphol.mobi">web móvil</a> y el backend del <a href="http://en.wikipedia.org/wiki/Amsterdam_Airport_Schiphol">Aeropuerto de Ámsterdam - Schiphol</a> (uno de los más grandes de Europa), mientras trabajaba en <a href="http://m2mobi.com">M2Mobi</a>.</p>
 			</div>
  		</div>
 
