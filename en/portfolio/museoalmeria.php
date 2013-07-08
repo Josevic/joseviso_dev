@@ -139,7 +139,7 @@
 			<div class="span12">
 				<h3 style="color:gray;">Tools used</h3>
 			</div>
-			<div class="offset4 span4">
+			<div class="offset2 span4">
 				<!-- <img src="http://placehold.it/700x150"> -->
 				<table class="table table-bordered">
 					<tr>
