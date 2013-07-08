@@ -20,15 +20,15 @@
 		
 		<!-- Summary -->
 		<div class="row spacer">
-			<div class="hero-unit span10">
-				<p><em>Street Rockstars</em> es un proyecto que intenta recoger a los mejores músicos callejeros del mundo. No se trata únicamente de Rock, sino sobre crear un lugar donde encontrar a todos esos desconocidos que tocan en la calle y nadie ve, a parte de la gente que pasa en ese momento cerca.</p>
-				<br/>
-				<div class="video-container centered hidden-phone">
-					<iframe width="560" height="315" src="http://www.youtube.com/embed/xlAoMDWxRfY" frameborder="0" allowfullscreen></iframe>
-				</div>
-				<div class="spacer centered">
-					<a class="btn btn-large btn-primary" href="http://streetrockstars.com">¡Visita la página!</a>
-				</div>
+			<div class="span9">
+						<p class="lead"><em>Street Rockstars</em> es un proyecto que intenta recoger a los mejores músicos callejeros del mundo. No se trata únicamente de Rock, sino sobre crear un lugar donde encontrar a todos esos desconocidos que tocan en la calle y nadie ve, a parte de la gente que pasa en ese momento cerca.</p>
+						<br/>
+						<div class="video-container centered hidden-phone">
+							<iframe width="560" height="315" src="http://www.youtube.com/embed/xlAoMDWxRfY" frameborder="0" allowfullscreen></iframe>
+						</div>
+						<div class="spacer centered">
+							<a class="btn btn-large btn-primary" href="http://streetrockstars.com">¡Visita la página!</a>
+						</div>
 			</div>
 		</div>
 
@@ -52,7 +52,7 @@
 					<li><p class="spacer">Creación de un <b>prototipo interactivo</b> simple y <b>pruebas de usuario</b> sobre las funcionalidades básicas. Varias iteraciones con rediseños.</p></li>
 					<li><p class="spacer"><b>Añadir más detalles</b> a los wireframes usando Adobe Fireworks y a los prototipos usando Axure.</p></li>
 					<li><p class="spacer"><b>Evaluación Heurística</b>. Pruebas de cambios y aspectos concretos.</p></li>
-					<li><p class="spacer">Implementation.</p></li>
+					<li><p class="spacer">Implementación.</p></li>
 				</ol>
 			</div>
 			<div class="span6">

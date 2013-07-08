@@ -2,77 +2,154 @@
 
 	$page_title = "Portfolio > Street Rockstars";
 	$page_description = "Jose Viso's portfolio | Street Rockstars: Project to find the best street musicians in the world.";
-	$project_name = "Street Rockstars";
-	$herounit_width = 10;
-	$herounit_desc = 
-				"<p><em>Street Rockstars</em> is a project that tries to collect the best street musicians around the world. It isn't about rock but of creating a place to find those strangers playing in the street and nobody, a part of the people passing near in that moment see.</p>
-				<br/>
-				<div class='video-container centered hidden-phone'>
-					<iframe width='560' height='315' src='http://www.youtube.com/embed/xlAoMDWxRfY' frameborder='0' allowfullscreen></iframe>
-				</div>
-				<div class='spacer centered'>
-					<a class='btn btn-large btn-primary' href='http://streetrockstars.com'>Visit the site!</a>
-				</div>";
+	
+	include("../includes/header.php"); ?>
 
-	$process = array(
-	    	"steps" =>  array(
-				"<b>Observation</b> in the street of people recording street musicians' performances: approximated age, gender, nationality. Interviews with people who matched that description.",
-				"Creation of 2 <b>personas</b> (one primary and one secondary) and typical <b>scenarios</b> for each one of them. Generation of a list of necessary functionalities.",
-				"Start defining the <b>Information Architecture</b>:</p></li>
+	<div class="row">
+		<div class="span6">
+			<ul class="breadcrumb">
+				<li><a href="<?php echo $base; ?>/en/">Home</a> <span class="divider">></span></li>
+				<li><a href="<?php echo $base; ?>/en/portfolio"> Portfolio</a> <span class="divider">></span></li>
+				<li class="active">Street Rockstars</li>	
+		    </ul>
+		</div>
+	</div>
+
+		<!-- Big Text -->	
+		<div class="header"><h1>Street Rockstars</h1></div>
+		
+		<!-- Summary -->
+		<div class="row spacer">
+			<div class="span9">
+						<p class="lead"><em>Street Rockstars</em> is a project that tries to collect the best street musicians around the world. It isn't about rock but of creating a place to find those strangers playing in the street and nobody, a part of the people passing near in that moment see.</p>
+						<br/>
+						<div class="video-container centered hidden-phone">
+							<iframe width="560" height="315" src="http://www.youtube.com/embed/xlAoMDWxRfY" frameborder="0" allowfullscreen></iframe>
+						</div>
+						<div class="spacer centered">
+							<a class="btn btn-large btn-primary" href="http://streetrockstars.com">Visit the site!</a>
+						</div>
+			</div>
+		</div>
+
+		<hr/>
+
+		<!-- Design Process -->
+		<div class="row">
+			<div class="span12">
+				<h3>Design process</h3>
+			</div>
+			<div class="span6">
+				<ol>
+					<li><p class="spacer"><b>Observation</b> in the street of people recording street musicians' performances: approximated age, gender, nationality. Interviews with people who matched that description.</p></li>
+					<li><p class="spacer">Creation of 2 <b>personas</b> (one primary and one secondary) and typical <b>scenarios</b> for each one of them. Generation of a list of necessary functionalities.</p></li>
+					<li><p class="spacer">Start defining the <b>Information Architecture</b>:</p></li>
 						<ol type='a'>
 							<li><p><b>Blueprints</b> or Sitemaps generation.</p></li>
 							<li><p>Firsts <b>sketches in paper</b> with possible alternative representations.</p></li>
 							<li><p>Selection of the most appropriate representations and develop <b>wireframes</b> in more detail, using Balsamiq Mockups.</p></li>
-						</ol>",
-				"Creation of a simple <b>interactive prototype</b> and <b>user tests</b> on the basic functionalities. Several iterations with redesigns.",
-				"<b>Add more details</b> to the wireframes using Adobe Fireworks and to the prototypes using Axure.",
-				"<b>Heuristic Evaluation</b>. Test of the changes and concrete aspects.",
-				"Implementation"
-			),
-			"slides" => array(
-				0 => array(
-						"image" => "../../images/streetrockstars_persona1.png",
-						"alt_text" => "Primary Persona",
-						"caption" => "Primary Persona"
-					 ),
-				1 => array(
-						"image" => "../../images/streetrockstars_ia.png",
-						"alt_text" => "Information Architecture definition",
-						"caption" => "Blueprint with the different parts of the site and their relations."
-					 ),
-				2 => array(
-						"image" => "../../images/streetrockstars_wf1.png",
-						"alt_text" => "Low-fidelity wireframe",
-						"caption" => "Low fidelity wireframe created with Balsamiq Mockups"
-					 ),
-				3 => array(
-						"image" => "../../images/streetrockstars_wf2.png",
-						"alt_text" => "Mid-fidelity wireframe",
-						"caption" => "More detailed wireframe considering the users' feedback built with Axure RP."
-					 )
-			),
-			"active" => 2
-	    );
+						</ol>
+					<li><p class="spacer">Creation of a simple <b>interactive prototype</b> and <b>user tests</b> on the basic functionalities. Several iterations with redesigns.</p></li>
+					<li><p class="spacer"><b>Add more details</b> to the wireframes using Adobe Fireworks and to the prototypes using Axure.</p></li>
+					<li><p class="spacer"><b>Heuristic Evaluation</b>. Test of the changes and concrete aspects.</p></li>
+					<li><p class="spacer">Implementation.</p></li>
+				</ol>
+			</div>
+			<div class="span6">
+				<!-- <img src="http://placehold.it/500x350"> -->
 
-	$tools_used = array(
-		"Pen and Paper",
-		"OmniGraffle",
-		"Balsamiq Mockups",
-		"Adobe Fireworks CS5",
-		"Axure RP"
-	);
+				<div id="myCarousel" class="carousel slide">
+					<ol class="carousel-indicators">
+					    <li data-target="#myCarousel" data-slide-to="0"></li>
+					    <li data-target="#myCarousel" data-slide-to="1"></li>
+					    <li data-target="#myCarousel" data-slide-to="2" class="active"></li>
+					    <li data-target="#myCarousel" data-slide-to="3"></li>
+					</ol>
 
-	$details = array(
-		"date" => "Year 2012",
-		"tags" => array(
-			"User Research" => "user-research", 
-			"Interaction Design" => "interaction-design",
-			"Development" => "development"
-		)
-	);
+					<!-- Carousel items -->  
+				    <div class="carousel-inner">  
+				    	<div class="item">
+				        	<img src="../../images/streetrockstars_persona1.png" alt="Primary Persona" />
+				        	<div class="carousel-caption">
+				        		<p>Primary Persona</p>
+				        	</div>
+				        </div>  
+				        <div class="item">
+				        	<img src="../../images/streetrockstars_ia.png" alt="Information Architecture definition" />
+				        	<div class="carousel-caption">
+				        		<p>Blueprint with the different parts of the site and their relations.</p>
+				        	</div>
+				        </div>  
+				        
+				        <div class="item active">
+				        	<img src="../../images/streetrockstars_wf1.png" alt="Low-fidelity wireframe" />
+				        	<div class="carousel-caption">
+				        		<p>Low fidelity wireframe created with Balsamiq Mockups.</p>
+				        	</div>
+				        </div>
+				        <div class="item">
+				        	<img src="../../images/streetrockstars_wf2.png" alt="Mid-fidelity wireframe" />
+				        	<div class="carousel-caption">
+				        		<p>More detailed wireframe considering the users' feedback built with Axure RP.</p>
+				        	</div>
+				        </div>   
+				  	</div>  
+				  	<!-- Carousel nav -->  
+				  	<a class="carousel-control left" href="#myCarousel" data-slide="prev">‹</a>  
+				  	<a class="carousel-control right" href="#myCarousel" data-slide="next">›</a>  
+				</div>  
 
-	include("../includes/header.php"); 
-	include("../includes/portfolio-template.php");
-	include("../includes/footer.php");
 
-	?>
+			</div>
+		</div>
+
+		<hr/>
+
+		<!-- Tools Used -->
+		<div class="row">
+			<div class="span12">
+				<h3>Tools used</h3>
+			</div>
+			<div class="offset4 span4">
+				<!-- <img src="http://placehold.it/700x150"> -->
+				<table class="table table-bordered">
+					<tr>
+						<td><p class="centered">Pen and Paper</p></td>
+					</tr>
+					<tr>
+						<td><p class="centered">OmniGraffle</p></td>
+					</tr>
+					<tr>
+						<td><p class="centered">Balsamiq Mockups</p></td>
+					</tr>
+					<tr>
+						<td><p class="centered">Adobe Fireworks CS5</p></td>
+					</tr>
+					<tr>
+						<td><p class="centered">Axure RP</p></td>
+					</tr>
+  				</table>
+			</div>
+		</div>
+
+		<hr/>
+
+		<div class="row">
+			<div class="span12">
+				<h3>Details</h3>
+			</div>
+			<div class="span12">
+				<dl class="dl-horizontal">
+				  <dt>Date</dt>
+				  <dd>Year 2012</dd>
+				  <dt>Tags</dt>
+				  <dd>
+				      <a href="<?php echo $base . '/en/portfolio/category/user-research'; ?>"><span class="label">User Research</span></a>
+				      <a href="<?php echo $base . '/en/portfolio/category/interaction-design'; ?>"><span class="label">Interaction Design</span></a>
+				      <a href="<?php echo $base . '/en/portfolio/category/development'; ?>"><span class="label">Development</span></a>
+				  </dd>
+				</dl>
+			</div>
+		</div>
+
+		<?php include("../includes/footer.php"); ?>
