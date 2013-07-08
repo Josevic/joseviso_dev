@@ -71,28 +71,60 @@
 							<li>
 								<p class="spacer">Creación de <b>personas</b> para representar los 3 perfiles principales detectados.</p>
 								<div class="centered">
-									<img src="../../images/museoAlmeria_personas.jpg" alt="Personas" />
+									<img src="../../images/museoAlmeria_personas.png" alt="Personas" />
 								</div>
 							</li>
 
 							<li>
 								<p class="spacer">Definición de la <b>arquitectura de la información</b>. Primero se realizó un outline y posteriormente se creó un árbol de contenidos.</p>
 								<div class="centered">
-									<img src="../../images/museoAlmeria_IA.jpg" alt="Arquitectura de la Información" />
+									
+
+												<a data-toggle="lightbox" href="#ia_big">
+													<img src="../../images/museoAlmeria_ia_small.png" class="img-polaroid" alt="Click to make bigger">
+												</a>
+												<div id="ia_big" class="lightbox hide fade"  tabindex="-1" role="dialog" aria-hidden="true">
+														<div class='lightbox-header'>
+															<button type="button" class="close" data-dismiss="lightbox" aria-hidden="true">&times;</button>
+														</div>
+														<div class='lightbox-content'>
+															<img src="../../images/museoAlmeria_ia.jpg">
+														</div>
+												</div>
 								</div>
 							</li>
 							<li>
 								<p class="spacer">Definición de <b>flujos de interacción</b> en la aplicación. Se identificaron las tareas principales que los usuarios necesitaban realizar, y a través de esquemas se diseñaron cómo se desarrollarían dentro de la aplicación.</p>
 								<div class="centered">
-									<img src="../../images/museoAlmeria_flowchart.jpg" alt="Flujos de interacción" />
+									<img src="../../images/museoAlmeria_flowchart_small.png" alt="Flujos de interacción" />
 								</div>
 							</li>
 							<li>
 								<p class="spacer">Realización de <b>sketches y wireframes</b>. Primero intenté obtener el mayor número de alternativas para cada una de las pantallas, posteriormente elegí una opción, y continué desarrollándola cada vez con un nivel de fidelidad mayor.</p>
 								<div class="centered">
-									<img src="../../images/museoAlmeria_prototype.jpg" alt="Primer prototipo" />
-									<img class="spacer" src="../../images/museoAlmeria_mf-wireframe.jpg" alt="Wireframe de media fidelidad" />
-									<img class="spacer" src="../../images/museoalmeria_hf-wireframe.jpg" alt="Wireframe de alta fidelidad" />
+									<img src="../../images/museoAlmeria_sketches.JPG" alt="Sketch en papel" />
+									<p class="centered muted">Primeros sketches con alternativas para la pantalla inicial.</p>
+								</div>
+								<div class="spacer centered">
+									<img src="../../images/museoAlmeria_lowfi_wireframe.png" alt="Primer prototipo" />
+									<p class="centered muted">Una vez elegida una de las alternativas, creé una versión en Balsamiq Mockups.</p>
+								</div>
+								<div class="spacer centered">
+												<a data-toggle="lightbox" href="#annotated_wireframe_big">
+													<img src="../../images/museoAlmeria_annotated_wireframe_small.jpg" class="img-polaroid" alt="Click to make bigger">
+												</a>
+												<p class="centered muted">Wireframe anotado explicando la pantalla de "Información detallada de Objeto"</p>
+												<div id="annotated_wireframe_big" class="lightbox hide fade"  tabindex="-1" role="dialog" aria-hidden="true">
+														<div class='lightbox-header'>
+															<button type="button" class="close" data-dismiss="lightbox" aria-hidden="true">&times;</button>
+														</div>
+														<div class='lightbox-content'>
+															<img src="../../images/museoAlmeria_annotated_wireframe.jpg">
+														</div>
+												</div>
+
+									<img class="spacer" src="../../images/museoalmeria_hf_wireframe.jpg" alt="Wireframe de alta fidelidad" />
+									<p class="centered muted">Versión de alta fidelidad creada con OmniGraffle.</p>
 								</div>
 							</li>
 						</ol>
