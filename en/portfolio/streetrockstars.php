@@ -21,14 +21,13 @@
 		<!-- Summary -->
 		<div class="row spacer">
 			<div class="span9">
-						<p class="lead"><em>Street Rockstars</em> is a project that tries to collect the best street musicians around the world. It isn't about rock but of creating a place to find those strangers playing in the street and nobody, a part of the people passing near in that moment see.</p>
+						<p class="lead"><em>Street Rockstars</em> is a project that tries to collect the best street musicians around the world. It is not about rock but of creating a place to find those strangers playing in the street and nobody, a part of the people passing near in that moment see.</p>
 						<br/>
-						<div class="video-container centered hidden-phone">
+						<div class="video-container hidden-phone">
 							<iframe width="560" height="315" src="http://www.youtube.com/embed/xlAoMDWxRfY" frameborder="0" allowfullscreen></iframe>
 						</div>
-						<div class="spacer centered">
-							<a class="btn btn-large btn-primary" href="http://streetrockstars.com">Visit the site!</a>
-						</div>
+						<br class="hidden-phone"/>
+						<p><a class="btn btn-large btn-primary" href="http://streetrockstars.com">Visit the site!</a></p>
 			</div>
 		</div>
 

@@ -23,12 +23,12 @@
 			<div class="span9">
 						<p class="lead"><em>Street Rockstars</em> es un proyecto que intenta recoger a los mejores músicos callejeros del mundo. No se trata únicamente de Rock, sino sobre crear un lugar donde encontrar a todos esos desconocidos que tocan en la calle y nadie ve, a parte de la gente que pasa en ese momento cerca.</p>
 						<br/>
-						<div class="video-container centered hidden-phone">
+						<div class="video-container hidden-phone">
 							<iframe width="560" height="315" src="http://www.youtube.com/embed/xlAoMDWxRfY" frameborder="0" allowfullscreen></iframe>
 						</div>
-						<div class="spacer centered">
-							<a class="btn btn-large btn-primary" href="http://streetrockstars.com">¡Visita la página!</a>
-						</div>
+						<br class="spacer"/>
+						<p><a class="btn btn-large btn-primary" href="http://streetrockstars.com">¡Visita la página!</a></p>
+						
 			</div>
 		</div>
 
