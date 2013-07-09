@@ -94,12 +94,12 @@
 			
 			<h3 class="spacer">Cosas que me gustan</h3>
 				<div class="row">
-					<div class="offset1 span11">
+					<div class="offset1 span7">
 						<p>Deportes, Fotografía, Música, Ciencia, Viajar</p>
 						<p class="spacer">Una frase que representa muy bien mi filosofía es esta:</p>
 						<blockquote class="spacer">
-							<p>Diseño no es sólo cómo es por fuera o la impresión que da. Diseño es cómo funciona.</p>
-							<small>Steve Jobs</small>
+							<p>El diseño no debería dominar a las cosas. Ni dominar a la gente. Debería ayudar a la gente.</p>
+							<small>Dieter Rams</small>
 						</blockquote>
 					</div>
 
