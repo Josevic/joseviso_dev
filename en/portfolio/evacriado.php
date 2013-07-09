@@ -142,7 +142,7 @@
 							</li>
 							<li>
 								<p class="spacer">
-									Creation of paper sketches, low and mid-fidelity wireframes and prototypes.
+									Creation of paper sketches, low, mid and high-fidelity wireframes and prototypes.
 									<div class="centered">
 										<img src="../../images/evacriado_lowfi_wireframes.jpg" alt="Low-fidelity wireframes" />
 										<img class="spacer" src="../../images/evacriado_home_after.jpg" alt="Después" />

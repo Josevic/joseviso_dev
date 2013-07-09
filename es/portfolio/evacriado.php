@@ -144,7 +144,7 @@
 								</p>
 							</li>
 							<li>
-								<p class="spacer">Creación de sketches en papel, wireframes y prototipos de baja y alta fidelidad.
+								<p class="spacer">Creación de sketches en papel, wireframes y prototipos de baja, media y alta fidelidad.
 									<div class="centered">
 										<img src="../../images/evacriado_lowfi_wireframes.jpg" alt="Low-fidelity wireframes" />
 										<img class="spacer" src="../../images/evacriado_home_after.jpg" alt="Después" />
