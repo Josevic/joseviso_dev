@@ -107,13 +107,16 @@
 								</div>
 								<div class="spacer centered">
 									<img src="../../images/museoAlmeria_lowfi_wireframe.png" alt="Primer prototipo" />
-									<p class="centered muted">Una vez elegida una de las alternativas, creé una versión en Balsamiq Mockups.</p>
+									<p class="centered muted">Una vez elegida una de las alternativas, creé una versión en Balsamiq Mockups (Pantalla de "Inicio").</p>
 								</div>
 								<div class="spacer centered">
-												<a data-toggle="lightbox" href="#annotated_wireframe_big">
-													<img src="../../images/museoAlmeria_annotated_wireframe_small.jpg" class="img-polaroid" alt="Click to make bigger">
+									<img src="../../images/museoalmeria_hf_wireframe.jpg" alt="Wireframe de alta fidelidad" />
+									<p class="centered muted">Versión de alta fidelidad creada con OmniGraffle (Pantalla de "Inicio").</p>
+
+									<a data-toggle="lightbox" href="#annotated_wireframe_big">
+													<img class="spacer" src="../../images/museoAlmeria_annotated_wireframe_small.jpg" class="img-polaroid" alt="Click to make bigger">
 												</a>
-												<p class="centered muted">Wireframe anotado explicando la pantalla de "Información detallada de Objeto"</p>
+												<p class="centered muted">Wireframe anotado creado con OmniGraffle (Pantalla de "Detalle de Objeto").</p>
 												<div id="annotated_wireframe_big" class="lightbox hide fade"  tabindex="-1" role="dialog" aria-hidden="true">
 														<div class='lightbox-header'>
 															<button type="button" class="close" data-dismiss="lightbox" aria-hidden="true">&times;</button>
@@ -122,9 +125,6 @@
 															<img src="../../images/museoAlmeria_annotated_wireframe.jpg">
 														</div>
 												</div>
-
-									<img class="spacer" src="../../images/museoalmeria_hf_wireframe.jpg" alt="Wireframe de alta fidelidad" />
-									<p class="centered muted">Versión de alta fidelidad creada con OmniGraffle.</p>
 								</div>
 							</li>
 						</ol>

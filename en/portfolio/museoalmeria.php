@@ -106,13 +106,19 @@
 								</div>
 								<div class="spacer centered">
 									<img src="../../images/museoAlmeria_lowfi_wireframe.png" alt="Primer prototipo" />
-									<p class="centered muted">Once an alternative was picked up, I created a version with Balsamiq Mockups.</p>
+									<p class="centered muted">Once an alternative was picked up, I created a version with Balsamiq Mockups ("Home" screen).</p>
 								</div>
+								
 								<div class="spacer centered">
+												
+									<img src="../../images/museoalmeria_hf_wireframe.jpg" alt="Wireframe de alta fidelidad" />
+									<p class="centered muted">High-fidelity version created using OmniGraffle ("Home" screen).</p>
+
+
 												<a data-toggle="lightbox" href="#annotated_wireframe_big">
-													<img src="../../images/museoAlmeria_annotated_wireframe_small.jpg" class="img-polaroid" alt="Click to make bigger">
+													<img class="spacer" src="../../images/museoAlmeria_annotated_wireframe_small.jpg" class="img-polaroid" alt="Click to make bigger">
 												</a>
-												<p class="centered muted">Annotated wireframe explaining the "Detailed information about object" screen.</p>
+												<p class="centered muted">Annotated wireframe created using OmniGraffle ("Object Detail" screen).</p>
 												<div id="annotated_wireframe_big" class="lightbox hide fade"  tabindex="-1" role="dialog" aria-hidden="true">
 														<div class='lightbox-header'>
 															<button type="button" class="close" data-dismiss="lightbox" aria-hidden="true">&times;</button>
@@ -121,9 +127,7 @@
 															<img src="../../images/museoAlmeria_annotated_wireframe.jpg">
 														</div>
 												</div>
-
-									<img class="spacer" src="../../images/museoalmeria_hf_wireframe.jpg" alt="Wireframe de alta fidelidad" />
-									<p class="centered muted">High-fidelity version created using OmniGraffle.</p>
+											
 								</div>
 							</li>
 						</ol>
