@@ -53,7 +53,7 @@
 						</ul>
 					</div>
 					<div class="span5">
-						<img class="pull-right" src="../../images/moleskine.jpg" alt="" />
+						<img class="pull-right" src="../../images/museoalmeria_design_opportunity.JPEG" alt="People observing objects on the museum." />
 					</div>
 				</div>
 			</div>
@@ -68,7 +68,7 @@
 					<div class="span7">
 						<ol>
 							<li>
-								<p class="spacer">Creation of <b>personas</b> to represent the 3 main roles detected.</p>
+								<p>Creation of <b>personas</b> to represent the 3 main roles detected.</p>
 								<div class="centered">
 									<img src="../../images/museoAlmeria_personas.png" alt="Personas" />
 								</div>

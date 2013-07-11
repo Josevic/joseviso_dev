@@ -54,7 +54,7 @@
 						</ul>
 					</div>
 					<div class="span5">
-						<img class="pull-right" src="../../images/moleskine.jpg" alt="" />
+						<img class="pull-right" src="../../images/museoalmeria_design_opportunity.JPEG" alt="Gente observando objetos en el museo" />
 					</div>
 				</div>
 			</div>
@@ -69,7 +69,7 @@
 					<div class="span7">
 						<ol>
 							<li>
-								<p class="spacer">Creación de <b>personas</b> para representar los 3 perfiles principales detectados.</p>
+								<p>Creación de <b>personas</b> para representar los 3 perfiles principales detectados.</p>
 								<div class="centered">
 									<img src="../../images/museoAlmeria_personas.png" alt="Personas" />
 								</div>
