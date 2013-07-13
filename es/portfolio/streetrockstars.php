@@ -68,9 +68,9 @@
 								</div>
 							</li>
 						</ol>
-					<li><p class="spacer">Creación de un <b>prototipo interactivo</b> simple y <b>pruebas de usuario</b> sobre las funcionalidades básicas. Varias iteraciones con rediseños.</p></li>
+					<li><p class="spacer">Definir las funcionalidades básicas, creación de un <b>prototipo interactivo</b> simple usando Axure y <b>pruebas de usuario</b>.</p></li>
 					<li>
-						<p class="spacer"><b>Ir refinando</b> los prototipos usando Axure hasta obtener una versión que se adapta .</p>
+						<p class="spacer"><b>Ir refinando</b> los prototipos hasta obtener una versión que es intuitiva para los usuarios.</p>
 						<div class="centered">
 							<img src="../../images/streetrockstars_high_fidelity.png" alt="" />
 						</div>
