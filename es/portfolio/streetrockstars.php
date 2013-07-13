@@ -37,69 +37,46 @@
 		<!-- Design Process -->
 		<div class="row">
 			<div class="span12">
-				<h3>Proceso de Diseño</h3>
+				<h3 style="color:gray;">Proceso de Diseño</h3>
 			</div>
-			<div class="span6">
+			<div class="span7">
 				<ol>
-					<li><p class="spacer"><b>Observación</b> en la calle de gente que grababa las actuaciones de músicos callejeros: edad aproximada, género, nacionalidad, etc. Entrevistas con personas que encajaban en esa descripción.</p></li>
-					<li><p class="spacer">Creación de 2 <b>personas</b> (una primaria y una secundaria) y de <b>escenarios</b> típicos para cada uno de ellos. Generación de una lista de funcionalidades necesarias.</p></li>
+					<li>
+						<p class="spacer"><b>Observación</b> en la calle del tipo de gente que se acerca a escuchar a los músicos callejeros: edad aproximada, género, nacionalidad, etc. Entrevistas con personas que encajaban en esa descripción.</p>
+						<div class="centered">
+							<img src="../../images/streetrockstars_observation.png" alt="Personas" />
+							<p class="centered muted">Una de las actuaciones observadas.</p>
+						</div>
+					</li>
+					<li>
+						<p class="spacer">Creación de 2 <b>personas</b> (una primaria y una secundaria) y de <b>escenarios</b> típicos para cada uno de ellos. Generación de una lista de funcionalidades necesarias.</p>
+						<div class="centered">
+							<img src="../../images/streetrockstars_persona1.png" alt="Personas" />
+						</div>
+					</li>
 					<li><p class="spacer">Comenzar a definir la <b>Arquitectura de la Información</b>:</p></li>
 						<ol type="a">
 							<li><p>Generación de <b>Blueprints</b> o Sitemaps.</p></li>
-							<li><p>Primeros <b>sketches en papel</b> con posibles alternativas de representación.</p></li>
-							<li><p>Selección de las representaciones más apropiadas y desarrollo de <b>wireframes</b> más detallados, usando Balsamiq Mockups.</p></li>
+							<li>
+								<p>Primeros <b>sketches en papel</b> con posibles alternativas de representación.</p>
+							</li>
+								
+							<li>
+								<p>Selección de las representaciones más apropiadas y desarrollo de <b>wireframes</b> más detallados, usando Balsamiq Mockups.</p>
+								<div class="centered">
+									<img src="../../images/streetrockstars_low_fidelity.png" alt="" />
+								</div>
+							</li>
 						</ol>
 					<li><p class="spacer">Creación de un <b>prototipo interactivo</b> simple y <b>pruebas de usuario</b> sobre las funcionalidades básicas. Varias iteraciones con rediseños.</p></li>
-					<li><p class="spacer"><b>Añadir más detalles</b> a los wireframes usando Adobe Fireworks y a los prototipos usando Axure.</p></li>
-					<li><p class="spacer"><b>Evaluación Heurística</b>. Pruebas de cambios y aspectos concretos.</p></li>
-					<li><p class="spacer">Implementación.</p></li>
+					<li>
+						<p class="spacer"><b>Ir refinando</b> los prototipos usando Axure hasta obtener una versión que se adapta .</p>
+						<div class="centered">
+							<img src="../../images/streetrockstars_high_fidelity.png" alt="" />
+						</div>
+					</li>
+					<li><p>Implementación.</p></li>
 				</ol>
-			</div>
-			<div class="span6">
-				<!-- <img src="http://placehold.it/500x350"> -->
-
-				<div id="myCarousel" class="carousel slide">
-					<ol class="carousel-indicators">
-					    <li data-target="#myCarousel" data-slide-to="0"></li>
-					    <li data-target="#myCarousel" data-slide-to="1"></li>
-					    <li data-target="#myCarousel" data-slide-to="2" class="active"></li>
-					    <li data-target="#myCarousel" data-slide-to="3"></li>
-					</ol>
-
-					<!-- Carousel items -->  
-				    <div class="carousel-inner">  
-				    	<div class="item">
-				        	<img src="../../images/streetrockstars_persona1.png" alt="Primary Persona" />
-				        	<div class="carousel-caption">
-				        		<p>Persona Primaria</p>
-				        	</div>
-				        </div>  
-				        <div class="item">
-				        	<img src="../../images/streetrockstars_ia.png" alt="Information Architecture definition" />
-				        	<div class="carousel-caption">
-				        		<p>Blueprint con las distintas partes del sitio y las relaciones entre ellas.</p>
-				        	</div>
-				        </div>  
-				        
-				        <div class="item active">
-				        	<img src="../../images/streetrockstars_wf1.png" alt="Low-fidelity wireframe" />
-				        	<div class="carousel-caption">
-				        		<p>Wireframe de baja fidelidad creado usando Balsamiq Mockups</p>
-				        	</div>
-				        </div>
-				        <div class="item">
-				        	<img src="../../images/streetrockstars_wf2.png" alt="Mid-fidelity wireframe" />
-				        	<div class="carousel-caption">
-				        		<p>Wireframe más detallado construído usando Axure RP, teniendo en cuenta el feedback de los usuarios.</p>
-				        	</div>
-				        </div>   
-				  	</div>  
-				  	<!-- Carousel nav -->  
-				  	<a class="carousel-control left" href="#myCarousel" data-slide="prev">‹</a>  
-				  	<a class="carousel-control right" href="#myCarousel" data-slide="next">›</a>  
-				</div>  
-
-
 			</div>
 		</div>
 
@@ -108,9 +85,9 @@
 		<!-- Tools Used -->
 		<div class="row">
 			<div class="span12">
-				<h3>Herramientas Usadas</h3>
+				<h3 style="color:gray;">Herramientas Usadas</h3>
 			</div>
-			<div class="offset4 span4">
+			<div class="offset2 span4">
 				<!-- <img src="http://placehold.it/700x150"> -->
 				<table class="table table-bordered">
 					<tr>
@@ -136,7 +113,7 @@
 
 		<div class="row">
 			<div class="span12">
-				<h3>Detalles</h3>
+				<h3 style="color:gray;">Detalles</h3>
 			</div>
 			<div class="span12">
 				<dl class="dl-horizontal">
