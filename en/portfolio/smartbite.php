@@ -43,7 +43,7 @@
 		<!-- Design Opportunity -->
 		<div class="row">
 			<div class="span12">
-				<h3 style="color:gray">Design opportunity</h3>
+				<h3>Design opportunity</h3>
 			</div>
 			<div class="span6">
 				<p>The first part of this project was to find not covered needs and design opportunities around me, related to a topic up to me. 
@@ -68,7 +68,7 @@
 		<!-- Design Process -->
 		<div class="row">
 			<div class="span7">
-				<h3 style="color:gray">Process</h3>
+				<h3>Process</h3>
 			</div>
 			<div class="span7">
 				<p>After having detected several opportunities for improvement, I started designing a solution to solve those problems. For doing that I followed these steps:</p>
@@ -122,7 +122,7 @@
 		<!-- Tools Used -->
 		<div class="row">
 			<div class="span7">
-				<h3 style="color:gray">Tools used</h3>
+				<h3>Tools used</h3>
 			</div>
 			<div class="offset2 span4">
 				<!-- <img src="http://placehold.it/700x150"> -->
@@ -144,7 +144,7 @@
 
 		<div class="row">
 			<div class="span12">
-				<h3 style="color:gray">Details</h3>
+				<h3>Details</h3>
 			</div>
 			<div class="span12">
 				<dl class="dl-horizontal">

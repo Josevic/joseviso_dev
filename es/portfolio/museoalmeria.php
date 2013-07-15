@@ -41,7 +41,7 @@
 		<!-- Design Opportunity -->
 		<div class="row">
 			<div class="span12">
-				<h3 style="color:gray;">Oportunidad de diseño y estrategia</h3>
+				<h3>Oportunidad de diseño y estrategia</h3>
 				<div class="row">
 					<div class="span7">
 						<p>Tras una primera visita al museo para buscar posibles necesidades no cubiertas y oportunidades de diseño, se obtuvieron las siguientes:</p>
@@ -64,7 +64,7 @@
 		<!-- Design Process -->
 		<div class="row">
 			<div class="span12">
-				<h3 style="color:gray;">Proceso seguido</h3>
+				<h3>Proceso seguido</h3>
 				<div class="row">
 					<div class="span7">
 						<ol>
@@ -138,7 +138,7 @@
 		<!-- Tools Used -->
 		<div class="row">
 			<div class="span12">
-				<h3 style="color:gray;">Herramientas usadas</h3>
+				<h3>Herramientas usadas</h3>
 			</div>
 			<div class="offset2 span4">
 				<!-- <img src="http://placehold.it/700x150"> -->
@@ -160,7 +160,7 @@
 
 		<div class="row">
 			<div class="span12">
-				<h3 style="color:gray;">Detalles</h3>
+				<h3>Detalles</h3>
 			</div>
 			<div class="span12">
 				<dl class="dl-horizontal">

@@ -36,7 +36,7 @@
 		<!-- Design Process -->
 		<div class="row">
 			<div class="span12">
-				<h3 style="color:gray;">Design process</h3>
+				<h3>Design process</h3>
 			</div>
 			<div class="span7">
 				<ol>

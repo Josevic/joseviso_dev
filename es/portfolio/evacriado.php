@@ -42,7 +42,7 @@
 		<!-- Design Opportunity -->
 		<div class="row">
 			<div class="span12">
-				<h3 style="color:gray;">Oportunidad de diseño y estrategia</h3>
+				<h3>Oportunidad de diseño y estrategia</h3>
 				<div class="row">
 					<div class="span7">
 						<p>Este centro de belleza y masaje me contactó con la necesidad de rediseñar su página web para intentar llegar mejor a sus clientes actuales,
@@ -68,7 +68,7 @@
 		<!-- Design Process -->
 		<div class="row">
 			<div class="span12">
-				<h3 style="color:gray;">Proceso seguido</h3>
+				<h3>Proceso seguido</h3>
 				<div class="row">
 					<div class="span7">
 						<ol>
@@ -170,7 +170,7 @@
 		<!-- Tools Used -->
 		<div class="row">
 			<div class="span12">
-				<h3 style="color:gray;">Herramientas usadas</h3>
+				<h3>Herramientas usadas</h3>
 				<div class="row">
 					<div class="offset2 span4">
 						<!-- <img src="http://placehold.it/700x150"> -->
@@ -207,7 +207,7 @@
 
 		<div class="row">
 			<div class="span12">
-				<h3 style="color:gray;">Detalles</h3>
+				<h3>Detalles</h3>
 				<div class="row">
 					<div class="span12">
 						<dl class="dl-horizontal">

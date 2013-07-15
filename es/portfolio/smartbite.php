@@ -43,7 +43,7 @@
 		<!-- Design Opportunity -->
 		<div class="row">
 			<div class="span12">
-				<h3 style="color:gray">Oportunidad de diseño</h3>
+				<h3>Oportunidad de diseño</h3>
 			</div>
 			<div class="span6">
 				<p>La primera parte de este proyecto fue buscar necesidades no cubiertas u oportunidades de diseño a mi alrededor relacionadas a un tema a mi elección. 
@@ -68,7 +68,7 @@
 		<!-- Design Process -->
 		<div class="row">
 			<div class="span7">
-				<h3 style="color:gray">Proceso seguido</h3>
+				<h3>Proceso seguido</h3>
 			</div>
 			<div class="span7">
 				<p>Tras haber detectado una serie de oportunidades de mejora, comencé a diseñar una solución que resolviese dichos problemas. Para ello seguí los siguientes pasos:</p>
@@ -121,7 +121,7 @@
 		<!-- Tools Used -->
 		<div class="row">
 			<div class="span7">
-				<h3 style="color:gray">Herramientas usadas</h3>
+				<h3>Herramientas usadas</h3>
 			</div>
 			<div class="offset2 span4">
 				<!-- <img src="http://placehold.it/700x150"> -->
@@ -143,7 +143,7 @@
 
 		<div class="row">
 			<div class="span12">
-				<h3 style="color:gray">Detalles</h3>
+				<h3>Detalles</h3>
 			</div>
 			<div class="span12">
 				<dl class="dl-horizontal">

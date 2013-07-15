@@ -41,7 +41,7 @@
 		<!-- Design Opportunity -->
 		<div class="row">
 			<div class="span12">
-				<h3 style="color:gray;">Design opportunity</h3>
+				<h3>Design opportunity</h3>
 				<div class="row">
 					<div class="span7">
 						<p>I made a visit to the museum to find not covered needs and design opportunities, and I got the following:</p>
@@ -63,7 +63,7 @@
 		<!-- Design Process -->
 		<div class="row">
 			<div class="span12">
-				<h3 style="color:gray;">Process</h3>
+				<h3>Process</h3>
 				<div class="row">
 					<div class="span7">
 						<ol>
@@ -141,7 +141,7 @@
 		<!-- Tools Used -->
 		<div class="row">
 			<div class="span12">
-				<h3 style="color:gray;">Tools used</h3>
+				<h3>Tools used</h3>
 			</div>
 			<div class="offset2 span4">
 				<!-- <img src="http://placehold.it/700x150"> -->
@@ -163,7 +163,7 @@
 
 		<div class="row">
 			<div class="span12">
-				<h3 style="color:gray;">Details</h3>
+				<h3>Details</h3>
 			</div>
 			<div class="span12">
 				<dl class="dl-horizontal">

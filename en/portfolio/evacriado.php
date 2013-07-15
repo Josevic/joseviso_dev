@@ -42,7 +42,7 @@
 		<!-- Design Opportunity -->
 		<div class="row">
 			<div class="span12">
-				<h3 style="color:gray;">Design opportunity and Strategy</h3>
+				<h3>Design opportunity and Strategy</h3>
 				<div class="row">
 					<div class="span7">
 						<p>This beauty center contacted me because they had the need to redesign their webpage to try to reach in a better way their current clients, and wanted to gain new ones with different characteristics.</p>
@@ -65,7 +65,7 @@
 		<!-- Design Process -->
 		<div class="row">
 			<div class="span12">
-				<h3 style="color:gray;">Process</h3>
+				<h3>Process</h3>
 				<div class="row">
 					<div class="span7">
 						<ol>
@@ -168,7 +168,7 @@
 		<!-- Tools Used -->
 		<div class="row">
 			<div class="span12">
-				<h3 style="color:gray;">Tools used</h3>
+				<h3>Tools used</h3>
 				<div class="row">
 					<div class="offset2 span4">
 						<!-- <img src="http://placehold.it/700x150"> -->
@@ -205,7 +205,7 @@
 
 		<div class="row">
 			<div class="span12">
-				<h3 style="color:gray;">Details</h3>
+				<h3>Details</h3>
 				<div class="row">
 					<div class="span12">
 						<dl class="dl-horizontal">

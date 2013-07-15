@@ -37,12 +37,12 @@
 		<!-- Design Process -->
 		<div class="row">
 			<div class="span12">
-				<h3 style="color:gray;">Proceso de Diseño</h3>
+				<h3>Proceso de Diseño</h3>
 			</div>
 			<div class="span7">
 				<ol>
 					<li>
-						<p class="spacer"><b>Observación</b> en la calle del tipo de gente que se acerca a escuchar a los músicos callejeros: edad aproximada, género, nacionalidad, etc. Entrevistas con personas que encajaban en esa descripción.</p>
+						<p><b>Observación</b> en la calle del tipo de gente que se acerca a escuchar a los músicos callejeros: edad aproximada, género, nacionalidad, etc. Entrevistas con personas que encajaban en esa descripción.</p>
 						<div class="centered">
 							<img src="../../images/streetrockstars_observation.png" alt="Personas" />
 							<p class="centered muted">Una de las actuaciones observadas.</p>
@@ -85,7 +85,7 @@
 		<!-- Tools Used -->
 		<div class="row">
 			<div class="span12">
-				<h3 style="color:gray;">Herramientas Usadas</h3>
+				<h3>Herramientas Usadas</h3>
 			</div>
 			<div class="offset2 span4">
 				<!-- <img src="http://placehold.it/700x150"> -->
@@ -113,7 +113,7 @@
 
 		<div class="row">
 			<div class="span12">
-				<h3 style="color:gray;">Detalles</h3>
+				<h3>Detalles</h3>
 			</div>
 			<div class="span12">
 				<dl class="dl-horizontal">
