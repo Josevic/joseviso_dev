@@ -62,7 +62,7 @@
 		$projects = array(
 		 			"smartbite" 		 => "SmartBite",
 		 			"evacriado" 		 => "Eva Criado",
-		 			"museoalmeria" 		 => "Museum of Almería Kiosk",
+		 			"museumalmeria" 		 => "Museum of Almería Kiosk",
 		 			//"renfe"				 => "Usability study - Renfe.com",
 		 			"streetrockstars" 	 => "Street Rockstars",
 		 			"schiphol"			 => "Schiphol"
@@ -83,7 +83,7 @@
 		$interaction_design = array(
 		 			"smartbite" 		 => "SmartBite",
 		 			"evacriado" 		 => "Eva Criado",
-		 			"museoalmeria" 		 => "Museum of Almería Kiosk",
+		 			"museumalmeria" 		 => "Museum of Almería Kiosk",
 		 			//"renfe"				 => "Usability study - Renfe.com",
 		 			"streetrockstars" 	 => "Street Rockstars",
 		 		);
