@@ -53,13 +53,13 @@
 	  /* Functions to show or hide social network accounts little used */
 	  $(document).ready(function(){
 		  	$("#button_show").click(function(){
-		    	$("#other_sn").show();
+		    	$("#other_sn").fadeIn(400);
 		    	$("#button_show").hide();
 		    	$("#button_hide").show();
 		  	});
 
 		  	$("#button_hide").click(function(){
-		  		$("#other_sn").hide();
+		  		$("#other_sn").fadeOut(400);
 		  		$("#button_show").show();
 		  		$("#button_hide").hide();
 		  	});
