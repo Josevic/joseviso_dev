@@ -19,15 +19,13 @@
 
 		<div class="row">
 			<div class="span7">	
-				<!-- <p class="lead">contact@joseviso.com</p> -->
 				<h3><a href="mailto:contact@joseviso.com">contact@joseviso.com</a></h3>
 			</div>
 		</div>
 
 		<div class="row">
 			<div class="span7">	
-				<!-- <p class="lead">+34 687 352 837</p> -->
-				<h3>+34 687 352 837</h3>
+				<h3><a href="tel:+34687352837">+34 687 352 837</a></h3>
 			</div>
 		</div>
 		
