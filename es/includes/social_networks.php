@@ -90,6 +90,22 @@
 					      </a>
 					    </div>
 					  </li>
+					  <li class="span1">
+					    <div class="thumbnail">
+					      <a href="http://www.github.com/Josevic">
+					      	<img src="../images/icons/PNG/64x64/github.png" alt="">
+					      	<p>GitHub</p>
+					      </a>
+					    </div>
+					  </li>
+					  <li class="span1">
+					    <div class="thumbnail">
+					      <a href="http://www.instagram.com/Iniestovic">
+					      	<img src="../images/icons/PNG/64x64/instagram.png" alt="">
+					      	<p>Instagram</p>
+					      </a>
+					    </div>
+					  </li>
 				</ul>			
 		</div>
 	</div>
