@@ -56,9 +56,14 @@
 					<li><p class="spacer">Definition of the <b>Information Architecture</b>:</p></li>
 						<ol type='a'>
 							<li><p><b>Blueprints</b> or Sitemaps generation.</p></li>
-							<li><p>Firsts <b>sketches in paper</b> with possible alternative representations.</p></li>
 							<li>
-								<p>Selection of the most appropriate representations and develop <b>wireframes</b> in more detail, using Balsamiq Mockups.</p>
+								<p>Firsts <b>sketches in paper</b> with possible alternative representations.</p>
+								<div class="centered">
+									<img src="../../images/streetrockstars_papersketch.JPG" alt="" />
+								</div>
+							</li>
+							<li>
+								<p class="spacer">Selection of the most appropriate representations and develop <b>wireframes</b> in more detail, using Balsamiq Mockups.</p>
 								<div class="centered">
 									<img src="../../images/streetrockstars_low_fidelity.png" alt="" />
 								</div>

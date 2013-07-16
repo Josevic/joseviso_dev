@@ -59,10 +59,13 @@
 							<li><p>Generación de <b>Blueprints</b> o Sitemaps.</p></li>
 							<li>
 								<p>Primeros <b>sketches en papel</b> con posibles alternativas de representación.</p>
+								<div class="centered">
+									<img src="../../images/streetrockstars_papersketch.JPG" alt="" />
+								</div>
 							</li>
 								
 							<li>
-								<p>Selección de las representaciones más apropiadas y desarrollo de <b>wireframes</b> más detallados, usando Balsamiq Mockups.</p>
+								<p class="spacer">Selección de las representaciones más apropiadas y desarrollo de <b>wireframes</b> más detallados, usando Balsamiq Mockups.</p>
 								<div class="centered">
 									<img src="../../images/streetrockstars_low_fidelity.png" alt="" />
 								</div>
