@@ -45,7 +45,7 @@ body {
     float: none; /* this is the part that makes it work */
 }
 
-ul#social_networks_bar .thumbnail {
+ul#social_networks_bar .thumbnail, ul#other_sn .thumbnail {
 	border: 0;
 	box-shadow: 0 0 0 rgba(0, 0, 0, 0);
 }
