@@ -10,68 +10,29 @@
 	    <h1 style="color:gray">Contact</h1>
 	  </div>
 	</header>
-		
-		<form  action="process" method="POST">
-			<div class="row">
-				<div class="span7">
-					<fieldset>
-
-						  <div class="control-group spacer">
-						    
-						    <div class="controls">
-						      <input type="text" id="inputName" name="inputName" placeholder="Enter your name" required>
-						    </div>
-						  </div>  
-
-
-						  <div id="emailGroup" class="control-group">
-						    
-						    <div class="controls">
-						      <input type="email" name="inputEmail" placeholder="Enter your email" required>
-						    </div>
-						  </div>
-
-						  <div class="control-group">
-						    
-						    <div class="controls">
-						      <textarea name="inputMessage" rows="7" class="field span4" placeholder="Message you want to send me" required></textarea>
-						    </div>
-						  </div>
-				  
-				  		
-						  <div class="control-group">
-						    <div class="controls">
-						      <button type="submit" name="sent" class="btn btn-primary">Send Message!</button>
-						    </div>
-						  </div>
-					</fieldset>
-				</div>
-			</div>
-		</form>
-		<hr/>
 	
-		<div class="row">
-			<div class="span7">
-				<p class="lead" style="margin-top:12px;"><small class="muted">Email:</small> <strong>contact@joseviso.com</strong></p>	
-			</div>
-		</div>
-		
-
-		<div class="row visible-phone contact-method">
-			<div class="offset1 span7">
-				<p class="lead" style="margin-top:12px;"><small class="muted">Tel:</small> <a href="tel:+34687352837">+34 <strong>687 352 837</strong></a><p/>	
+		<div class="row spacer">
+			<div class="span7">	
+				<p class="lead">Send me an email, speak with me by phone or find me in any of the social networks and other popular sites I use. I will reply back soon :)</p>
 			</div>
 		</div>
 
-		<div class="row hidden-phone contact-method">
-			<div class="span7">
-				<p class="lead" style="margin-top:12px;"><small class="muted">Tel:</small> +34 <strong>687 352 837</strong><p/>
+		<div class="row">
+			<div class="span7">	
+				<!-- <p class="lead">contact@joseviso.com</p> -->
+				<h3><a href="mailto:contact@joseviso.com">contact@joseviso.com</a></h3>
 			</div>
 		</div>
-		<hr/>
+
+		<div class="row">
+			<div class="span7">	
+				<!-- <p class="lead">+34 687 352 837</p> -->
+				<h3>+34 687 352 837</h3>
+			</div>
+		</div>
 		
 		<div class="row">
-			<div class="span10">
+			<div class="span7">
 				
 				<?php include("includes/social_networks.php"); ?>
 			</div>
