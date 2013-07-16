@@ -1,7 +1,7 @@
-	<p class="pull-right to-top"><a href="#top"><img src="<?php echo $base;?>/images/icons/PNG/arrow-up48.png" title="Go to Top"/></a></p>
-</div>
-
 	<?php if (!strpos($_SERVER['PHP_SELF'], 'contact.php')): ?>
+		<p class="pull-right to-top"><a href="#top"><img src="<?php echo $base;?>/images/icons/PNG/arrow-up48.png" title="Go to Top"/></a></p>
+	</div>
+	
 	<hr/>
 	<footer>
 		<div class="container">
@@ -50,6 +50,20 @@
 		    });
 	  });
 
+	  /* Functions to show or hide social network accounts little used */
+	  $(document).ready(function(){
+		  	$("#button_show").click(function(){
+		    	$("#other_sn").show();
+		    	$("#button_show").hide();
+		    	$("#button_hide").show();
+		  	});
+
+		  	$("#button_hide").click(function(){
+		  		$("#other_sn").hide();
+		  		$("#button_show").show();
+		  		$("#button_hide").hide();
+		  	});
+	   });
 	</script>
 
   </body>
