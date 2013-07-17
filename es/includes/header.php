@@ -34,9 +34,10 @@
 		   
 	       <div class="nav-collapse collapse" id="main-menu">
 		       <ul class="nav" id="main-menu-left">
-		       	  <li <?php if (strpos($_SERVER['PHP_SELF'], 'index.php') && !strpos($_SERVER['PHP_SELF'], 'portfolio')) echo 'class="active"';?>><a href="<?php echo $base;?>/en/">Inicio</a></li>
+		       	  <li <?php if (strpos($_SERVER['PHP_SELF'], 'index.php') && !strpos($_SERVER['PHP_SELF'], 'portfolio')) echo 'class="active"';?>><a href="<?php echo $base;?>/es/">Inicio</a></li>
 		          <li <?php if (strpos($_SERVER['PHP_SELF'], 'sobre-mi.php')) echo 'class="active"';?>><a href="<?php echo $base;?>/es/sobre-mi">Sobre mí</a></li>
 				  <li <?php if (strpos($_SERVER['PHP_SELF'], 'portfolio')) echo 'class="active"';?>><a href="<?php echo $base;?>/es/portfolio">Portfolio</a></li>
+				  <li><a href="http://joseviso.tumblr.com" target="_blank">Blog</a></li>
 				  <li <?php if (strpos($_SERVER['PHP_SELF'], 'contacto.php')) echo 'class="active"';?>><a href="<?php echo $base;?>/es/contacto">Contacto</a></li>
 		       </ul>
 
