@@ -34,7 +34,11 @@
 
  <footer>
 	<div class="container spacer">
-		<p class="muted credit"><small>contacto@joseviso.com · <a href="http://facebook.com/joseviso" title="Mi página de Facebook"><img src="../images/icons/PNG/facebook-32.png" onmouseover="this.src='../images/icons/PNG/facebook-hover.png'" onmouseout="this.src='../images/icons/PNG/facebook-32.png'"/></a> · <a href="http://twitter.com/XoseViso" title="Mi cuenta de Twitter"><img src="../images/icons/PNG/twitter-32.png" onmouseover="this.src='../images/icons/PNG/twitter-hover.png'" onmouseout="this.src='../images/icons/PNG/twitter-32.png'"/></a></small></p>
+		<p class="muted credit">
+			<a href="mailto:contacto@joseviso.com" title="Mi correo"><img src="../images/icons/PNG/mail.png" onmouseover="this.src='../images/icons/PNG/mail-hover.png'" onmouseout="this.src='../images/icons/PNG/mail.png'"/></a>&nbsp;
+			<a href="http://facebook.com/joseviso" title="Mi página de Facebook"><img src="../images/icons/PNG/facebook-32.png" onmouseover="this.src='../images/icons/PNG/facebook-hover.png'" onmouseout="this.src='../images/icons/PNG/facebook-32.png'"/></a>&nbsp;
+			<a href="http://twitter.com/XoseViso" title="Mi cuenta de Twitter"><img src="../images/icons/PNG/twitter-32.png" onmouseover="this.src='../images/icons/PNG/twitter-hover.png'" onmouseout="this.src='../images/icons/PNG/twitter-32.png'"/></a>
+		</p>
 	</div>
  </footer>
 
