@@ -164,7 +164,7 @@
 			</div>
 			<div class="span12">
 				<dl class="dl-horizontal">
-				  <dt>Fecha de Realización</dt>
+				  <dt>Fecha</dt>
 				  <dd>Marzo - Mayo 2013</dd>
 				  <dt>Etiquetas</dt>
 				  <dd>
