@@ -20,7 +20,7 @@
 		
 		<!-- Summary -->
 		<div class="row spacer">
-			<div class="span9">
+			<div class="span8">
 						<p class="lead"><em>Street Rockstars</em> is a project that tries to collect the best street musicians around the world. It is not about rock but of creating a place to find those strangers playing in the street and nobody, a part of the people passing near in that moment see.</p>
 						<br/>
 						<div class="video-container hidden-phone">
