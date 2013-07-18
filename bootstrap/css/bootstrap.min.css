@@ -11,23 +11,29 @@
 body {
   padding-top: 60px;
 }
+@media (min-width: 979px) {
+	.home-active {
+		background-color: orange;
+	}
+
+	.home-active strong{
+		color: white;
+	}
+
+	.navbar .nav .active a {
+		background-color: orange;
+	}
+
+}
 @media (max-width: 979px) {
   body {
     padding-top: 0px;
   }
 }
 
-.home-active {
-	background-color: orange;
-}
 
-.home-active strong{
-	color: white;
-}
 
-.navbar .nav .active a {
-	background-color: orange;
-}
+
 
 .spacer {
 	margin-top: 30px;
