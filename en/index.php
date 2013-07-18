@@ -8,26 +8,26 @@
 		<div class="row"> 
 			<div class="span12 visible-desktop">
 				<p class="spacer" id="presentation_desktop">
-					<span class="big-word"><strong>Useful</strong></span><br/>
-					<span class="big-word"><strong>Simple</strong></span><br/>
-					<span class="big-word"><strong>Easy to use</strong></span><br/>
+					<span class="big-word"><strong>I make software people love to use.</strong></span>
 				</p>
-				<p class="pull-right lead"><a class="link_presentation" href="about">More info</a></p>	
+				<p class="pull-right">
+					<a class="lead link_presentation" href="about"><strong>More info</strong></a>
+				</p>
 			</div>
 			<div class="span12 visible-tablet">
 				<p id="presentation_tablet">
-					<span class="big-word"><strong>Useful</strong></span><br/>
-					<span class="big-word"><strong>Simple</strong></span><br/>
-					<span class="big-word"><strong>Easy to use</strong></span><br/>
-					<p class="pull-right lead"><a class="link_presentation" href="about">More info</a></p>	
+					<span class="big-word"><strong>I make software people love to use.</strong></span>
+				</p>
+				<p class="pull-right">
+					<a class="lead link_presentation" href="about"><strong>More info</strong></a>
 				</p>
 			</div>
 			<div class="span12 visible-phone">
 				<p id="presentation_phone">
-					<span class="big-word"><strong>Useful</strong></span><br/>
-					<span class="big-word"><strong>Simple</strong></span><br/>
-					<span class="big-word"><strong>Easy to use</strong></span><br/>
-					<p class="pull-right"><a class="link_presentation" href="about">More info</a></p>	
+					<span class="big-word"><strong>I make software people love to use.</strong></span>
+				</p>
+				<p class="pull-right">
+					<a class="link_presentation" href="about"><strong>More info</strong></a>
 				</p>
 			</div>
 		</div>

@@ -77,20 +77,20 @@ ul#social_networks_bar .thumbnail, ul#other_sn .thumbnail {
  }
 
  #presentation_desktop {
- 	font-size: 9.5em;
+ 	font-size: 9em;
  	line-height: 1.2em;
  	font-family: helvetica;
  }
 
  #presentation_tablet {
- 	font-size: 6em;
- 	line-height: 1.5em;
+ 	font-size: 6.5em;
+ 	line-height: 1.2em;
  	font-family: helvetica;
  }
 
  #presentation_phone {
  	font-size: 3em;
- 	line-height: 1.5em;
+ 	line-height: 1.2em;
  	font-family: helvetica;
 
  }

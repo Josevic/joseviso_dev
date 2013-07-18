@@ -8,29 +8,31 @@
 	   <div class="row"> 
 			<div class="span12 visible-desktop">
 				<p class="spacer" id="presentation_desktop">
-					<span class="big-word"><strong>Útil</strong></span><br/>
-					<span class="big-word"><strong>Simple</strong></span><br/>
-					<span class="big-word"><strong>Fácil de usar</strong></span><br/>
+					<span class="big-word"><strong>Creo software que a la gente le gusta usar.</strong></span>
 				</p>
-				<p class="pull-right lead"><a class="link_presentation" href="sobre-mi">Más información</a></p>	
+				<p class="pull-right">
+					<a class="lead link_presentation" href="about"><strong>Más info</strong></a>
+				</p>
 			</div>
 			<div class="span12 visible-tablet">
 				<p id="presentation_tablet">
-					<span class="big-word"><strong>Útil</strong></span><br/>
-					<span class="big-word"><strong>Simple</strong></span><br/>
-					<span class="big-word"><strong>Fácil de usar</strong></span><br/>
-					<p class="pull-right lead"><a class="link_presentation" href="sobre-mi">Más información</a></p>	
+					<span class="big-word"><strong>Creo software que a la gente le gusta usar.</strong></span>
+				</p>
+				<p class="pull-right">
+					<a class="lead link_presentation" href="about"><strong>Más info</strong></a>
 				</p>
 			</div>
 			<div class="span12 visible-phone">
 				<p id="presentation_phone">
-					<span class="big-word"><strong>Útil</strong></span><br/>
-					<span class="big-word"><strong>Simple</strong></span><br/>
-					<span class="big-word"><strong>Fácil de usar</strong></span><br/>
-					<p class="pull-right"><a class="link_presentation" href="sobre-mi">Más información</a></p>	
+					<span class="big-word"><strong>Creo software que a la gente le gusta usar.</strong></span>
+				</p>
+				<p class="pull-right">
+					<a class="link_presentation" href="about"><strong>Más info</strong></a>
 				</p>
 			</div>
 		</div>
+
+ </div>
 
  <footer>
 	<div class="container spacer">
