@@ -25,6 +25,10 @@ body {
 	color: white;
 }
 
+.navbar .nav .active a {
+	background-color: orange;
+}
+
 .spacer {
 	margin-top: 30px;
 }
