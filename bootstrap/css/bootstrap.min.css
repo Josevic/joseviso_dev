@@ -17,6 +17,14 @@ body {
   }
 }
 
+.home-active {
+	background-color: orange;
+}
+
+.home-active strong{
+	color: white;
+}
+
 .spacer {
 	margin-top: 30px;
 }

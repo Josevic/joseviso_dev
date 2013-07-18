@@ -33,11 +33,11 @@
 		        <span class="">Menu</span>
 		        <span class="icon-chevron-down icon-white"></span>
 		    </a>
-	       <a class="brand" href="<?php echo $base; ?>"><b>José Viso</b></a>   
+	       <a class="brand <?php if (strpos($_SERVER['PHP_SELF'], 'index.php') && !strpos($_SERVER['PHP_SELF'], 'portfolio')) echo 'home-active';?>" href="<?php echo $base; ?>"><strong>José Viso</strong></a>   
 		   
 	       <div class="nav-collapse collapse" id="main-menu">
 		       <ul class="nav">
-  				  <li <?php if (strpos($_SERVER['PHP_SELF'], 'index.php') && !strpos($_SERVER['PHP_SELF'], 'portfolio')) echo 'class="active"';?>><a href="<?php echo $base;?>/en/">Home</a></li>
+  				  
 		          <li <?php if (strpos($_SERVER['PHP_SELF'], 'about.php')) echo 'class="active"';?>><a href="<?php echo $base;?>/en/about">About</a></li>
 				  <li <?php if (strpos($_SERVER['PHP_SELF'], 'portfolio')) echo 'class="active"';?>><a href="<?php echo $base;?>/en/portfolio">Portfolio</a></li>
 				  <li><a href="http://joseviso.tumblr.com" target="_blank">Blog</a></li>
