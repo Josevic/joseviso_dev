@@ -62,10 +62,10 @@
 		/* Inclusion of the different projects in each subnav category */
 
 		$projects = array(
-		 			"smartbite" 		 => "SmartBite",
-		 			"evacriado" 		 => "Eva Criado",
-		 			"museoalmeria"       => "Kiosco Museo Almería",
 		 			"streetrockstars" 	 => "Street Rockstars",
+		 			"museoalmeria"       => "Kiosco Museo Almería",
+		 			"evacriado" 		 => "Eva Criado",
+		 			"smartbite" 		 => "SmartBite",
 		 			"schiphol"			 => "Schiphol"
 		 		);
 		
