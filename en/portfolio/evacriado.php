@@ -73,7 +73,7 @@
 								<p>
 									<b>Heuristic Evaluation</b> of the existing website to detect problems. Deep evaluation considering the <a href="http://www.useit.com/papers/heuristic/heuristic_list.html">10 Usability Heuristics</a> by <a href="http://en.wikipedia.org/wiki/Jakob_Nielsen_(usability_consultant)">Jakob Nielsen</a>, noting the severity and importance of each one of them.
 								</p>
-								<p>**<a href="HE_EvaSpa.pdf">Download the heuristic evaluation</a>**.</p>
+								<p>**<a href="HE_EvaSpa.pdf">Check out the heuristic evaluation</a>**.</p>
 									<!-- 
 									<div class="centered">
 
@@ -95,12 +95,12 @@
 							
 							<li>
 								<p class="spacer">
-									To <b/>know roughly the domain field</b>: General research about this area, what are the different treatments and services that appear in the website and what the business do.
+									<b/>Know roughly the domain field</b>: General research about this area, what are the different treatments and services that appear in the website and what the business do.
 								</p>
 							</li>
 							<li>
 								<p class="spacer">
-									To <b>know the goals and the clients</b> of the business. Creation of personas and storyboards.
+									<b>Know the goals and the clients</b> of the business. Creation of personas and storyboards.
 								</p>
 									<div class="centered">
 												<a data-toggle="lightbox" href="#persona1_big">
@@ -150,7 +150,7 @@
 								</p>
 							</li>
 							<li>
-								<p class="spacer">User tests and a lot of iterations.</p>
+								<p class="spacer">User tests and several iterations.</p>
 								<p>For this project I made use of a <b>sketchboard</b>, for self-use and communicating with the client.
 									<div class="centered">
 										<img src="../../images/sketchboard.jpg" alt="Sketchboard" />

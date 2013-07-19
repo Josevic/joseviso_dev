@@ -57,28 +57,28 @@
 						<ol type='a'>
 							<li><p><b>Blueprints</b> or Sitemaps generation.</p></li>
 							<li>
-								<p>Firsts <b>sketches in paper</b> with possible alternative representations.</p>
+								<p>Firsts <b>sketches in paper</b> with possible alternative representations. Selected of the most appropriate ones and developed them in more detail.</p>
 								<div class="centered">
 									<img src="../../images/streetrockstars_papersketch.JPG" alt="" />
 								</div>
 							</li>
 							<li>
-								<p class="spacer">Selection of the most appropriate representations and develop <b>wireframes</b> in more detail, using Balsamiq Mockups.</p>
+								<p class="spacer">Created <b>wireframes</b> adding more details, using Balsamiq Mockups.</p>
 								<div class="centered">
 									<img src="../../images/streetrockstars_low_fidelity.png" alt="" />
 								</div>
 							</li>
 						</ol>
 					<li>
-						<p class="spacer">Prioritization of the basic functionalities, creation of a simple <b>interactive prototype</b> using Axure and <b>user tests</b>.</p>
+						<p class="spacer">Prioritization of the basic functionalities, creation of a simple <b>interactive prototype</b> using Axure and <b>user testing</b>.</p>
 					</li>
 					<li>
-						<p class="spacer"><b>Iteration</b> over the prototype until having a version that is intuitive for the users.</p>
+						<p class="spacer"><b>Iteration</b> over the prototype until having a version that was intuitive for the users.</p>
 						<div class="centered">
 							<img src="../../images/streetrockstars_high_fidelity.png" alt="" />
 						</div>
 					</li>
-					<li><p class="spacer">Implementation.</p></li>
+					<li><p class="spacer">Implementation (TO-DO, at this moment it's live the previous version).</p></li>
 				</ol>
 			</div>
 		</div>
@@ -121,7 +121,7 @@
 			<div class="span12">
 				<dl class="dl-horizontal">
 				  <dt>Date</dt>
-				  <dd>Year 2012</dd>
+				  <dd>Year 2012 - 2013</dd>
 				  <dt>Tags</dt>
 				  <dd>
 				      <a href="<?php echo $base . '/en/portfolio/category/user-research'; ?>"><span class="label">User Research</span></a>

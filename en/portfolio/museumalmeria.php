@@ -95,24 +95,24 @@
 							<li>
 								<p class="spacer">Definition of the <b>interaction flows</b> in the application. I identified the main tasks the users needed to do and throught different charts I designed how the application should work.</p>
 								<div class="centered">
-									<img src="../../images/museoAlmeria_flowchart_small.png" alt="Flujos de interacción" />
+									<img src="../../images/museoAlmeria_flowchart_small.png" alt="Interaction flows" />
 								</div>
 							</li>
 							<li>
 								<p class="spacer">Creation of <b>sketches and wireframes</b>. First I tried to get a good number of alternatives for each screen. After that I chose an option and continued developing it with a higher level of fidelity.</p>
 								<div class="centered">
-									<img src="../../images/museoAlmeria_sketches.JPG" alt="Sketch en papel" />
+									<img src="../../images/museoAlmeria_sketches.JPG" alt="Paper sketches" />
 									<p class="centered muted">First sketches of design alternatives for the home screen.</p>
 								</div>
 								<div class="spacer centered">
-									<img src="../../images/museoAlmeria_lowfi_wireframe.png" alt="Primer prototipo" />
+									<img src="../../images/museoAlmeria_lowfi_wireframe.png" alt="Low-fidelity wireframe" />
 									<p class="centered muted">Once an alternative was picked up, I created a version with Balsamiq Mockups ("Home" screen).</p>
 								</div>
 								
 								<div class="spacer centered">
 												
-									<img src="../../images/museoalmeria_hf_wireframe.jpg" alt="Wireframe de alta fidelidad" />
-									<p class="centered muted">High-fidelity version created using OmniGraffle ("Home" screen).</p>
+									<img src="../../images/museoalmeria_hf_wireframe.jpg" alt="Mid-fidelity wireframe" />
+									<p class="centered muted">Mid-fidelity version created using OmniGraffle ("Home" screen).</p>
 
 
 												<a data-toggle="lightbox" href="#annotated_wireframe_big">
