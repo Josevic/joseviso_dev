@@ -34,9 +34,10 @@
 			</div>
 			<div class="span6">
 				<ul>
-					<li><p class="spacer">Integrated social networks functions on mobile website and backend, to connect with the iPhone and Android apps.</p></li>
-					<li><p class="spacer">Developed previously existing notification system, including: email, SMS and push notifications to iPhone and Android apps.</p></li>
+					<li><p class="spacer">Integrated social networks functions (Facebook, Twitter and LinkedIn) on the mobile website and backend, to connect with the iPhone and Android apps.</p></li>
+					<li><p class="spacer">Developed a previously existing notification system, including: email, SMS and push notifications to iPhone and Android apps.</p></li>
 					<li><p class="spacer">Helped to improve the translation system of the mobile website.</p></li>
+					<li><p class="spacer">Developed and optimized other aspects of the internal custom-framework.</p></li>
 				</ul>
 			</div>
 			<div class="span6">
@@ -78,31 +79,37 @@
 		<!-- Tools Used -->
 		<div class="row">
 			<div class="span12">
-				<h3>Tools and methodologies used</h3>
+				<h3>Technical info</h3>
 			</div>
-			<div class="offset4 span4">
+			<div class="offset2 span4">
 				<!-- <img src="http://placehold.it/700x150"> -->
-				<table class="table table-bordered">
+				<table class="table table-bordered table-striped">
 					<tr>
-						<td><p class="centered">PHP</p></td>
+						<td><p>Agile methodology (Scrum)</p></td>
 					</tr>
 					<tr>
-						<td><p class="centered">HTML</p></td>
+						<td><p>PHP</p></td>
 					</tr>
 					<tr>
-						<td><p class="centered">CSS</p></td>
+						<td><p>HTML</p></td>
 					</tr>
 					<tr>
-						<td><p class="centered">Git</p></td>
+						<td><p>CSS</p></td>
 					</tr>
 					<tr>
-						<td><p class="centered"><a href='http://ellislab.com/codeigniter'>CodeIgniter</a>-based framework</p></td>
+						<td><p>Git</p></td>
 					</tr>
 					<tr>
-						<td><p class="centered">Peer Review</p></td>
+						<td><p>MySQL</p></td>
 					</tr>
 					<tr>
-						<td><p class="centered">Scrum</p></td>
+						<td><p><a href='http://ellislab.com/codeigniter'>CodeIgniter</a>-based framework</p></td>
+					</tr>
+					<tr>
+						<td><p>Peer Review</p></td>
+					</tr>
+					<tr>
+						<td><p><a href="http://www.redmine.org/">Redmine</a></p></td>
 					</tr>
   				</table>
 			</div>

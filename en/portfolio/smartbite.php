@@ -126,15 +126,15 @@
 			</div>
 			<div class="offset2 span4">
 				<!-- <img src="http://placehold.it/700x150"> -->
-				<table class="table table-bordered">
+				<table class="table table-bordered table-striped">
 					<tr>
-						<td><p class="centered">Pen and Paper</p></td>
+						<td><p>Pen and Paper</p></td>
 					</tr>
 					<tr>
-						<td><p class="centered">Balsamiq Mockups</p></td>
+						<td><p>Balsamiq Mockups</p></td>
 					</tr>
 					<tr>
-						<td><p class="centered">Justinmind</p></td>
+						<td><p>Justinmind</p></td>
 					</tr>
   				</table>
 			</div>

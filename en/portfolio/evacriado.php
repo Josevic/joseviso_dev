@@ -172,27 +172,27 @@
 				<div class="row">
 					<div class="offset2 span4">
 						<!-- <img src="http://placehold.it/700x150"> -->
-						<table class="table table-bordered">
+						<table class="table table-bordered table-striped">
 							<tr>
-								<td><p class="centered"><a href="http://www.nngroup.com/articles/ten-usability-heuristics/">10 Usability Heuristics</a> (Jakob Nielsen)</p></td>
+								<td><p><a href="http://www.nngroup.com/articles/ten-usability-heuristics/">10 Usability Heuristics</a> (Jakob Nielsen)</p></td>
 							</tr>
 							<tr>
-								<td><p class="centered">Card sorting</p></td>
+								<td><p>Card sorting</p></td>
 							</tr>
 							<tr>
-								<td><p class="centered">Pen and Paper</p></td>
+								<td><p>Pen and Paper</p></td>
 							</tr>
 							<tr>
-								<td><p class="centered">Balsamiq Mockups</p></td>
+								<td><p>Balsamiq Mockups</p></td>
 							</tr>
 							<tr>
-								<td><p class="centered">Axure</p></td>
+								<td><p>Axure</p></td>
 							</tr>
 							<tr>
-								<td><p class="centered">Photoshop</p></td>
+								<td><p>Photoshop</p></td>
 							</tr>
 							<tr>
-								<td><p class="centered">Sketchboard</p></td>
+								<td><p>Sketchboard</p></td>
 							</tr>
 		  				</table>
 					</div>

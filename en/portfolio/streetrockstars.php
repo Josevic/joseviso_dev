@@ -92,21 +92,21 @@
 			</div>
 			<div class="offset2 span4">
 				<!-- <img src="http://placehold.it/700x150"> -->
-				<table class="table table-bordered">
+				<table class="table table-bordered table-striped">
 					<tr>
-						<td><p class="centered">Pen and Paper</p></td>
+						<td><p>Pen and Paper</p></td>
 					</tr>
 					<tr>
-						<td><p class="centered">OmniGraffle</p></td>
+						<td><p>OmniGraffle</p></td>
 					</tr>
 					<tr>
-						<td><p class="centered">Balsamiq Mockups</p></td>
+						<td><p>Balsamiq Mockups</p></td>
 					</tr>
 					<tr>
-						<td><p class="centered">Adobe Fireworks CS5</p></td>
+						<td><p>Adobe Fireworks CS5</p></td>
 					</tr>
 					<tr>
-						<td><p class="centered">Axure RP</p></td>
+						<td><p>Axure RP</p></td>
 					</tr>
   				</table>
 			</div>

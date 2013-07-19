@@ -34,9 +34,10 @@
 			</div>
 			<div class="span6">
 				<ul>
-					<li><p class="spacer">Desarrollo e integración de funciones de redes sociales en la web móvil y en el backend, para conectar con las apps de iPhone y Android.</p></li>
+					<li><p class="spacer">Desarrollo e integración de funciones de redes sociales (Facebook, Twitter y LinkedIn) en la web móvil y en el backend, para conectar con las apps de iPhone y Android.</p></li>
 					<li><p class="spacer">Desarrollo y mejora de un sistema de notificaciones existente, incluyendo notificaciones por email, SMS y push a iPhone y Android.</p></li>
 					<li><p class="spacer">Ayuda en la mejora del sistema de traducciones para la web móvil.</p></li>
+					<li><p class="spacer">Desarrollo y optimización the otros aspectos del framework propio interno.</p></li>
 				</ul>
 			</div>
 			<div class="span6">
@@ -78,31 +79,37 @@
 		<!-- Tools Used -->
 		<div class="row">
 			<div class="span12">
-				<h3>Herramientas y Metodologías usadas</h3>
+				<h3>Información técnica</h3>
 			</div>
-			<div class="offset4 span4">
+			<div class="offset2 span4">
 				<!-- <img src="http://placehold.it/700x150"> -->
-				<table class="table table-bordered">
+				<table class="table table-bordered table-striped">
 					<tr>
-						<td><p class="centered">PHP</p></td>
+						<td><p>Metodología Ágil (Scrum)</p></td>
 					</tr>
 					<tr>
-						<td><p class="centered">HTML</p></td>
+						<td><p>PHP</p></td>
 					</tr>
 					<tr>
-						<td><p class="centered">CSS</p></td>
+						<td><p>HTML</p></td>
 					</tr>
 					<tr>
-						<td><p class="centered">Git</p></td>
+						<td><p>CSS</p></td>
 					</tr>
 					<tr>
-						<td><p class="centered">Framework basado en <a href="http://ellislab.com/codeigniter">CodeIgniter</a></p></td>
+						<td><p>Git</p></td>
 					</tr>
 					<tr>
-						<td><p class="centered">Peer Review</p></td>
+						<td><p>MySQL</p></td>
 					</tr>
 					<tr>
-						<td><p class="centered">Scrum</p></td>
+						<td><p>Framework basado en <a href="http://ellislab.com/codeigniter">CodeIgniter</a></p></td>
+					</tr>
+					<tr>
+						<td><p>Peer Review</p></td>
+					</tr>
+					<tr>
+						<td><p><a href="http://www.redmine.org/">Redmine</a> (Gestión de proyectos)</p></td>
 					</tr>
   				</table>
 			</div>
