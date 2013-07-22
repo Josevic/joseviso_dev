@@ -1,6 +1,6 @@
 	<header class="jumbotron subhead">
 	  <div class="container">
-	    <h1 style="color:gray">Portfolio</h1>
+	    <h1>Portfolio</h1>
 	  </div>
 	</header>
 

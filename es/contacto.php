@@ -7,7 +7,7 @@
 
 	<header class="jumbotron subhead">
 	  <div class="container">
-	    <h1 style="color:gray">Contacto</h1>
+	    <h1>Contacto</h1>
 	  </div>
 	</header>
 		
