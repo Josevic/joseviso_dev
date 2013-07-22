@@ -13,17 +13,7 @@ body {
 }
 
 @media (min-width: 979px) {
-	.home-active {
-		background-color: orange;
-	}
-
-	.home-active strong{
-		color: white;
-	}
-
-	.navbar .nav .active a, .navbar .nav .active a:hover {
-		background-color: orange;
-	}
+	
 }
 
 @media (max-width: 979px) {
@@ -32,8 +22,9 @@ body {
   }
 }
 
-
-
+.home-active strong {
+	color: white;
+}
 
 
 .spacer {
