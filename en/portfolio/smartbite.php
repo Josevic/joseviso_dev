@@ -30,7 +30,7 @@
 					</div>
 					<div class="span5">
 						<div class="pull-right hidden-phone">
-							<img src="../../images/smartbite.jpg">
+							<img src="../../images/smartbite.jpg" alt="Two screens of the app">
 						</div>
 					</div>
 				</div>
@@ -58,7 +58,7 @@
 				</ul>
 			</div>
 			<div class="span6">
-				<img src="../../images/smartbite_observation.jpg" alt="" />
+				<img src="../../images/smartbite_observation.jpg" alt="Person looking at a paper food chart" />
 				<p class="centered muted">One of the people observed for finding design opportunities.</p>
 			</div>
 		</div>
@@ -88,7 +88,7 @@
 					<li>
 						<p class="spacer">Made sketches of the structure, picked one concrete direction to continue developing the idea and created several alternative <b>rapid prototypes</b> using <a href="http://www.balsamiq.com/">Balsamiq Mockups</a>.<br/>
 							<div class="centered">
-								<img src="../../images/smartbite_lowfidelity2.png" alt="" />
+								<img src="../../images/smartbite_lowfidelity2.png" alt="Low fidelity prototype" />
 							</div>
 						</p>
 					</li>
@@ -98,14 +98,14 @@
 					<li>
 						<p class="spacer">At this moment I was confident of being in the correct direction and that all the most relevant usability problems had been found and fixed. So I created an high-fidelity <b>interactive prototype</b> using <a href="http://www.justinmind.com/">Justinmind</a>.
 							<div class="centered">
-								<img src="../../images/smartbite_highfidelity.png" alt="" />
+								<img src="../../images/smartbite_highfidelity.png" alt="High fidelity prototype images" />
 							</div>
 						</p>
 					</li>
 					<li>
 						<p class="spacer">Later on, I produced an evaluation plan, made <b>User Tests</b> with 3 people using the previously created prototype (and another alternative one to compare), analyzed the results and planned the next design iteration.
 							<div class="centered">
-								<img src="../../images/smartbite_usertest.jpg" alt="" />
+								<img src="../../images/smartbite_usertest.jpg" alt="One of the user tests" />
 							</div>
 						</p>
 					</li>

@@ -30,7 +30,7 @@
 					</div>
 					<div class="span5">
 						<div class="pull-right hidden-phone">
-							<img src="../../images/evacriado_present.png">
+							<img src="../../images/evacriado_present.png" alt="Capture of the home page">
 						</div>
 					</div>
 				</div>
@@ -55,7 +55,7 @@
 							</ul>
 					</div>
 					<div class="span5">
-						<img class="pull-right" src="../../images/moleskine.jpg" alt="" />
+						<img class="pull-right" src="../../images/moleskine.jpg" alt="Photo of a notebook" />
 					</div>
 				</div>
 			</div>
@@ -145,7 +145,7 @@
 									Creation of paper sketches, low, mid and high-fidelity wireframes and prototypes.
 									<div class="centered">
 										<img src="../../images/evacriado_lowfi_wireframes.jpg" alt="Low-fidelity wireframes" />
-										<img class="spacer" src="../../images/evacriado_home_after.jpg" alt="Después" />
+										<img class="spacer" src="../../images/evacriado_home_after.jpg" alt="Homepage redesigned" />
 									</div>
 								</p>
 							</li>

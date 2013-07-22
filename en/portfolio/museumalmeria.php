@@ -28,7 +28,7 @@
 					</div>
 					<div class="span5">
 						<div class="pull-right hidden-phone">
-							<img src="../../images/museoalmeria_front.png">
+							<img src="../../images/museoalmeria_front.png" alt="Image of the kiosk">
 						</div>
 					</div>
 				</div>

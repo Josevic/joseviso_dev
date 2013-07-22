@@ -43,14 +43,14 @@
 					<li>
 						<p><b>Observation</b> in the street of the type of people who become interested in street musicians: approximated age, gender, nationality. Interviews with people who matched that description.</p>
 						<div class="centered">
-							<img src="../../images/streetrockstars_observation.png" alt="" />
+							<img src="../../images/streetrockstars_observation.png" alt="People listening to a street musician" />
 							<p class="centered muted">One of the performances observed.</p>
 						</div>
 					</li>
 					<li>
 						<p class="spacer">Creation of 2 <b>personas</b> (one primary and one secondary) and typical <b>scenarios</b> for each one of them. Generation of a list of necessary functionalities.</p>
 						<div class="centered">
-							<img src="../../images/streetrockstars_persona1.png" alt="Personas" />
+							<img src="../../images/streetrockstars_persona1.png" alt="One of the Personas created" />
 						</div>
 					</li>
 					<li><p class="spacer">Definition of the <b>Information Architecture</b>:</p></li>
@@ -59,13 +59,13 @@
 							<li>
 								<p>Firsts <b>sketches in paper</b> with possible alternative representations. Selected of the most appropriate ones and developed them in more detail.</p>
 								<div class="centered">
-									<img src="../../images/streetrockstars_papersketch.JPG" alt="" />
+									<img src="../../images/streetrockstars_papersketch.JPG" alt="Paper sketch of the home screen" />
 								</div>
 							</li>
 							<li>
 								<p class="spacer">Created <b>wireframes</b> adding more details, using Balsamiq Mockups.</p>
 								<div class="centered">
-									<img src="../../images/streetrockstars_low_fidelity.png" alt="" />
+									<img src="../../images/streetrockstars_low_fidelity.png" alt="Low fidelity wireframe of the home screen" />
 								</div>
 							</li>
 						</ol>
@@ -75,7 +75,7 @@
 					<li>
 						<p class="spacer"><b>Iteration</b> over the prototype until having a version that was intuitive for the users.</p>
 						<div class="centered">
-							<img src="../../images/streetrockstars_high_fidelity.png" alt="" />
+							<img src="../../images/streetrockstars_high_fidelity.png" alt="High fidelity wireframe of the home screen" />
 						</div>
 					</li>
 					<li><p class="spacer">Implementation (TO-DO, at this moment it's live the previous version).</p></li>
