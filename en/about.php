@@ -7,7 +7,7 @@
 
 	<header class="jumbotron subhead">
 	  <div class="container">
-	    <h1 style="color:gray">About</h1>
+	    <h1>About</h1>
 	  </div>
 	</header>
 
@@ -16,11 +16,8 @@
 			
 			<h3>Who I am</h3>
 			<div class="row">
-				<div class="offset1 span4">
-					<img src="../images/jose_about.jpg"/>
-				</div>
-				<div class="span7">
-					<p class="lead spacer">José Viso Vargas</p>
+				<div class="offset1 span5">
+					<p class="lead">José Viso Vargas</p>
 					<p><em>User Experience Designer / Developer</em></p>
 					<p>September 29th, 1984 (28 years old)</p>
 					<p>Living in Almería, Spain</p>
@@ -30,6 +27,9 @@
 					<p>Bachelor of Computer Science<br/>
 					   <em class="muted">(Universidad de Almería)</em>
 					</p>
+				</div>
+				<div class="span4">
+					<img src="../images/jose_about.jpg" alt="Photo of Jose Viso"/>
 				</div>
 			</div>
 			
