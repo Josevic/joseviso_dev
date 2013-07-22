@@ -70,21 +70,21 @@
 		 		);
 		
 		$user_research = array(
-		 			"smartbite" 		 => "SmartBite",
+		 			"streetrockstars" 	 => "Street Rockstars",
 		 			"evacriado" 		 => "Eva Criado",
-		 			"streetrockstars" 	 => "Street Rockstars"
+		 			"smartbite" 		 => "SmartBite"
 		 		);
 
 		$heuristic_evaluation = array(
-		 			"smartbite" 		 => "SmartBite",
-		 			"evacriado" 		 => "Eva Criado"
+		 			"evacriado" 		 => "Eva Criado",
+		 			"smartbite" 		 => "SmartBite"
 		 		);
 
 		$interaction_design = array(
-		 			"smartbite" 		 => "SmartBite",
-		 			"evacriado" 		 => "Eva Criado",
+		 			"streetrockstars" 	 => "Street Rockstars",
 		 			"museoalmeria"       => "Kiosco Museo Almería",
-		 			"streetrockstars" 	 => "Street Rockstars"
+		 			"evacriado" 		 => "Eva Criado",
+		 			"smartbite" 		 => "SmartBite"
 		 		);
 
 		$development = array(
