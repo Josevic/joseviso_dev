@@ -16,7 +16,7 @@
 			
 			<h3>Who I am</h3>
 			<div class="row">
-				<div class="offset1 span5">
+				<div class="offset1 span4">
 					<p class="lead">José Viso Vargas</p>
 					<p><em>User Experience Designer / Developer</em></p>
 					<p>September 29th, 1984 (28 years old)</p>
@@ -37,7 +37,7 @@
 				<div class="row">					
 					<div class="offset1 span11">
 						<div class="row">
-							<div class="span7">
+							<div class="span8">
 								<!-- Explanation of what I do -->
 								<p class="lead">User Centered Design</p>
 								<p>My main goal is to <strong>design software that satisfy the users' needs</strong>, studying their capabilities, motivations and limitations, but considering the client's needs too.</p>
@@ -46,7 +46,7 @@
 							</div>
 						</div>
 						<div class="row">
-							<div class="span5">
+							<div class="span8">
 								<h4 class="spacer">Techniques, Methodologies and Tools I use</h4>
 								<ol>
 									<li>Sketchboard</li>
@@ -57,7 +57,7 @@
 									<li>Storyboarding</li>
 									<li>Sitemap diagrams</li>
 									<li>User flow diagrams</li>
-									<li>Prototyping: paper prototypes, low and high fidelity graphic tools (Balsamiq Mockups, Axure, Justinmind), code prototypes</li>
+									<li>Prototyping: paper prototypes, low and high fidelity graphic tools (Balsamiq Mockups, Axure, Justinmind), code prototypes.</li>
 									<li>Wireframing (OmniGraffle, Fireworks, Photoshop)</li>
 									<li>User tests</li>
 									<li>Iterative Design: (Design - Prototype - Evaluate)</li>
@@ -74,17 +74,21 @@
 						</div>
 
 						<h4 class="spacer">Distinguished Projects I'm involved</h4>
-						<ul>
-							<li><em>Community TA</em> in the <a href="https://www.coursera.org/course/hci">Human-Computer Interaction course</a> by <a href="https://www.coursera.org/">Coursera</a> - Stanford University</li>
-							<li>Founder of <a href="http://streetrockstars.com">Street Rockstars</a></li>
-						</ul>
+						<div class="row">
+							<div class="span8">
+								<ul>
+									<li><em>Community TA</em> in the <a href="https://www.coursera.org/course/hci">Human-Computer Interaction course</a> by <a href="https://www.coursera.org/">Coursera</a> - Stanford University</li>
+									<li>Founder of <a href="http://streetrockstars.com">Street Rockstars</a></li>
+								</ul>
 
-						<h4 class="spacer">Experience</h4>
-						<ul>
-							<li>User Experience Designer / Developer (Almería, Spain - International)</li>
-							<li>Web Developer (Amsterdam, Netherlands)</li>
-							<li>Backend Developer (Almería, Spain)</li>
-						</ul>
+								<h4 class="spacer">Experience</h4>
+								<ul>
+									<li>User Experience Designer / Developer (Almería, Spain - International)</li>
+									<li>Web Developer (Amsterdam, Netherlands)</li>
+									<li>Backend Developer (Almería, Spain)</li>
+								</ul>
+							</div>
+						</div>
 					</div>
 
 			
@@ -93,7 +97,7 @@
 			
 				<h3 class="spacer">Things I like</h3>
 				<div class="row">
-					<div class="offset1 span7">			
+					<div class="offset1 span8">			
 						<p>Sports, Photography, Music, Science, To travel</p>
 						<p class="spacer">One quote that summarizes my way of thinking is:</p>
 						<blockquote class="spacer">

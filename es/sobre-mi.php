@@ -16,7 +16,7 @@
 			
 			<h3>Quién soy</h3>
 			<div class="row">
-				<div class="offset1 span5">
+				<div class="offset1 span4">
 					<p class="lead">José Viso Vargas</p>
 					<p><em>Diseñador / Desarrollador de Experiencia de Usuario</em></p>
 					<p>29 Septiembre 1984 (28 años)</p>
@@ -31,7 +31,7 @@
 					</p>
 				</div>
 				<div class="span4">
-					<img src="../images/jose_about.JPG"/>
+					<img src="../images/jose_about.JPG" alt="Foto de Jose Viso"/>
 				</div>
 			</div>
 			
@@ -40,7 +40,7 @@
 
 					<div class="offset1 span11">
 						<div class="row">
-							<div class="span7">
+							<div class="span8">
 								<!-- Explanation of what I do -->
 								<p class="lead">Diseño Centrado en el Usuario </p>
 								<p>Mi principal objetivo es <b>diseñar software que satisfaga las necesidades de los usuarios</b>, estudiando sus capacidades, motivaciones y limitaciones, pero teniendo en cuenta también las necesidades del cliente.</p>
@@ -49,7 +49,7 @@
 							</div>
 						</div>
 						<div class="row">
-							<div class="span5">
+							<div class="span8">
 								<h4 class="spacer">Técnicas, Metodologías y Herramientas que utilizo</h4>
 							
 								<ol>
@@ -69,32 +69,34 @@
 									<li>Frameworks software y CMSs</li>
 								</ol>
 							</div>
-							<div class="span6">
+							<div class="span8">
 								<!-- Placeholder for image -->			 
 							</div>
 						</div>
 
 						<h4 class="spacer">Proyectos destacados en los que participo</h4>
-						<ul>
-							<li><em>Community TA</em> en el <a href="https://www.coursera.org/course/hci">curso de Interacción Persona-Ordenador</a> de <a href="https://www.coursera.org/">Coursera</a> - Stanford University</li>
-							<li>Creador de <a href="http://streetrockstars.com">Street Rockstars</a></li>
-						</ul>
+						<div class="row">
+							<div class="span8">
+								<ul>
+									<li><em>Community TA</em> en el <a href="https://www.coursera.org/course/hci">curso de Interacción Persona-Ordenador</a> de <a href="https://www.coursera.org/">Coursera</a> - Stanford University</li>
+									<li>Creador de <a href="http://streetrockstars.com">Street Rockstars</a></li>
+								</ul>
 
-						<h4 class="spacer">Experiencia</h4>
-						<ul>
-							<li>Consultor de Experiencia de Usuario (Almería, España - Internacional)</li>
-							<li>Desarrollador web (Ámsterdam, Países Bajos)</li>
-							<li>Desarrollador backend (Almería, España)</li>
-						</ul>
+								<h4 class="spacer">Experiencia</h4>
+								<ul>
+									<li>Consultor de Experiencia de Usuario (Almería, España - Internacional)</li>
+									<li>Desarrollador web (Ámsterdam, Países Bajos)</li>
+									<li>Desarrollador backend (Almería, España)</li>
+								</ul>
+							</div>
+						</div>
 					</div>
-
-			
 
 				</div>
 			
 			<h3 class="spacer">Cosas que me gustan</h3>
 				<div class="row">
-					<div class="offset1 span7">
+					<div class="offset1 span8">
 						<p>Deportes, Fotografía, Música, Ciencia, Viajar</p>
 						<p class="spacer">Una frase que representa muy bien mi filosofía es esta:</p>
 						<blockquote class="spacer">
