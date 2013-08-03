@@ -88,19 +88,19 @@ ul#social_networks_bar .thumbnail, ul#other_sn .thumbnail {
 
  #presentation_desktop {
  	font-size: 9em;
- 	line-height: 1.2em;
+ 	line-height: 1.3em;
  	font-family: helvetica;
  }
 
  #presentation_tablet {
  	font-size: 6.5em;
- 	line-height: 1.2em;
+ 	line-height: 1.4em;
  	font-family: helvetica;
  }
 
  #presentation_phone {
- 	font-size: 3em;
- 	line-height: 1.2em;
+ 	font-size: 2.7em;
+ 	line-height: 1.4em;
  	font-family: helvetica;
 
  }
@@ -117,7 +117,9 @@ ul#social_networks_bar .thumbnail, ul#other_sn .thumbnail {
  }
 
  .big-word {
- 	color: #05c6f2;
+ 	color: white;
+ 	background-color: #05c6f2;
+ 	/* line-height: 1.3em; */
  }
 
 /* 

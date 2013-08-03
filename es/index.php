@@ -8,15 +8,12 @@
 	   <div class="row"> 
 			<div class="span12 visible-desktop">
 				<p class="spacer" id="presentation_desktop">
-					<span class="big-word"><strong>Creo software que a la gente le gusta usar.</strong></span>
-				</p>
-				<p class="pull-right">
-					<a class="lead link_presentation" href="about"><strong>Más info</strong></a>
+					<span class="big-word"><strong>Hago software que a la gente le encanta usar.</strong></span>
 				</p>
 			</div>
 			<div class="span12 visible-tablet">
 				<p id="presentation_tablet">
-					<span class="big-word"><strong>Creo software que a la gente le gusta usar.</strong></span>
+					<span class="big-word"><strong>Hago software que a la gente le encanta usar.</strong></span>
 				</p>
 				<p class="pull-right">
 					<a class="lead link_presentation" href="about"><strong>Más info</strong></a>
@@ -24,7 +21,7 @@
 			</div>
 			<div class="span12 visible-phone">
 				<p id="presentation_phone">
-					<span class="big-word"><strong>Creo software que a la gente le gusta usar.</strong></span>
+					<span class="big-word"><strong>Hago software que a la gente le encanta usar.</strong></span>
 				</p>
 				<p class="pull-right">
 					<a class="link_presentation" href="about"><strong>Más info</strong></a>
