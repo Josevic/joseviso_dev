@@ -4,7 +4,8 @@
  $page_description = "Jose Viso's personal website. User Experience professional. Discover who I am, what I do and what I like.";
 
  include("includes/header.php"); ?>
-
+ 		
+		
 		<div class="row"> 
 			<div class="span12 visible-desktop">
 				<p class="spacer" id="presentation_desktop">
@@ -15,25 +16,27 @@
 				<p id="presentation_tablet">
 					<span class="big-word"><strong>I make software people love to use.</strong></span>
 				</p>
-				<p class="pull-right">
-					<a class="lead link_presentation" href="about"><strong>More info</strong></a>
-				</p>
+				
 			</div>
 			<div class="span12 visible-phone">
 				<p id="presentation_phone">
 					<span class="big-word"><strong>I make software people love to use.</strong></span>
 				</p>
-				<p class="pull-right">
-					<a class="link_presentation" href="about"><strong>More info</strong></a>
-				</p>
+				
 			</div>
 		</div>
-	
+
+		<div class="row">
+			<div class="span12">
+				<p class="spacer lead">User Experience Designer & Developer</p>
+			</div>
+		</div>
   </div> 
 
  <footer>
-	<div class="container spacer">
+	<div class="container">
 		<p class="muted credit">
+			<hr/>
 			<a href="mailto:contact@joseviso.com" title="My email account"><img src="../images/icons/PNG/mail.png" onmouseover="this.src='../images/icons/PNG/mail-hover.png'" onmouseout="this.src='../images/icons/PNG/mail.png'"/></a>&nbsp;
 			<a href="http://facebook.com/joseviso" title="My Facebook page"><img src="../images/icons/PNG/facebook-32.png" onmouseover="this.src='../images/icons/PNG/facebook-hover.png'" onmouseout="this.src='../images/icons/PNG/facebook-32.png'"/></a>&nbsp;
 			<a href="http://twitter.com/XoseViso" title="My Twitter account"><img src="../images/icons/PNG/twitter-32.png" onmouseover="this.src='../images/icons/PNG/twitter-hover.png'" onmouseout="this.src='../images/icons/PNG/twitter-32.png'"/></a>
