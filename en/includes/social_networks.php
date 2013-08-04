@@ -104,5 +104,5 @@
 				</ul>			
 		</div>
 	</div>
-	<button id="button_hide" class="btn btn-large" type="button" style="display:none;">Hide little used accounts</button>	
-	<hr/>
+	<button id="button_hide" class="btn btn-large" type="button" style="display:none; margin-bottom:40px;">Hide little used accounts</button>	
+	
