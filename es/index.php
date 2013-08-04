@@ -15,25 +15,25 @@
 				<p id="presentation_tablet">
 					<span class="big-word"><strong>Hago software que a la gente le encanta usar.</strong></span>
 				</p>
-				<p class="pull-right">
-					<a class="lead link_presentation" href="about"><strong>Más info</strong></a>
-				</p>
 			</div>
 			<div class="span12 visible-phone">
 				<p id="presentation_phone">
 					<span class="big-word"><strong>Hago software que a la gente le encanta usar.</strong></span>
 				</p>
-				<p class="pull-right">
-					<a class="link_presentation" href="about"><strong>Más info</strong></a>
-				</p>
 			</div>
 		</div>
 
+		<div class="row">
+			<div class="span12">
+				<p class="spacer lead">Diseñador de Experiencia de Usuario y Desarrollador</p>
+			</div>
+		</div>
  </div>
 
  <footer>
 	<div class="container spacer">
 		<p class="muted credit">
+			<hr/>
 			<a href="mailto:contacto@joseviso.com" title="Mi correo"><img src="../images/icons/PNG/mail.png" onmouseover="this.src='../images/icons/PNG/mail-hover.png'" onmouseout="this.src='../images/icons/PNG/mail.png'"/></a>&nbsp;
 			<a href="http://facebook.com/joseviso" title="Mi página de Facebook"><img src="../images/icons/PNG/facebook-32.png" onmouseover="this.src='../images/icons/PNG/facebook-hover.png'" onmouseout="this.src='../images/icons/PNG/facebook-32.png'"/></a>&nbsp;
 			<a href="http://twitter.com/XoseViso" title="Mi cuenta de Twitter"><img src="../images/icons/PNG/twitter-32.png" onmouseover="this.src='../images/icons/PNG/twitter-hover.png'" onmouseout="this.src='../images/icons/PNG/twitter-32.png'"/></a>
