@@ -1,31 +1,31 @@
 <?php
 
 	$page_title = "Inicio";
-	$page_description = "Web personal de Jose Viso. Profesional de la Experiencia de Usuario. Descubre quién soy, lo que hago y lo que me gusta.";
+	$page_description = "Web personal de Jose Viso. Diseñador de Interacción. Descubre quién soy, lo que hago y lo que me gusta.";
 
 	include("includes/header.php"); ?>
 	
 	   <div class="row"> 
 			<div class="span12 visible-desktop">
 				<p class="spacer" id="presentation_desktop">
-					<span class="big-word"><strong>Hago software que a la gente le encanta usar.</strong></span>
+					<span class="big-word"><strong>Ideo software que a la gente le encanta usar.</strong></span>
 				</p>
 			</div>
 			<div class="span12 visible-tablet">
 				<p id="presentation_tablet">
-					<span class="big-word"><strong>Hago software que a la gente le encanta usar.</strong></span>
+					<span class="big-word"><strong>Ideo software que a la gente le encanta usar.</strong></span>
 				</p>
 			</div>
 			<div class="span12 visible-phone">
 				<p id="presentation_phone">
-					<span class="big-word"><strong>Hago software que a la gente le encanta usar.</strong></span>
+					<span class="big-word"><strong>Ideo software que a la gente le encanta usar.</strong></span>
 				</p>
 			</div>
 		</div>
 
 		<div class="row">
 			<div class="span12">
-				<p class="spacer lead">Diseñador de Experiencia de Usuario y Desarrollador</p>
+				<p class="spacer lead">Diseñador de Interacción</p>
 			</div>
 		</div>
  </div>
