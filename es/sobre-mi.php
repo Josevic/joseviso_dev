@@ -18,9 +18,9 @@
 			<div class="row">
 				<div class="offset1 span4">
 					<p class="lead">José Viso Vargas</p>
-					<p><em>Diseñador de Experiencia de Usuario y Desarrollador</em></p>
-					<p>29 Septiembre 1984 (28 años)</p>
-					<p>De Almería (España)</p>
+					<p>Diseñador de Interacción</p>
+					<p>29 Septiembre 1984 (29 años)</p>
+					<p>De Almería (España), viviendo en Aberdeen (Reino Unido)</p>
 				</div>
 				<div class="span4">
 					<img src="../images/jose_about.JPG" alt="Foto de Jose Viso"/>
@@ -35,7 +35,7 @@
 							<div class="span8">
 								<!-- Explanation of what I do -->
 								<p class="lead">Diseño Centrado en el Usuario </p>
-								<p>Me dedico a <b>diseñar software que satisfaga las necesidades de los usuarios</b>, estudiando sus capacidades, motivaciones y limitaciones, pero teniendo en cuenta también las necesidades del cliente.</p>
+								<p>Me dedico a <strong>diseñar software que satisfaga las necesidades de los usuarios</strong>, estudiando sus capacidades, motivaciones y limitaciones, <strong>pero teniendo en cuenta también las necesidades del cliente</strong>.</p>
 								<p>Estudié Ingeniería Técnica en Informática de Gestión y desde entonces he estado trabajado en proyectos complejos tanto en España como en el extranjero, desde el análisis de los requisitos de usuario hasta la puesta en producción.</p>
 								<p>Más tarde me he especializado en el campo de la Interacción Persona-Ordenador, que es lo que realmente me apasiona.
 								<p>Puedes encontrar algunas cosas de las que he hecho echando un vistazo a <a href="portfolio">mi portfolio</a>.</p>
@@ -74,6 +74,7 @@
 
 								<h4 class="spacer">Experiencia</h4>
 								<ul>
+									<li>Diseñador de Interacción <small class="muted">Sept 2013 - Presente (Aberdeen, Reino Unido)</small>.</li>
 									<li>Consultor de Experiencia de Usuario <small class="muted">Abr 2012 - Presente (Almería, España)</small>.</li>
 									<li>Desarrollador web <small class="muted">Abr 2011 - Abr 2012 (Ámsterdam, Países Bajos)</small>.</li>
 									<li>Desarrollador backend <small class="muted">May 2008 - Abr 2011 (Almería, España)</small>.</li>
