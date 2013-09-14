@@ -1,7 +1,7 @@
 <?php
 
  $page_title = "Home";
- $page_description = "Jose Viso's personal website. User Experience professional. Discover who I am, what I do and what I like.";
+ $page_description = "Jose Viso's personal website. Interaction Designer. Discover who I am, what I do and what I like.";
 
  include("includes/header.php"); ?>
  		
