@@ -9,18 +9,18 @@
 		<div class="row"> 
 			<div class="span12 visible-desktop">
 				<p class="spacer" id="presentation_desktop">
-					<span class="big-word"><strong>I make software people love to use.</strong></span>
+					<span class="big-word"><strong>I devise software people love to use.</strong></span>
 				</p>
 			</div>
 			<div class="span12 visible-tablet">
 				<p id="presentation_tablet">
-					<span class="big-word"><strong>I make software people love to use.</strong></span>
+					<span class="big-word"><strong>I devise software people love to use.</strong></span>
 				</p>
 				
 			</div>
 			<div class="span12 visible-phone">
 				<p id="presentation_phone">
-					<span class="big-word"><strong>I make software people love to use.</strong></span>
+					<span class="big-word"><strong>I devise software people love to use.</strong></span>
 				</p>
 				
 			</div>
@@ -28,7 +28,7 @@
 
 		<div class="row">
 			<div class="span12">
-				<p class="spacer lead">User Experience Designer & Developer</p>
+				<p class="spacer lead">Interaction Designer</p>
 			</div>
 		</div>
   </div> 
