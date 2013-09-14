@@ -20,7 +20,7 @@
 					<p class="lead">José Viso Vargas</p>
 					<p>Interaction Designer</p>
 					<p>September 29th, 1984 (29 years old)</p>
-					<p>From Almería (Spain)</p>
+					<p>From Almería (Spain), living in Aberdeen (UK)</p>
 				</div>
 				<div class="span4">
 					<img src="../images/jose_about.jpg" alt="Photo of Jose Viso"/>
