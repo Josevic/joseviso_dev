@@ -18,18 +18,9 @@
 			<div class="row">
 				<div class="offset1 span4">
 					<p class="lead">José Viso Vargas</p>
-					<p><em>User Experience Designer & Developer</em></p>
-					<p>September 29th, 1984 (28 years old)</p>
+					<p>Interaction Designer</p>
+					<p>September 29th, 1984 (29 years old)</p>
 					<p>From Almería (Spain)</p>
-					
-					<!--
-					<p>Studying a <a href="http://www.uoc.edu/masters/esp/web/informatica_multimedia_telecomunicacion/interaccion-persona-ordenador/">Human-Computer Interaction Postgraduate degree</a><br/>
-					   <em class="muted">(Universitat Oberta de Catalunya)</em>
-					</p> 
-					<p>Bachelor of Computer Science<br/>
-					   <em class="muted">(Universidad de Almería)</em>
-					</p>
-					-->
 				</div>
 				<div class="span4">
 					<img src="../images/jose_about.jpg" alt="Photo of Jose Viso"/>
@@ -43,7 +34,7 @@
 							<div class="span8">
 								<!-- Explanation of what I do -->
 								<p class="lead">User Centered Design</p>
-								<p>I <strong>design and build software that satisfy the users' needs</strong>, studying their capabilities, motivations and limitations, but considering the client's needs too.</p>
+								<p>I <strong>design software that satisfy the users' needs</strong>, studying their capabilities, motivations and limitations, <strong>but considering the client's needs too</strong>.</p>
 								<p>I graduated in Computer Science, and after that I've been working in complex projects, both in Spain and abroad, from analyzing the user requirements to deploying software.</p>
 								<p>Later I've specialized in Human-Computer Interaction, that is what I'm really passionate about.</p>
 								<p>You can find some of the things I've made taking a look at <a href="portfolio">my portfolio</a>.</p>
@@ -85,6 +76,7 @@
 
 								<h4 class="spacer">Experience</h4>
 								<ul>
+									<li>Interaction Designer <small class="muted">Sep 2013 - Present (Aberdeen, UK)</small>.</li>
 									<li>User Experience Designer & Developer <small class="muted">Apr 2012 - Present (Almería, Spain)</small>.</li>
 									<li>Web Developer <small class="muted">Apr 2011 - Apr 2012 (Amsterdam, Netherlands)</small>.</li>
 									<li>Backend Developer <small class="muted">May 2008 - Apr 2011 (Almería, Spain)</small>.</li>
@@ -100,7 +92,7 @@
 				<h3 class="spacer">Things I like</h3>
 				<div class="row">
 					<div class="offset1 span8">			
-						<p>Sports, Photography, Music, Science, To travel, Food.</p>
+						<p>Sports, Photography, Music, Science, Travelling, Food.</p>
 
 						<blockquote class="spacer">
 							<p>Design should not dominate things. Not dominate people. It should help people.</p>
