@@ -33,7 +33,7 @@
 		        <span class="">Menu</span>
 		        <span class="icon-chevron-down icon-white"></span>
 		    </a>
-	       <a class="brand <?php if (strpos($_SERVER['PHP_SELF'], 'index.php') && !strpos($_SERVER['PHP_SELF'], 'portfolio')) echo 'home-active';?>" href="<?php echo $base; ?>"><strong>José Viso</strong></a>   
+	       <a class="brand <?php if (strpos($_SERVER['PHP_SELF'], 'index.php') && !strpos($_SERVER['PHP_SELF'], 'portfolio')) echo 'home-active';?>" href="<?php echo $base; ?>"><strong>Jose Viso</strong></a>   
 		   
 	       <div class="nav-collapse collapse" id="main-menu">
 		       <ul class="nav">
