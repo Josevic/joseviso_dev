@@ -17,7 +17,7 @@
 			<h3>Who I am</h3>
 			<div class="row">
 				<div class="offset1 span4">
-					<p class="lead">José Viso Vargas</p>
+					<p class="lead">Jose Viso</p>
 					<p>Interaction Designer</p>
 					<p>September 29th, 1984 (29 years old)</p>
 					<p>From Almería (Spain), living in Aberdeen (UK)</p>
