@@ -77,7 +77,7 @@
 								<h4 class="spacer">Experience</h4>
 								<ul>
 									<li>Interaction Designer <small class="muted">Sep 2013 - Present (Aberdeen, UK)</small>.</li>
-									<li>User Experience Designer & Developer <small class="muted">Apr 2012 - Present (Almería, Spain)</small>.</li>
+									<li>User Experience Designer & Developer <small class="muted">Apr 2012 - Sep 2013 (Almería, Spain)</small>.</li>
 									<li>Web Developer <small class="muted">Apr 2011 - Apr 2012 (Amsterdam, Netherlands)</small>.</li>
 									<li>Backend Developer <small class="muted">May 2008 - Apr 2011 (Almería, Spain)</small>.</li>
 								</ul>

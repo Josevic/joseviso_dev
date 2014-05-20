@@ -75,7 +75,7 @@
 								<h4 class="spacer">Experiencia</h4>
 								<ul>
 									<li>Diseñador de Interacción <small class="muted">Sept 2013 - Presente (Aberdeen, Reino Unido)</small>.</li>
-									<li>Consultor de Experiencia de Usuario <small class="muted">Abr 2012 - Presente (Almería, España)</small>.</li>
+									<li>Consultor de Experiencia de Usuario <small class="muted">Abr 2012 - Sept 2013 (Almería, España)</small>.</li>
 									<li>Desarrollador web <small class="muted">Abr 2011 - Abr 2012 (Ámsterdam, Países Bajos)</small>.</li>
 									<li>Desarrollador backend <small class="muted">May 2008 - Abr 2011 (Almería, España)</small>.</li>
 								</ul>
