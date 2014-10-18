@@ -19,7 +19,7 @@
 				<div class="offset1 span4">
 					<p class="lead">José Viso Vargas</p>
 					<p>Diseñador de Interacción</p>
-					<p>29 Septiembre 1984 (29 años)</p>
+					<p>29 Septiembre 1984 (30 años)</p>
 					<p>De Almería (España), viviendo en Aberdeen (Reino Unido)</p>
 				</div>
 				<div class="span4">
