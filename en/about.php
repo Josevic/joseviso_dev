@@ -19,7 +19,7 @@
 				<div class="offset1 span4">
 					<p class="lead">Jose Viso</p>
 					<p>Interaction Designer</p>
-					<p>September 29th, 1984 (29 years old)</p>
+					<p>September 29th, 1984 (30 years old)</p>
 					<p>From Almería (Spain), living in Aberdeen (UK)</p>
 				</div>
 				<div class="span4">
